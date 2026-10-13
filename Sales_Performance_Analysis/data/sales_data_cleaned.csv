@@ -1,0 +1,1601 @@
+Order_ID,Order_Date,Region,Category,Product,Segment,Sales_Channel,Quantity,Unit_Price,Discount_Pct,Sales,Cost,Profit,Invalid_Quantity,Duplicate_Order_ID,Data_Quality_Flag
+ORD000001,2026-05-31,East,Office Supplies,Storage Box,Consumer,Partner,1,24.6,0.0,24.6,19.74,4.86,False,False,Valid
+ORD000002,2025-08-20,West,Furniture,Desk,Enterprise,Partner,1,302.6,0.05,287.47,232.77,54.7,False,False,Valid
+ORD000003,2026-09-07,East,Technology,Monitor,Enterprise,Retail,1,236.47,0.0,236.47,187.66,48.81,False,False,Valid
+ORD000004,2025-06-30,West,Furniture,Bookshelf,Consumer,Retail,3,154.29,0.1,416.58,315.02,101.56,False,False,Valid
+ORD000005,2026-04-03,South,Technology,Monitor,Small Business,Partner,1,232.17,0.0,232.17,193.88,38.29,False,False,Valid
+ORD000006,2025-02-08,North,Office Supplies,Paper Pack,Small Business,Online,4,8.4,0.2,26.88,21.49,5.39,False,False,Valid
+ORD000007,2026-07-25,West,Office Supplies,Binder,Small Business,Retail,1,24.95,0.0,24.95,15.09,9.86,False,False,Valid
+ORD000008,2026-04-01,Central,Furniture,Desk,Consumer,Retail,7,390.83,0.0,2735.81,1976.34,759.47,False,False,Valid
+ORD000009,2025-02-14,East,Office Supplies,Storage Box,Small Business,Online,6,37.13,0.2,178.22,152.61,25.61,False,False,Valid
+ORD000010,2025-01-12,Central,Office Supplies,Binder,Consumer,Retail,6,22.58,0.1,121.93,110.46,11.47,False,False,Valid
+ORD000011,2025-08-09,South,Office Supplies,Pens,Consumer,Partner,7,7.64,0.1,48.13,37.38,10.75,False,False,Valid
+ORD000012,2025-04-17,West,Technology,Headphones,Enterprise,Partner,3,126.15,0.1,340.61,245.49,95.12,False,False,Valid
+ORD000013,2025-04-04,East,Technology,Monitor,Enterprise,Retail,8,269.85,0.15,1834.98,1522.73,312.25,False,False,Valid
+ORD000014,2025-10-05,East,Office Supplies,Binder,Small Business,Partner,4,4.03,0.0,16.12,11.54,4.58,False,False,Valid
+ORD000015,2026-04-28,North,Furniture,Office Chair,Consumer,Retail,4,273.91,0.15,931.29,741.94,189.35,False,False,Valid
+ORD000016,2026-05-20,Unknown,Technology,Headphones,Consumer,Online,1,111.26,0.0,111.26,83.29,27.97,False,False,Needs Attention
+ORD000017,2026-06-02,East,Technology,Monitor,Enterprise,Retail,3,253.3,0.05,721.91,470.59,251.32,False,False,Valid
+ORD000018,2025-03-17,East,Technology,Laptop,Consumer,Retail,7,952.3,0.2,5332.88,4525.35,807.53,False,False,Valid
+ORD000019,2025-07-03,North,Office Supplies,Storage Box,Small Business,Retail,7,16.85,0.0,117.95,86.46,31.49,False,False,Valid
+ORD000020,2026-08-29,South,Technology,Headphones,Small Business,Online,5,124.39,0.2,497.56,408.58,88.98,False,False,Valid
+ORD000021,2026-01-15,East,Furniture,Bookshelf,Consumer,Online,2,143.56,0.1,258.41,245.58,12.83,False,False,Valid
+ORD000022,2026-03-08,West,Technology,Monitor,Small Business,Retail,2,147.64,0.05,280.52,230.39,50.13,False,False,Valid
+ORD000023,2025-04-19,North,Furniture,Bookshelf,Consumer,Partner,6,205.29,0.1,1108.57,792.4,316.17,False,False,Valid
+ORD000024,2025-08-10,East,Office Supplies,Storage Box,Consumer,Retail,3,25.95,0.05,73.96,49.13,24.83,False,False,Valid
+ORD000025,2026-06-25,Central,Office Supplies,Binder,Consumer,Retail,4,26.78,0.2,85.7,85.37,0.33,False,False,Valid
+ORD000026,2025-12-05,Central,Office Supplies,Binder,Small Business,Partner,6,23.94,0.0,143.64,99.6,44.04,False,False,Valid
+ORD000027,2026-01-30,North,Technology,Monitor,Small Business,Online,1,418.16,0.1,376.34,293.01,83.33,False,False,Valid
+ORD000028,2026-07-17,West,Furniture,Desk,Enterprise,Partner,5,330.34,0.0,1651.7,1107.31,544.39,False,False,Valid
+ORD000029,2026-01-05,Central,Office Supplies,Storage Box,Consumer,Partner,4,43.8,0.2,140.16,106.65,33.51,False,False,Valid
+ORD000030,2025-02-05,North,Office Supplies,Paper Pack,Enterprise,Partner,3,15.24,0.1,41.15,36.4,4.75,False,False,Valid
+ORD000031,2026-07-25,South,Technology,Laptop,Consumer,Online,3,918.54,0.15,2342.28,1951.62,390.66,False,False,Valid
+ORD000032,2025-09-09,North,Furniture,Lamp,Enterprise,Retail,3,26.18,0.1,70.69,58.71,11.98,False,False,Valid
+ORD000033,2025-10-14,East,Furniture,Bookshelf,Consumer,Retail,7,105.7,0.15,628.91,459.14,169.77,False,False,Valid
+ORD000034,2025-11-12,Central,Office Supplies,Storage Box,Enterprise,Online,7,12.91,0.0,90.37,77.23,13.14,False,False,Valid
+ORD000035,2026-02-28,East,Technology,Headphones,Enterprise,Partner,6,107.89,0.0,647.34,410.65,236.69,False,False,Valid
+ORD000036,2025-09-30,West,Furniture,Office Chair,Small Business,Online,7,114.31,0.2,640.14,499.41,140.73,False,False,Valid
+ORD000037,2025-02-11,West,Technology,Monitor,Consumer,Online,7,200.4,0.15,1192.38,1113.82,78.56,False,False,Valid
+ORD000038,2025-04-20,South,Furniture,Office Chair,Small Business,Partner,5,309.91,0.05,1472.07,1269.2,202.87,False,False,Valid
+ORD000039,2025-07-27,North,Technology,Laptop,Small Business,Retail,8,909.61,0.15,6185.35,5606.86,578.49,False,False,Valid
+ORD000040,2026-07-31,South,Furniture,Office Chair,Enterprise,Online,6,295.33,0.1,1594.78,1206.44,388.34,False,False,Valid
+ORD000041,2025-12-05,East,Technology,Laptop,Consumer,Online,5,1211.0,0.15,5146.75,3768.57,1378.18,False,False,Valid
+ORD000042,2026-07-05,South,Furniture,Lamp,Small Business,Retail,1,24.28,0.2,19.42,15.96,3.46,False,False,Valid
+ORD000043,2026-05-09,West,Furniture,Bookshelf,Small Business,Online,1,165.98,0.0,165.98,123.51,42.47,False,False,Valid
+ORD000044,2026-02-10,North,Office Supplies,Binder,Enterprise,Partner,6,6.75,0.15,34.42,28.88,5.54,False,False,Valid
+ORD000045,2025-10-26,East,Office Supplies,Storage Box,Small Business,Retail,3,37.55,0.0,112.65,93.34,19.31,False,False,Valid
+ORD000046,2026-02-04,North,Furniture,Bookshelf,Small Business,Partner,3,67.68,0.2,162.43,135.76,26.67,False,False,Valid
+ORD000047,2025-07-01,West,Furniture,Lamp,Small Business,Partner,8,73.07,0.2,467.65,369.63,98.02,False,False,Valid
+ORD000048,2026-09-06,North,Technology,Keyboard,Enterprise,Retail,4,38.44,0.05,146.07,130.04,16.03,False,False,Valid
+ORD000049,2026-04-11,South,Furniture,Desk,Consumer,Retail,2,283.13,0.15,481.32,472.69,8.63,False,False,Valid
+ORD000050,2025-08-19,South,Office Supplies,Binder,Consumer,Retail,6,19.19,0.0,115.14,73.2,41.94,False,False,Valid
+ORD000051,2026-08-05,East,Furniture,Desk,Enterprise,Partner,2,468.0,0.15,795.6,633.83,161.77,False,False,Valid
+ORD000052,2025-07-16,East,Office Supplies,Paper Pack,Consumer,Partner,8,12.73,0.0,101.84,87.4,14.44,False,False,Valid
+ORD000053,2025-06-13,West,Technology,Headphones,Enterprise,Retail,8,58.77,0.2,376.13,330.66,45.47,False,False,Valid
+ORD000054,2026-07-30,North,Technology,Laptop,Enterprise,Online,6,1094.34,0.15,5581.13,5177.35,403.78,False,False,Valid
+ORD000055,2026-08-28,North,Office Supplies,Paper Pack,Consumer,Retail,7,19.32,0.15,114.95,83.01,31.94,False,False,Valid
+ORD000056,2026-06-05,Central,Technology,Headphones,Enterprise,Partner,6,145.42,0.0,872.52,732.44,140.08,False,False,Valid
+ORD000057,2026-06-27,South,Office Supplies,Binder,Consumer,Partner,7,9.24,0.05,61.45,53.16,8.29,False,False,Valid
+ORD000058,2025-01-21,West,Furniture,Office Chair,Small Business,Partner,3,242.26,0.0,726.78,543.24,183.54,False,False,Valid
+ORD000059,2025-02-17,West,Office Supplies,Binder,Enterprise,Online,4,9.37,0.2,29.98,27.28,2.7,False,False,Valid
+ORD000060,2025-06-18,South,Furniture,Office Chair,Consumer,Retail,5,288.99,0.0,1444.95,1133.99,310.96,False,False,Valid
+ORD000061,2026-05-20,North,Technology,Headphones,Enterprise,Online,3,113.99,0.15,290.67,255.66,35.01,False,False,Valid
+ORD000062,2025-07-28,North,Furniture,Desk,Consumer,Online,8,479.02,0.2,3065.73,3068.03,-2.3,False,False,Valid
+ORD000063,2025-01-29,South,Furniture,Lamp,Small Business,Retail,6,78.75,0.0,472.5,359.11,113.39,False,False,Valid
+ORD000064,2025-04-09,South,Technology,Headphones,Enterprise,Online,2,81.53,0.1,146.75,131.99,14.76,False,False,Valid
+ORD000065,2026-09-03,East,Furniture,Desk,Consumer,Partner,5,327.79,0.0,1638.95,1189.91,449.04,False,False,Valid
+ORD000066,2026-09-13,North,Technology,Monitor,Small Business,Partner,7,290.71,0.2,1627.98,1310.76,317.22,False,False,Valid
+ORD000067,2026-05-19,Central,Technology,Headphones,Consumer,Partner,5,83.06,0.2,332.24,286.31,45.93,False,False,Valid
+ORD000068,2025-05-18,East,Technology,Keyboard,Enterprise,Retail,4,18.8,0.0,75.2,51.36,23.84,False,False,Valid
+ORD000069,2026-02-24,Central,Furniture,Desk,Enterprise,Partner,6,428.74,0.1,2315.2,2178.09,137.11,False,False,Valid
+ORD000070,2025-05-16,South,Furniture,Bookshelf,Enterprise,Retail,6,186.23,0.05,1061.51,877.61,183.9,False,False,Valid
+ORD000071,2025-12-05,Central,Office Supplies,Binder,Consumer,Partner,7,9.97,0.1,62.81,56.98,5.83,False,False,Valid
+ORD000072,2025-02-15,Central,Furniture,Lamp,Small Business,Online,8,49.23,0.1,354.46,315.55,38.91,False,False,Valid
+ORD000073,2025-01-21,North,Technology,Keyboard,Enterprise,Partner,8,70.73,0.0,565.84,444.4,121.44,False,False,Valid
+ORD000074,2025-05-02,Central,Technology,Headphones,Enterprise,Partner,6,121.14,0.15,617.81,445.18,172.63,False,False,Valid
+ORD000075,2026-07-09,West,Furniture,Lamp,Enterprise,Partner,4,51.94,0.1,186.98,159.3,27.68,False,False,Valid
+ORD000076,2025-10-10,North,Technology,Monitor,Enterprise,Partner,6,390.12,0.0,2340.72,1947.83,392.89,False,False,Valid
+ORD000077,2025-07-05,South,Furniture,Desk,Enterprise,Partner,6,343.87,0.2,1650.58,1359.82,290.76,False,False,Valid
+ORD000078,2026-07-21,South,Technology,Laptop,Enterprise,Partner,5,763.52,0.1,3435.84,3098.28,337.56,False,False,Valid
+ORD000079,2025-11-19,North,Furniture,Desk,Enterprise,Partner,5,127.38,0.05,605.05,399.04,206.01,False,False,Valid
+ORD000080,2025-07-29,West,Furniture,Office Chair,Consumer,Partner,2,192.13,0.1,345.83,276.54,69.29,False,False,Valid
+ORD000081,2026-02-04,Central,Office Supplies,Pens,Consumer,Partner,3,3.96,0.2,9.5,7.83,1.67,False,False,Valid
+ORD000082,2025-11-07,East,Office Supplies,Paper Pack,Consumer,Online,5,12.43,0.0,62.15,53.29,8.86,False,False,Valid
+ORD000083,2026-04-30,Central,Office Supplies,Pens,Enterprise,Online,6,6.3,0.05,35.91,23.07,12.84,False,False,Valid
+ORD000084,2025-11-12,Central,Furniture,Desk,Enterprise,Retail,4,482.54,0.15,1640.64,1536.77,103.87,False,False,Valid
+ORD000085,2026-08-26,West,Technology,Laptop,Enterprise,Online,5,1025.74,0.2,4102.96,3809.0,293.96,False,False,Valid
+ORD000086,2025-12-13,East,Furniture,Desk,Consumer,Online,7,234.55,0.15,1395.57,1073.46,322.11,False,False,Valid
+ORD000087,2025-05-15,West,Office Supplies,Pens,Enterprise,Retail,4,10.62,0.0,42.48,28.73,13.75,False,False,Valid
+ORD000088,2025-11-12,East,Office Supplies,Pens,Small Business,Online,8,2.81,0.2,17.98,13.6,4.38,False,False,Valid
+ORD000089,2025-02-16,North,Furniture,Lamp,Enterprise,Retail,5,79.27,0.2,317.08,323.48,-6.4,False,False,Valid
+ORD000090,2025-11-20,West,Furniture,Lamp,Small Business,Partner,3,18.96,0.0,56.88,47.71,9.17,False,False,Valid
+ORD000091,2026-07-05,Central,Furniture,Office Chair,Consumer,Partner,1,184.22,0.0,184.22,141.68,42.54,False,False,Valid
+ORD000092,2026-02-18,South,Furniture,Lamp,Enterprise,Online,8,19.74,0.15,134.23,104.35,29.88,False,False,Valid
+ORD000093,2025-06-27,Central,Technology,Headphones,Enterprise,Online,1,109.19,0.1,98.27,79.11,19.16,False,False,Valid
+ORD000094,2025-09-21,West,Furniture,Lamp,Enterprise,Retail,7,65.73,0.0,460.11,312.58,147.53,False,False,Valid
+ORD000095,2026-02-25,West,Technology,Monitor,Small Business,Partner,4,186.85,0.15,635.29,579.18,56.11,False,False,Valid
+ORD000096,2025-05-28,South,Technology,Headphones,Enterprise,Partner,7,63.22,0.0,442.54,376.68,65.86,False,False,Valid
+ORD000097,2025-11-19,North,Technology,Keyboard,Consumer,Partner,5,38.48,0.2,153.92,140.05,13.87,False,False,Valid
+ORD000098,2026-04-23,North,Technology,Laptop,Consumer,Retail,8,737.48,0.0,5899.84,4264.99,1634.85,False,False,Valid
+ORD000099,2026-01-07,West,Technology,Headphones,Enterprise,Partner,2,96.76,0.1,174.17,152.4,21.77,False,False,Valid
+ORD000100,2025-05-06,West,Office Supplies,Paper Pack,Small Business,Retail,3,7.85,0.0,23.55,16.98,6.57,False,False,Valid
+ORD000101,2026-01-16,East,Technology,Monitor,Enterprise,Retail,3,205.13,0.0,615.39,386.48,228.91,False,False,Valid
+ORD000102,2026-01-06,West,Office Supplies,Paper Pack,Consumer,Partner,4,21.09,0.0,84.36,57.76,26.6,False,False,Valid
+ORD000103,2025-02-05,East,Technology,Monitor,Small Business,Online,8,295.79,0.2,1893.06,1868.77,24.29,False,False,Valid
+ORD000104,2025-01-21,West,Technology,Laptop,Enterprise,Retail,4,1003.65,0.1,3613.14,3087.94,525.2,False,False,Valid
+ORD000105,2025-12-02,West,Furniture,Lamp,Enterprise,Online,3,21.69,0.15,55.31,44.92,10.39,False,False,Valid
+ORD000106,2025-09-11,Central,Furniture,Lamp,Enterprise,Partner,5,85.99,0.15,365.46,258.11,107.35,False,False,Valid
+ORD000107,2025-06-25,East,Technology,Laptop,Enterprise,Retail,1,991.06,0.1,891.95,750.13,141.82,False,False,Valid
+ORD000108,2026-04-19,North,Technology,Laptop,Consumer,Online,2,1145.8,0.1,2062.44,1377.93,684.51,False,False,Valid
+ORD000109,2026-01-01,East,Furniture,Bookshelf,Enterprise,Partner,6,90.51,0.1,488.75,440.74,48.01,False,False,Valid
+ORD000110,2025-03-18,North,Technology,Monitor,Small Business,Online,2,143.2,0.0,286.4,196.52,89.88,False,False,Valid
+ORD000111,2025-05-19,West,Office Supplies,Binder,Enterprise,Retail,7,18.63,0.05,123.89,103.05,20.84,False,False,Valid
+ORD000112,2026-03-19,Central,Office Supplies,Paper Pack,Consumer,Partner,4,17.95,0.15,61.03,56.35,4.68,False,False,Valid
+ORD000113,2025-02-12,South,Technology,Monitor,Enterprise,Online,8,403.44,0.05,3066.14,2155.1,911.04,False,False,Valid
+ORD000114,2026-04-25,West,Office Supplies,Paper Pack,Small Business,Retail,4,10.8,0.1,38.88,31.96,6.92,False,False,Valid
+ORD000115,2026-06-06,South,Technology,Laptop,Enterprise,Online,5,931.89,0.2,3727.56,3972.47,-244.91,False,False,Valid
+ORD000116,2025-09-01,South,Technology,Laptop,Consumer,Partner,6,767.67,0.0,4606.02,3634.73,971.29,False,False,Valid
+ORD000117,2026-03-19,North,Office Supplies,Binder,Consumer,Partner,8,10.45,0.05,79.42,68.65,10.77,False,False,Valid
+ORD000118,2026-08-07,Central,Furniture,Bookshelf,Consumer,Partner,1,194.98,0.05,185.23,164.59,20.64,False,False,Valid
+ORD000119,2025-06-06,Central,Office Supplies,Pens,Small Business,Partner,5,14.89,0.05,70.73,48.09,22.64,False,False,Valid
+ORD000120,2025-02-14,South,Office Supplies,Storage Box,Small Business,Retail,4,9.0,0.0,36.0,22.73,13.27,False,False,Valid
+ORD000121,2025-01-30,North,Office Supplies,Storage Box,Small Business,Retail,2,36.45,0.0,72.9,45.6,27.3,False,False,Valid
+ORD000122,2025-08-21,Central,Furniture,Lamp,Consumer,Partner,6,63.72,0.0,382.32,309.16,73.16,False,False,Valid
+ORD000123,2026-01-09,North,Office Supplies,Binder,Enterprise,Retail,3,10.15,0.1,27.41,24.14,3.27,False,False,Valid
+ORD000124,2025-12-09,West,Technology,Headphones,Enterprise,Partner,7,139.55,0.0,976.85,679.72,297.13,False,False,Valid
+ORD000125,2026-06-25,East,Technology,Laptop,Consumer,Partner,1,701.31,0.1,631.18,498.74,132.44,False,False,Valid
+ORD000126,2025-12-23,East,Technology,Headphones,Enterprise,Online,5,140.06,0.0,700.3,469.05,231.25,False,False,Valid
+ORD000127,2025-07-12,North,Furniture,Desk,Enterprise,Partner,2,393.38,0.0,786.76,573.71,213.05,False,False,Valid
+ORD000128,2025-02-18,Central,Furniture,Office Chair,Consumer,Partner,6,324.11,0.2,1555.73,1665.34,-109.61,False,False,Valid
+ORD000129,2026-06-09,North,Furniture,Office Chair,Small Business,Retail,2,244.95,0.2,391.92,417.07,-25.15,False,False,Valid
+ORD000130,2026-02-27,East,Furniture,Desk,Consumer,Partner,2,443.98,0.0,887.96,661.03,226.93,False,False,Valid
+ORD000131,2025-06-23,North,Technology,Laptop,Enterprise,Retail,-1,945.27,0.2,3781.08,3549.85,231.23,True,False,Needs Attention
+ORD000132,2025-10-09,West,Furniture,Office Chair,Enterprise,Online,5,171.76,0.15,729.98,620.56,109.42,False,False,Valid
+ORD000133,2026-02-17,North,Technology,Keyboard,Small Business,Retail,3,17.44,0.0,52.32,35.71,16.61,False,False,Valid
+ORD000134,2025-02-16,South,Furniture,Office Chair,Consumer,Partner,1,130.12,0.2,104.1,108.29,-4.19,False,False,Valid
+ORD000135,2025-04-20,South,Furniture,Bookshelf,Small Business,Retail,1,214.1,0.0,214.1,147.47,66.63,False,False,Valid
+ORD000136,2025-06-05,East,Office Supplies,Paper Pack,Small Business,Partner,2,15.0,0.0,30.0,24.37,5.63,False,False,Valid
+ORD000137,2026-08-12,East,Technology,Monitor,Small Business,Partner,1,236.85,0.1,213.16,157.32,55.84,False,False,Valid
+ORD000138,2026-05-17,West,Furniture,Office Chair,Enterprise,Retail,8,318.73,0.2,2039.87,1583.51,456.36,False,False,Valid
+ORD000139,2026-04-03,South,Technology,Keyboard,Consumer,Partner,5,18.02,0.15,76.58,69.7,6.88,False,False,Valid
+ORD000140,2025-03-02,Central,Furniture,Bookshelf,Small Business,Partner,3,144.16,0.2,345.98,300.6,45.38,False,False,Valid
+ORD000141,2026-03-30,South,Furniture,Desk,Consumer,Partner,8,327.31,0.2,2094.78,1650.91,443.87,False,False,Valid
+ORD000142,2026-07-13,West,Technology,Laptop,Small Business,Online,2,1199.43,0.1,2158.97,1484.45,674.52,False,False,Valid
+ORD000143,2025-10-12,East,Technology,Laptop,Consumer,Online,1,840.53,0.0,840.53,617.54,222.99,False,False,Valid
+ORD000144,2026-08-28,West,Technology,Laptop,Small Business,Online,2,770.52,0.0,1541.04,1154.96,386.08,False,False,Valid
+ORD000145,2025-03-01,West,Furniture,Lamp,Enterprise,Online,8,71.34,0.05,542.18,401.1,141.08,False,False,Valid
+ORD000146,2026-02-02,Central,Furniture,Bookshelf,Consumer,Partner,2,156.27,0.0,312.54,249.67,62.87,False,False,Valid
+ORD000147,2025-01-04,West,Technology,Headphones,Consumer,Retail,5,148.79,0.15,632.36,630.16,2.2,False,False,Valid
+ORD000148,2025-09-22,Central,Office Supplies,Pens,Small Business,Retail,3,5.9,0.1,15.93,11.41,4.52,False,False,Valid
+ORD000149,2025-09-30,South,Furniture,Bookshelf,Small Business,Retail,6,91.71,0.1,495.23,441.69,53.54,False,False,Valid
+ORD000150,2025-07-04,West,Office Supplies,Paper Pack,Enterprise,Online,6,19.88,0.15,101.39,95.49,5.9,False,False,Valid
+ORD000151,2025-04-23,East,Furniture,Desk,Enterprise,Retail,8,485.75,0.0,3886.0,2922.2,963.8,False,False,Valid
+ORD000152,2025-01-07,North,Technology,Laptop,Small Business,Retail,2,918.63,0.2,1469.81,1314.57,155.24,False,False,Valid
+ORD000153,2025-07-02,East,Office Supplies,Pens,Small Business,Online,2,9.85,0.0,19.7,12.37,7.33,False,False,Valid
+ORD000154,2025-08-16,East,Technology,Keyboard,Consumer,Partner,6,87.51,0.15,446.3,355.12,91.18,False,False,Valid
+ORD000155,2025-10-06,East,Office Supplies,Paper Pack,Consumer,Online,3,12.77,0.05,36.39,28.94,7.45,False,False,Valid
+ORD000156,2025-12-15,South,Furniture,Office Chair,Small Business,Retail,7,337.62,0.0,2363.34,1917.11,446.23,False,False,Valid
+ORD000157,2025-05-09,Central,Technology,Monitor,Small Business,Partner,2,208.71,0.1,375.68,315.37,60.31,False,False,Valid
+ORD000158,2025-04-01,Central,Technology,Headphones,Enterprise,Online,5,108.63,0.0,543.15,404.59,138.56,False,False,Valid
+ORD000159,2025-07-22,North,Technology,Laptop,Enterprise,Online,5,823.67,0.15,3500.6,2558.72,941.88,False,False,Valid
+ORD000160,2026-07-04,Central,Furniture,Desk,Consumer,Partner,4,176.21,0.15,599.11,433.71,165.4,False,False,Valid
+ORD000161,2025-10-22,Central,Office Supplies,Pens,Enterprise,Retail,3,9.5,0.2,22.8,19.12,3.68,False,False,Valid
+ORD000162,2025-05-10,South,Furniture,Lamp,Consumer,Retail,5,23.93,0.1,107.69,101.85,5.84,False,False,Valid
+ORD000163,2025-04-08,West,Technology,Laptop,Enterprise,Online,6,1158.38,0.0,6950.28,4265.62,2684.66,False,False,Valid
+ORD000164,2025-03-28,Central,Furniture,Bookshelf,Enterprise,Retail,5,65.29,0.0,326.45,251.48,74.97,False,False,Valid
+ORD000165,2025-12-29,West,Furniture,Lamp,Small Business,Retail,3,56.41,0.1,152.31,120.8,31.51,False,False,Valid
+ORD000166,2026-07-23,East,Technology,Keyboard,Consumer,Retail,4,26.92,0.0,107.68,77.47,30.21,False,False,Valid
+ORD000167,2026-07-21,South,Furniture,Bookshelf,Small Business,Partner,1,199.97,0.15,169.97,147.34,22.63,False,False,Valid
+ORD000168,2025-06-16,Central,Office Supplies,Pens,Small Business,Retail,8,2.99,0.15,20.33,19.34,0.99,False,False,Valid
+ORD000169,2025-12-03,Central,Furniture,Lamp,Enterprise,Partner,7,75.01,0.0,525.07,434.34,90.73,False,False,Valid
+ORD000170,2025-11-19,North,Office Supplies,Binder,Consumer,Partner,3,5.21,0.0,15.63,11.61,4.02,False,False,Valid
+ORD000171,2026-06-24,East,Technology,Laptop,Small Business,Partner,4,1165.51,0.15,3962.73,2895.05,1067.68,False,False,Valid
+ORD000172,2025-11-12,North,Office Supplies,Pens,Consumer,Retail,5,12.66,0.15,53.8,53.51,0.29,False,False,Valid
+ORD000173,2025-07-20,North,Office Supplies,Binder,Small Business,Partner,6,20.06,0.05,114.34,100.43,13.91,False,False,Valid
+ORD000174,2026-07-16,West,Technology,Keyboard,Small Business,Retail,5,27.01,0.15,114.79,82.11,32.68,False,False,Valid
+ORD000175,2025-12-30,Central,Office Supplies,Paper Pack,Enterprise,Partner,8,4.09,0.0,32.72,22.1,10.62,False,False,Valid
+ORD000176,2026-04-18,Central,Office Supplies,Paper Pack,Consumer,Online,6,16.95,0.05,96.61,68.48,28.13,False,False,Valid
+ORD000177,2026-06-13,North,Technology,Monitor,Small Business,Partner,8,321.81,0.05,2445.76,1648.7,797.06,False,False,Valid
+ORD000178,2025-01-28,Unknown,Technology,Monitor,Enterprise,Partner,5,414.68,0.05,1969.73,1696.88,272.85,False,False,Needs Attention
+ORD000179,2025-01-06,North,Technology,Keyboard,Consumer,Online,1,62.51,0.0,62.51,42.7,19.81,False,False,Valid
+ORD000180,2025-02-17,Central,Technology,Keyboard,Consumer,Retail,7,20.88,0.0,146.16,104.96,41.2,False,False,Valid
+ORD000181,2025-08-05,Central,Furniture,Desk,Consumer,Partner,8,477.48,0.2,3055.87,2408.24,647.63,False,False,Valid
+ORD000182,2025-06-08,West,Office Supplies,Paper Pack,Small Business,Online,4,10.64,0.1,38.3,28.75,9.55,False,False,Valid
+ORD000183,2025-11-20,South,Furniture,Desk,Consumer,Partner,4,314.46,0.2,1006.27,1039.38,-33.11,False,False,Valid
+ORD000184,2025-01-01,Central,Office Supplies,Pens,Consumer,Retail,4,3.06,0.1,11.02,7.98,3.04,False,False,Valid
+ORD000185,2026-08-22,West,Furniture,Office Chair,Small Business,Online,8,202.25,0.0,1618.0,1117.24,500.76,False,False,Valid
+ORD000186,2026-08-17,East,Office Supplies,Paper Pack,Consumer,Online,6,10.62,0.15,54.16,43.08,11.08,False,False,Valid
+ORD000187,2025-12-27,South,Technology,Headphones,Enterprise,Retail,5,72.71,0.15,309.02,306.52,2.5,False,False,Valid
+ORD000188,2025-01-01,Central,Office Supplies,Binder,Small Business,Retail,3,4.8,0.15,12.24,10.84,1.4,False,False,Valid
+ORD000189,2026-05-26,East,Office Supplies,Storage Box,Consumer,Online,3,11.27,0.1,30.43,25.9,4.53,False,False,Valid
+ORD000190,2025-12-15,Central,Technology,Headphones,Consumer,Partner,1,157.89,0.15,134.21,102.74,31.47,False,False,Valid
+ORD000191,2025-09-03,South,Technology,Monitor,Small Business,Retail,3,393.81,0.1,1063.29,709.79,353.5,False,False,Valid
+ORD000192,2025-09-16,West,Office Supplies,Binder,Consumer,Online,7,11.94,0.1,75.22,58.36,16.86,False,False,Valid
+ORD000193,2025-08-30,South,Office Supplies,Paper Pack,Small Business,Partner,8,17.08,0.05,129.81,89.79,40.02,False,False,Valid
+ORD000194,2026-03-06,South,Technology,Laptop,Consumer,Online,1,1191.17,0.0,1191.17,737.33,453.84,False,False,Valid
+ORD000195,2026-02-24,Central,Furniture,Bookshelf,Consumer,Partner,1,98.54,0.2,78.83,76.84,1.99,False,False,Valid
+ORD000196,2025-09-13,West,Technology,Laptop,Consumer,Partner,5,709.39,0.05,3369.6,2181.4,1188.2,False,False,Valid
+ORD000197,2025-09-21,South,Technology,Keyboard,Consumer,Retail,4,44.62,0.0,178.48,116.88,61.6,False,False,Valid
+ORD000198,2025-06-04,Central,Technology,Headphones,Enterprise,Partner,3,145.7,0.0,437.1,371.14,65.96,False,False,Valid
+ORD000199,2025-05-20,Central,Technology,Headphones,Enterprise,Retail,8,131.09,0.2,838.98,687.39,151.59,False,False,Valid
+ORD000200,2025-05-18,East,Technology,Laptop,Consumer,Partner,5,972.85,0.2,3891.4,4005.7,-114.3,False,False,Valid
+ORD000201,2025-07-08,South,Technology,Keyboard,Enterprise,Partner,3,43.36,0.15,110.57,83.21,27.36,False,False,Valid
+ORD000202,2025-05-19,Central,Technology,Monitor,Small Business,Online,7,344.83,0.0,2413.81,1651.54,762.27,False,False,Valid
+ORD000203,2026-08-24,North,Technology,Monitor,Small Business,Retail,5,177.92,0.0,889.6,593.39,296.21,False,False,Valid
+ORD000204,2026-01-10,North,Technology,Keyboard,Small Business,Online,1,26.9,0.15,22.86,16.94,5.92,False,False,Valid
+ORD000205,2025-09-03,North,Furniture,Bookshelf,Consumer,Partner,7,192.52,0.2,1078.11,929.8,148.31,False,False,Valid
+ORD000206,2026-07-09,North,Technology,Headphones,Small Business,Partner,5,129.43,0.2,517.72,414.74,102.98,False,False,Valid
+ORD000207,2025-01-16,West,Office Supplies,Paper Pack,Small Business,Partner,4,19.9,0.0,79.6,54.74,24.86,False,False,Valid
+ORD000208,2025-11-06,North,Technology,Laptop,Consumer,Retail,5,1029.72,0.15,4376.31,4131.23,245.08,False,False,Valid
+ORD000209,2026-07-25,North,Office Supplies,Binder,Consumer,Online,3,25.28,0.0,75.84,62.3,13.54,False,False,Valid
+ORD000210,2025-11-30,Central,Technology,Headphones,Enterprise,Online,5,33.76,0.0,168.8,115.91,52.89,False,False,Valid
+ORD000211,2025-01-11,Central,Technology,Laptop,Small Business,Partner,3,874.65,0.0,2623.95,1677.16,946.79,False,False,Valid
+ORD000212,2025-04-07,South,Technology,Keyboard,Consumer,Retail,8,40.97,0.05,311.37,277.81,33.56,False,False,Valid
+ORD000213,2025-04-14,West,Technology,Headphones,Small Business,Online,1,104.46,0.15,88.79,84.91,3.88,False,False,Valid
+ORD000214,2025-11-18,South,Technology,Monitor,Consumer,Partner,7,362.36,0.1,2282.87,1854.45,428.42,False,False,Valid
+ORD000215,2025-08-14,South,Office Supplies,Binder,Consumer,Online,5,23.25,0.0,116.25,99.21,17.04,False,False,Valid
+ORD000216,2025-04-01,West,Technology,Headphones,Enterprise,Retail,4,39.84,0.0,159.36,103.27,56.09,False,False,Valid
+ORD000217,2025-04-20,East,Technology,Monitor,Consumer,Partner,8,408.56,0.1,2941.63,2015.9,925.73,False,False,Valid
+ORD000218,2026-07-20,North,Office Supplies,Pens,Small Business,Online,2,6.15,0.2,9.84,7.98,1.86,False,False,Valid
+ORD000219,2025-07-11,West,Furniture,Office Chair,Consumer,Partner,8,97.41,0.1,701.35,613.95,87.4,False,False,Valid
+ORD000220,2025-05-28,West,Furniture,Desk,Small Business,Retail,6,486.04,0.15,2478.8,1950.23,528.57,False,False,Valid
+ORD000221,2026-03-15,Central,Office Supplies,Pens,Enterprise,Online,3,6.69,0.0,20.07,15.05,5.02,False,False,Valid
+ORD000222,2026-02-20,North,Technology,Laptop,Enterprise,Online,6,746.6,0.0,4479.6,3051.35,1428.25,False,False,Valid
+ORD000223,2026-09-05,Central,Technology,Laptop,Small Business,Retail,5,903.22,0.1,4064.49,3689.26,375.23,False,False,Valid
+ORD000224,2026-05-08,Central,Technology,Laptop,Enterprise,Online,8,1168.84,0.1,8415.65,5843.06,2572.59,False,False,Valid
+ORD000225,2025-07-02,South,Furniture,Desk,Small Business,Online,8,186.8,0.0,1494.4,1247.84,246.56,False,False,Valid
+ORD000226,2025-07-17,Central,Furniture,Office Chair,Enterprise,Partner,2,321.05,0.0,642.1,397.73,244.37,False,False,Valid
+ORD000227,2026-02-21,Central,Technology,Laptop,Small Business,Partner,5,713.53,0.05,3389.27,2500.88,888.39,False,False,Valid
+ORD000228,2025-04-19,South,Furniture,Desk,Small Business,Retail,4,420.96,0.0,1683.84,1113.32,570.52,False,False,Valid
+ORD000229,2026-04-15,East,Furniture,Bookshelf,Enterprise,Online,2,104.89,0.1,188.8,174.98,13.82,False,False,Valid
+ORD000230,2025-11-08,East,Office Supplies,Binder,Enterprise,Online,7,26.59,0.1,167.52,133.32,34.2,False,False,Valid
+ORD000231,2026-04-30,East,Office Supplies,Pens,Consumer,Retail,6,12.82,0.2,61.54,61.29,0.25,False,False,Valid
+ORD000232,2025-05-04,West,Technology,Laptop,Small Business,Online,8,965.05,0.0,7720.4,5913.57,1806.83,False,False,Valid
+ORD000233,2025-03-01,East,Office Supplies,Pens,Small Business,Retail,6,4.79,0.2,22.99,21.88,1.11,False,False,Valid
+ORD000234,2026-09-06,North,Technology,Headphones,Consumer,Online,2,153.08,0.05,290.85,227.31,63.54,False,False,Valid
+ORD000235,2026-07-09,North,Furniture,Bookshelf,Consumer,Retail,7,82.75,0.0,579.25,374.41,204.84,False,False,Valid
+ORD000236,2026-02-26,East,Furniture,Bookshelf,Small Business,Online,3,173.25,0.0,519.75,324.76,194.99,False,False,Valid
+ORD000237,2026-04-24,East,Furniture,Lamp,Enterprise,Retail,2,88.39,0.05,167.94,110.0,57.94,False,False,Valid
+ORD000238,2026-08-10,South,Furniture,Bookshelf,Enterprise,Retail,2,72.64,0.0,145.28,94.16,51.12,False,False,Valid
+ORD000239,2026-08-11,West,Technology,Monitor,Small Business,Retail,2,323.53,0.0,647.06,423.38,223.68,False,False,Valid
+ORD000240,2026-05-28,South,Office Supplies,Storage Box,Enterprise,Partner,7,20.57,0.05,136.79,98.38,38.41,False,False,Valid
+ORD000241,2025-08-04,North,Technology,Keyboard,Enterprise,Partner,6,21.54,0.2,103.39,82.17,21.22,False,False,Valid
+ORD000242,2025-01-04,West,Furniture,Desk,Consumer,Online,5,377.72,0.15,1605.31,1476.71,128.6,False,False,Valid
+ORD000243,2025-09-09,North,Furniture,Office Chair,Small Business,Partner,8,238.31,0.05,1811.16,1378.05,433.11,False,False,Valid
+ORD000244,2026-06-07,South,Furniture,Office Chair,Consumer,Partner,3,217.79,0.0,653.37,450.1,203.27,False,False,Valid
+ORD000245,2025-02-04,North,Furniture,Lamp,Enterprise,Online,3,70.2,0.1,189.54,166.85,22.69,False,False,Valid
+ORD000246,2025-08-19,West,Furniture,Bookshelf,Consumer,Partner,7,122.92,0.0,860.44,719.08,141.36,False,False,Valid
+ORD000247,2025-08-25,West,Furniture,Bookshelf,Consumer,Online,5,138.37,0.1,622.67,430.88,191.79,False,False,Valid
+ORD000248,2026-01-04,East,Technology,Keyboard,Small Business,Retail,8,62.32,0.2,398.85,367.43,31.42,False,False,Valid
+ORD000249,2025-11-13,West,Furniture,Lamp,Enterprise,Retail,2,77.81,0.05,147.84,125.63,22.21,False,False,Valid
+ORD000250,2025-02-07,South,Technology,Monitor,Small Business,Retail,8,138.2,0.05,1050.32,675.04,375.28,False,False,Valid
+ORD000251,2025-08-14,West,Furniture,Bookshelf,Small Business,Online,5,186.63,0.2,746.52,644.02,102.5,False,False,Valid
+ORD000252,2026-05-12,North,Furniture,Office Chair,Small Business,Online,7,151.81,0.2,850.14,837.3,12.84,False,False,Valid
+ORD000253,2025-06-08,East,Technology,Headphones,Small Business,Retail,3,45.4,0.0,136.2,84.3,51.9,False,False,Valid
+ORD000254,2025-09-04,North,Technology,Keyboard,Enterprise,Retail,6,62.28,0.05,355.0,295.25,59.75,False,False,Valid
+ORD000255,2026-01-12,North,Office Supplies,Storage Box,Consumer,Retail,4,53.33,0.15,181.32,133.98,47.34,False,False,Valid
+ORD000256,2025-09-27,Central,Office Supplies,Binder,Consumer,Partner,5,18.46,0.0,92.3,70.79,21.51,False,False,Valid
+ORD000257,2026-04-25,West,Technology,Laptop,Enterprise,Partner,6,1044.69,0.0,6268.14,4223.02,2045.12,False,False,Valid
+ORD000258,2026-06-06,Central,Office Supplies,Paper Pack,Consumer,Partner,6,18.43,0.1,99.52,89.19,10.33,False,False,Valid
+ORD000259,2025-09-22,South,Furniture,Office Chair,Enterprise,Online,2,326.6,0.05,620.54,531.46,89.08,False,False,Valid
+ORD000260,2026-02-01,South,Office Supplies,Storage Box,Consumer,Partner,3,38.69,0.15,98.66,94.19,4.47,False,False,Valid
+ORD000261,2025-11-21,Central,Technology,Laptop,Enterprise,Online,1,1002.71,0.15,852.3,688.85,163.45,False,False,Valid
+ORD000262,2026-01-30,South,Office Supplies,Storage Box,Consumer,Partner,1,18.45,0.05,17.53,12.06,5.47,False,False,Valid
+ORD000263,2026-08-10,Central,Technology,Headphones,Small Business,Partner,8,157.67,0.2,1009.09,892.65,116.44,False,False,Valid
+ORD000264,2025-11-16,West,Technology,Keyboard,Small Business,Retail,3,34.38,0.05,97.98,77.95,20.03,False,False,Valid
+ORD000265,2025-10-03,North,Technology,Laptop,Small Business,Online,6,822.56,0.1,4441.82,3113.03,1328.79,False,False,Valid
+ORD000266,2025-05-23,South,Technology,Monitor,Consumer,Retail,3,173.22,0.05,493.68,330.22,163.46,False,False,Valid
+ORD000267,2026-01-08,North,Office Supplies,Binder,Enterprise,Partner,3,21.81,0.1,58.89,49.05,9.84,False,False,Valid
+ORD000268,2025-11-24,South,Office Supplies,Storage Box,Consumer,Partner,5,14.7,0.1,66.15,55.53,10.62,False,False,Valid
+ORD000269,2026-09-29,East,Technology,Laptop,Consumer,Retail,1,991.11,0.05,941.55,728.25,213.3,False,False,Valid
+ORD000270,2026-01-26,South,Technology,Headphones,Small Business,Partner,7,80.24,0.15,477.43,422.63,54.8,False,False,Valid
+ORD000271,2026-07-27,North,Furniture,Bookshelf,Consumer,Partner,2,168.07,0.0,336.14,250.21,85.93,False,False,Valid
+ORD000272,2026-07-06,Central,Technology,Monitor,Enterprise,Retail,2,198.16,0.2,317.06,319.07,-2.01,False,False,Valid
+ORD000273,2026-03-05,Central,Office Supplies,Pens,Consumer,Online,6,2.08,0.0,12.48,8.96,3.52,False,False,Valid
+ORD000274,2026-09-09,Central,Furniture,Desk,Consumer,Partner,1,343.82,0.15,292.25,210.18,82.07,False,False,Valid
+ORD000275,2026-01-16,East,Furniture,Office Chair,Enterprise,Online,1,283.23,0.05,269.07,176.1,92.97,False,False,Valid
+ORD000276,2025-09-22,East,Office Supplies,Storage Box,Consumer,Online,6,16.58,0.0,99.48,85.44,14.04,False,False,Valid
+ORD000277,2025-02-03,South,Technology,Headphones,Small Business,Partner,3,38.87,0.1,104.95,98.02,6.93,False,False,Valid
+ORD000278,2025-03-16,Central,Office Supplies,Pens,Small Business,Partner,4,3.96,0.1,14.26,11.81,2.45,False,False,Valid
+ORD000279,2026-03-25,Central,Technology,Keyboard,Enterprise,Retail,2,42.03,0.0,84.06,69.61,14.45,False,False,Valid
+ORD000280,2025-07-04,Central,Furniture,Bookshelf,Consumer,Online,4,202.65,0.05,770.07,559.24,210.83,False,False,Valid
+ORD000281,2026-07-05,Central,Technology,Keyboard,Enterprise,Retail,5,26.44,0.1,118.98,95.12,23.86,False,False,Valid
+ORD000282,2026-01-05,North,Office Supplies,Binder,Enterprise,Retail,7,13.75,0.0,96.25,66.0,30.25,False,False,Valid
+ORD000283,2026-08-28,Central,Technology,Headphones,Small Business,Online,7,60.89,0.2,340.98,329.24,11.74,False,False,Valid
+ORD000284,2025-04-22,East,Technology,Laptop,Small Business,Online,8,1104.23,0.0,8833.84,6759.21,2074.63,False,False,Valid
+ORD000285,2026-01-27,East,Furniture,Office Chair,Small Business,Partner,3,130.47,0.0,391.41,300.31,91.1,False,False,Valid
+ORD000286,2025-03-23,Central,Technology,Headphones,Small Business,Online,3,124.53,0.05,354.91,238.84,116.07,False,False,Valid
+ORD000287,2026-04-28,North,Office Supplies,Binder,Consumer,Partner,3,23.76,0.15,60.59,49.02,11.57,False,False,Valid
+ORD000288,2025-01-10,Central,Furniture,Lamp,Enterprise,Retail,7,26.92,0.0,188.44,160.36,28.08,False,False,Valid
+ORD000289,2025-10-13,South,Office Supplies,Storage Box,Enterprise,Partner,1,9.24,0.05,8.78,7.63,1.15,False,False,Valid
+ORD000290,2026-02-08,Central,Office Supplies,Pens,Small Business,Online,3,2.85,0.15,7.27,6.65,0.62,False,False,Valid
+ORD000291,2025-10-03,West,Technology,Headphones,Small Business,Online,8,138.04,0.15,938.67,702.34,236.33,False,False,Valid
+ORD000292,2025-04-30,East,Technology,Headphones,Enterprise,Retail,8,78.77,0.2,504.13,401.67,102.46,False,False,Valid
+ORD000293,2026-04-28,West,Furniture,Office Chair,Enterprise,Retail,7,312.18,0.1,1966.73,1774.08,192.65,False,False,Valid
+ORD000294,2025-01-19,West,Technology,Monitor,Enterprise,Partner,6,123.07,0.0,738.42,501.05,237.37,False,False,Valid
+ORD000295,2025-04-05,Central,Furniture,Bookshelf,Consumer,Partner,1,150.56,0.0,150.56,96.91,53.65,False,False,Valid
+ORD000296,2025-11-21,East,Office Supplies,Binder,Enterprise,Retail,4,22.26,0.0,89.04,67.66,21.38,False,False,Valid
+ORD000297,2025-09-09,Central,Furniture,Bookshelf,Enterprise,Retail,8,66.03,0.0,528.24,383.97,144.27,False,False,Valid
+ORD000298,2025-04-27,North,Office Supplies,Binder,Small Business,Retail,2,9.34,0.2,14.94,12.99,1.95,False,False,Valid
+ORD000299,2026-06-14,East,Furniture,Desk,Small Business,Online,3,363.04,0.05,1034.66,932.16,102.5,False,False,Valid
+ORD000300,2025-01-27,North,Office Supplies,Paper Pack,Consumer,Retail,8,18.27,0.0,146.16,124.68,21.48,False,False,Valid
+ORD000301,2026-01-02,North,Office Supplies,Paper Pack,Small Business,Online,6,12.86,0.2,61.73,48.56,13.17,False,False,Valid
+ORD000302,2026-02-05,Central,Technology,Laptop,Small Business,Retail,8,751.39,0.1,5410.01,5162.36,247.65,False,False,Valid
+ORD000303,2025-07-22,North,Furniture,Lamp,Small Business,Partner,7,80.81,0.15,480.82,396.89,83.93,False,False,Valid
+ORD000304,2025-03-29,West,Technology,Monitor,Small Business,Online,1,314.89,0.2,251.91,258.69,-6.78,False,False,Valid
+ORD000305,2025-08-28,South,Furniture,Office Chair,Consumer,Partner,7,245.8,0.2,1376.48,1153.12,223.36,False,False,Valid
+ORD000306,2025-07-25,North,Furniture,Lamp,Enterprise,Partner,2,48.22,0.2,77.15,59.48,17.67,False,False,Valid
+ORD000307,2026-04-12,Central,Technology,Headphones,Enterprise,Retail,5,118.58,0.0,592.9,442.31,150.59,False,False,Valid
+ORD000308,2026-08-16,South,Furniture,Office Chair,Small Business,Retail,3,334.34,0.15,852.57,720.06,132.51,False,False,Valid
+ORD000309,2025-04-30,West,Technology,Monitor,Consumer,Partner,1,145.24,0.1,130.72,118.76,11.96,False,False,Valid
+ORD000310,2025-01-02,West,Office Supplies,Paper Pack,Small Business,Partner,2,16.21,0.05,30.8,22.18,8.62,False,False,Valid
+ORD000311,2025-10-25,West,Furniture,Lamp,Consumer,Partner,2,97.92,0.0,195.84,140.63,55.21,False,True,Needs Attention
+ORD000311,2025-03-29,North,Technology,Keyboard,Enterprise,Partner,7,47.11,0.15,280.3,278.79,1.51,False,True,Needs Attention
+ORD000313,2026-04-12,Central,Office Supplies,Pens,Enterprise,Partner,4,7.35,0.05,27.93,21.2,6.73,False,False,Valid
+ORD000314,2026-04-29,North,Furniture,Lamp,Enterprise,Online,8,30.68,0.1,220.9,181.11,39.79,False,False,Valid
+ORD000315,2026-02-27,South,Furniture,Bookshelf,Enterprise,Retail,8,219.02,0.2,1401.73,1281.57,120.16,False,False,Valid
+ORD000316,2025-01-02,East,Technology,Monitor,Small Business,Online,2,137.35,0.2,219.76,222.89,-3.13,False,False,Valid
+ORD000317,2025-07-12,South,Office Supplies,Storage Box,Enterprise,Retail,8,25.15,0.05,191.14,159.06,32.08,False,False,Valid
+ORD000318,2026-08-29,East,Technology,Laptop,Enterprise,Online,1,725.04,0.0,725.04,560.7,164.34,False,False,Valid
+ORD000319,2026-01-29,West,Technology,Monitor,Small Business,Retail,1,160.26,0.1,144.23,120.31,23.92,False,False,Valid
+ORD000320,2025-09-15,South,Technology,Monitor,Enterprise,Online,3,155.06,0.0,465.18,328.46,136.72,False,False,Valid
+ORD000321,2025-09-11,Central,Furniture,Bookshelf,Enterprise,Partner,6,162.12,0.0,972.72,826.17,146.55,False,False,Valid
+ORD000322,2025-06-06,West,Furniture,Desk,Enterprise,Retail,1,114.27,0.05,108.56,89.11,19.45,False,False,Valid
+ORD000323,2025-08-21,East,Technology,Monitor,Consumer,Partner,3,393.59,0.15,1003.65,899.1,104.55,False,False,Valid
+ORD000324,2026-06-09,Central,Technology,Laptop,Enterprise,Online,3,789.48,0.0,2368.44,1542.24,826.2,False,False,Valid
+ORD000325,2026-05-30,South,Furniture,Desk,Consumer,Online,3,344.85,0.1,931.1,885.79,45.31,False,False,Valid
+ORD000326,2026-05-02,East,Furniture,Bookshelf,Enterprise,Partner,3,125.05,0.15,318.88,259.58,59.3,False,False,Valid
+ORD000327,2026-02-11,North,Technology,Monitor,Small Business,Online,6,266.0,0.0,1596.0,975.52,620.48,False,False,Valid
+ORD000328,2025-03-29,Central,Office Supplies,Pens,Enterprise,Retail,3,11.39,0.15,29.04,23.95,5.09,False,False,Valid
+ORD000329,2025-03-05,Central,Furniture,Desk,Small Business,Retail,1,414.15,0.0,414.15,249.25,164.9,False,False,Valid
+ORD000330,2026-07-09,North,Furniture,Desk,Consumer,Partner,5,210.93,0.15,896.45,751.74,144.71,False,False,Valid
+ORD000331,2025-02-17,South,Furniture,Bookshelf,Enterprise,Retail,3,85.01,0.05,242.28,205.61,36.67,False,False,Valid
+ORD000332,2026-01-23,Central,Technology,Headphones,Enterprise,Partner,6,149.35,0.1,806.49,634.63,171.86,False,False,Valid
+ORD000333,2026-05-01,North,Technology,Laptop,Consumer,Online,3,757.57,0.0,2272.71,1645.59,627.12,False,False,Valid
+ORD000334,2026-02-10,North,Technology,Laptop,Consumer,Partner,3,1050.66,0.1,2836.78,2526.85,309.93,False,False,Valid
+ORD000335,2025-07-12,Central,Furniture,Lamp,Consumer,Partner,8,35.52,0.05,269.95,186.42,83.53,False,False,Valid
+ORD000336,2025-03-04,East,Technology,Keyboard,Consumer,Partner,4,41.82,0.0,167.28,140.5,26.78,False,False,Valid
+ORD000337,2025-05-12,West,Furniture,Bookshelf,Consumer,Online,6,84.86,0.0,509.16,423.6,85.56,False,False,Valid
+ORD000338,2025-02-27,Central,Technology,Monitor,Enterprise,Retail,3,250.66,0.1,676.78,571.96,104.82,False,False,Valid
+ORD000339,2025-07-18,South,Furniture,Office Chair,Small Business,Retail,5,161.91,0.2,647.64,584.11,63.53,False,False,Valid
+ORD000340,2026-07-14,West,Office Supplies,Paper Pack,Small Business,Online,7,21.26,0.1,133.94,106.45,27.49,False,False,Valid
+ORD000341,2025-01-04,Central,Office Supplies,Pens,Enterprise,Online,5,3.67,0.0,18.35,15.42,2.93,False,False,Valid
+ORD000342,2025-04-20,Central,Technology,Monitor,Enterprise,Partner,5,418.11,0.15,1776.97,1604.82,172.15,False,False,Valid
+ORD000343,2026-03-29,Central,Office Supplies,Paper Pack,Small Business,Retail,8,8.8,0.0,70.4,45.98,24.42,False,False,Valid
+ORD000344,2025-09-08,Central,Office Supplies,Storage Box,Consumer,Online,5,14.41,0.0,72.05,48.87,23.18,False,False,Valid
+ORD000345,2025-03-31,East,Technology,Monitor,Enterprise,Retail,7,264.29,0.1,1665.03,1572.41,92.62,False,False,Valid
+ORD000346,2025-10-16,East,Furniture,Bookshelf,Consumer,Retail,4,202.41,0.0,809.64,609.51,200.13,False,False,Valid
+ORD000347,2026-06-04,North,Technology,Keyboard,Consumer,Partner,4,45.54,0.2,145.73,144.26,1.47,False,False,Valid
+ORD000348,2026-03-09,West,Office Supplies,Pens,Consumer,Online,2,10.7,0.0,21.4,14.5,6.9,False,False,Valid
+ORD000349,2025-01-29,North,Furniture,Desk,Small Business,Retail,2,333.36,0.0,666.72,531.52,135.2,False,False,Valid
+ORD000350,2026-08-16,North,Office Supplies,Paper Pack,Small Business,Partner,8,15.08,0.2,96.51,80.72,15.79,False,False,Valid
+ORD000351,2026-03-28,Central,Office Supplies,Storage Box,Small Business,Retail,7,51.01,0.0,357.07,253.36,103.71,False,False,Valid
+ORD000352,2026-09-22,North,Technology,Laptop,Enterprise,Online,4,1145.65,0.1,4124.34,3710.68,413.66,False,False,Valid
+ORD000353,2026-05-02,North,Furniture,Lamp,Enterprise,Retail,6,65.97,0.15,336.45,324.19,12.26,False,False,Valid
+ORD000354,2026-03-31,North,Office Supplies,Binder,Enterprise,Partner,2,12.82,0.15,21.79,21.46,0.33,False,False,Valid
+ORD000355,2026-05-24,East,Technology,Laptop,Enterprise,Retail,3,1018.61,0.0,3055.83,2243.5,812.33,False,False,Valid
+ORD000356,2026-07-24,East,Furniture,Bookshelf,Enterprise,Partner,4,199.19,0.0,796.76,489.61,307.15,False,False,Valid
+ORD000357,2026-04-12,East,Office Supplies,Paper Pack,Small Business,Retail,8,6.79,0.2,43.46,33.91,9.55,False,False,Valid
+ORD000358,2025-04-09,South,Furniture,Desk,Consumer,Partner,3,499.74,0.05,1424.26,1273.26,151.0,False,False,Valid
+ORD000359,2026-02-18,South,Furniture,Office Chair,Enterprise,Retail,1,337.54,0.05,320.66,263.67,56.99,False,False,Valid
+ORD000360,2025-01-16,East,Technology,Headphones,Small Business,Retail,6,125.32,0.05,714.32,459.9,254.42,False,False,Valid
+ORD000361,2026-04-08,East,Furniture,Bookshelf,Consumer,Retail,2,155.43,0.0,310.86,229.37,81.49,False,False,Valid
+ORD000362,2025-04-15,North,Furniture,Desk,Enterprise,Retail,1,458.51,0.15,389.73,326.76,62.97,False,False,Valid
+ORD000363,2026-08-07,East,Technology,Keyboard,Enterprise,Retail,1,25.57,0.0,25.57,15.56,10.01,False,False,Valid
+ORD000364,2026-02-22,North,Office Supplies,Binder,Small Business,Retail,5,17.86,0.0,89.3,76.73,12.57,False,False,Valid
+ORD000365,2026-02-16,South,Technology,Monitor,Small Business,Retail,5,251.69,0.1,1132.61,900.08,232.53,False,False,Valid
+ORD000366,2025-07-09,North,Office Supplies,Storage Box,Small Business,Partner,5,17.46,0.0,87.3,73.49,13.81,False,False,Valid
+ORD000367,2026-02-19,East,Furniture,Lamp,Enterprise,Online,2,81.76,0.0,163.52,117.19,46.33,False,False,Valid
+ORD000368,2025-11-24,South,Furniture,Desk,Consumer,Retail,6,408.96,0.2,1963.01,1668.59,294.42,False,False,Valid
+ORD000369,2026-08-28,Central,Technology,Monitor,Small Business,Retail,4,124.04,0.15,421.74,335.5,86.24,False,False,Valid
+ORD000370,2026-02-26,South,Technology,Monitor,Small Business,Partner,5,238.74,0.0,1193.7,996.43,197.27,False,False,Valid
+ORD000371,2025-09-10,South,Furniture,Office Chair,Enterprise,Online,7,216.52,0.2,1212.51,1052.78,159.73,False,False,Valid
+ORD000372,2025-03-31,West,Furniture,Lamp,Enterprise,Online,6,98.91,0.1,534.11,443.14,90.97,False,False,Valid
+ORD000373,2026-04-26,South,Technology,Keyboard,Consumer,Online,4,62.37,0.2,199.58,207.77,-8.19,False,False,Valid
+ORD000374,2025-06-13,Central,Technology,Laptop,Enterprise,Partner,3,1048.93,0.2,2517.43,2165.15,352.28,False,False,Valid
+ORD000375,2025-05-28,West,Furniture,Office Chair,Consumer,Online,5,122.16,0.0,610.8,412.5,198.3,False,False,Valid
+ORD000376,2025-03-21,North,Technology,Keyboard,Consumer,Retail,5,65.73,0.0,328.65,230.44,98.21,False,False,Valid
+ORD000377,2026-01-31,South,Office Supplies,Binder,Consumer,Partner,3,11.82,0.05,33.69,22.37,11.32,False,False,Valid
+ORD000378,2025-11-02,Central,Technology,Keyboard,Small Business,Retail,5,45.88,0.15,194.99,153.73,41.26,False,False,Valid
+ORD000379,2026-09-02,North,Office Supplies,Paper Pack,Enterprise,Retail,2,10.65,0.0,21.3,17.04,4.26,False,False,Valid
+ORD000380,2026-05-14,East,Technology,Headphones,Consumer,Retail,4,170.95,0.15,581.23,491.14,90.09,False,False,Valid
+ORD000381,2026-05-18,North,Office Supplies,Binder,Consumer,Online,5,26.24,0.2,104.96,87.71,17.25,False,False,Valid
+ORD000382,2026-01-10,West,Office Supplies,Pens,Consumer,Partner,1,5.45,0.0,5.45,4.47,0.98,False,False,Valid
+ORD000383,2025-08-12,Central,Office Supplies,Storage Box,Enterprise,Online,7,11.46,0.0,80.22,51.29,28.93,False,False,Valid
+ORD000384,2025-11-21,South,Technology,Keyboard,Small Business,Online,5,37.19,0.05,176.65,127.75,48.9,False,False,Valid
+ORD000385,2026-02-23,West,Furniture,Office Chair,Small Business,Online,8,221.11,0.15,1503.55,1298.15,205.4,False,False,Valid
+ORD000386,2025-03-12,South,Office Supplies,Pens,Enterprise,Retail,1,9.92,0.1,8.93,6.33,2.6,False,False,Valid
+ORD000387,2025-09-15,West,Office Supplies,Paper Pack,Enterprise,Partner,4,6.39,0.1,23.0,20.22,2.78,False,False,Valid
+ORD000388,2025-11-10,South,Technology,Laptop,Enterprise,Online,5,813.41,0.15,3456.99,2614.87,842.12,False,False,Valid
+ORD000389,2026-08-17,South,Office Supplies,Pens,Small Business,Partner,3,8.94,0.0,26.82,18.97,7.85,False,False,Valid
+ORD000390,2025-06-21,East,Office Supplies,Paper Pack,Small Business,Partner,4,15.12,0.15,51.41,40.66,10.75,False,False,Valid
+ORD000391,2025-01-27,North,Office Supplies,Binder,Small Business,Partner,4,16.21,0.15,55.11,46.8,8.31,False,False,Valid
+ORD000392,2026-03-04,South,Furniture,Lamp,Enterprise,Retail,2,20.49,0.0,40.98,30.98,10.0,False,False,Valid
+ORD000393,2026-01-17,East,Technology,Laptop,Small Business,Online,8,1229.59,0.1,8853.05,6885.73,1967.32,False,False,Valid
+ORD000394,2025-04-09,Central,Technology,Laptop,Consumer,Partner,8,891.3,0.0,7130.4,4866.99,2263.41,False,False,Valid
+ORD000395,2026-09-18,West,Furniture,Office Chair,Small Business,Partner,7,152.21,0.15,905.65,801.72,103.93,False,False,Valid
+ORD000396,2026-05-15,West,Office Supplies,Binder,Consumer,Partner,6,9.72,0.15,49.57,39.85,9.72,False,False,Valid
+ORD000397,2025-07-16,South,Furniture,Lamp,Consumer,Retail,1,78.92,0.05,74.97,51.51,23.46,False,False,Valid
+ORD000398,2026-06-07,East,Office Supplies,Binder,Enterprise,Retail,1,27.94,0.05,26.54,17.46,9.08,False,False,Valid
+ORD000399,2025-09-01,West,Office Supplies,Binder,Enterprise,Partner,8,21.49,0.15,146.13,134.64,11.49,False,False,Valid
+ORD000400,2025-09-15,East,Technology,Monitor,Small Business,Retail,8,143.58,0.1,1033.78,985.53,48.25,False,False,Valid
+ORD000401,2026-02-27,South,Office Supplies,Binder,Consumer,Online,3,27.46,0.1,74.14,69.87,4.27,False,False,Valid
+ORD000402,2025-10-11,North,Technology,Headphones,Consumer,Retail,7,118.28,0.0,827.96,681.19,146.77,False,False,Valid
+ORD000403,2026-05-13,South,Furniture,Office Chair,Small Business,Partner,3,105.15,0.0,315.45,197.01,118.44,False,False,Valid
+ORD000404,2026-03-27,South,Technology,Laptop,Enterprise,Online,3,885.21,0.0,2655.63,1962.94,692.69,False,False,Valid
+ORD000405,2025-05-23,East,Office Supplies,Storage Box,Consumer,Retail,4,23.77,0.05,90.33,73.34,16.99,False,False,Valid
+ORD000406,2026-07-25,West,Furniture,Desk,Enterprise,Partner,4,318.83,0.15,1084.02,933.81,150.21,False,False,Valid
+ORD000407,2026-07-24,East,Office Supplies,Binder,Consumer,Retail,7,16.44,0.15,97.82,83.65,14.17,False,False,Valid
+ORD000408,2026-03-19,South,Furniture,Office Chair,Enterprise,Online,2,291.94,0.2,467.1,442.71,24.39,False,False,Valid
+ORD000409,2025-08-05,Central,Office Supplies,Binder,Consumer,Partner,8,26.16,0.05,198.82,173.45,25.37,False,False,Valid
+ORD000410,2026-01-09,Central,Office Supplies,Paper Pack,Enterprise,Online,1,12.38,0.05,11.76,7.73,4.03,False,False,Valid
+ORD000411,2025-06-06,South,Furniture,Lamp,Enterprise,Partner,8,73.22,0.0,585.76,393.8,191.96,False,False,Valid
+ORD000412,2025-12-13,South,Office Supplies,Binder,Consumer,Partner,8,19.91,0.1,143.35,102.68,40.67,False,False,Valid
+ORD000413,2025-01-15,Central,Office Supplies,Paper Pack,Small Business,Retail,7,16.27,0.2,91.11,88.86,2.25,False,False,Valid
+ORD000414,2026-04-06,West,Office Supplies,Storage Box,Small Business,Retail,1,11.06,0.1,9.95,7.9,2.05,False,False,Valid
+ORD000415,2025-04-16,West,Furniture,Lamp,Small Business,Online,5,87.32,0.2,349.28,269.73,79.55,False,False,Valid
+ORD000416,2025-09-14,South,Furniture,Office Chair,Consumer,Online,6,260.99,0.2,1252.75,1029.19,223.56,False,False,Valid
+ORD000417,2026-03-31,South,Office Supplies,Binder,Small Business,Partner,7,14.89,0.15,88.6,83.65,4.95,False,False,Valid
+ORD000418,2026-05-10,North,Technology,Monitor,Enterprise,Online,5,388.14,0.0,1940.7,1198.74,741.96,False,False,Valid
+ORD000419,2026-07-22,East,Technology,Monitor,Consumer,Retail,3,260.97,0.2,626.33,650.7,-24.37,False,False,Valid
+ORD000420,2025-09-26,South,Technology,Laptop,Small Business,Retail,4,880.29,0.0,3521.16,2520.63,1000.53,False,False,Valid
+ORD000421,2026-08-14,West,Office Supplies,Binder,Small Business,Online,5,27.7,0.2,110.8,104.18,6.62,False,False,Valid
+ORD000422,2025-12-07,North,Technology,Keyboard,Small Business,Partner,1,61.94,0.2,49.55,44.17,5.38,False,False,Valid
+ORD000423,2026-04-29,South,Office Supplies,Pens,Small Business,Partner,1,3.45,0.1,3.11,2.57,0.54,False,False,Valid
+ORD000424,2026-08-08,North,Furniture,Bookshelf,Small Business,Online,3,148.38,0.1,400.63,296.98,103.65,False,False,Valid
+ORD000425,2025-01-15,North,Technology,Monitor,Small Business,Retail,5,361.33,0.0,1806.65,1178.05,628.6,False,False,Valid
+ORD000426,2025-08-13,Central,Technology,Laptop,Enterprise,Retail,4,738.6,0.0,2954.4,2487.34,467.06,False,False,Valid
+ORD000427,2025-05-04,West,Furniture,Desk,Consumer,Partner,4,312.45,0.05,1187.31,763.18,424.13,False,False,Valid
+ORD000428,2026-06-03,East,Office Supplies,Pens,Enterprise,Partner,2,5.66,0.0,11.32,6.94,4.38,False,False,Valid
+ORD000429,2025-01-10,South,Furniture,Desk,Small Business,Retail,5,449.8,0.15,1911.65,1480.96,430.69,False,False,Valid
+ORD000430,2025-05-17,North,Office Supplies,Binder,Small Business,Online,7,16.78,0.1,105.71,79.55,26.16,False,False,Valid
+ORD000431,2025-07-29,South,Technology,Monitor,Enterprise,Retail,3,127.9,0.1,345.33,308.91,36.42,False,False,Valid
+ORD000432,2026-03-03,South,Furniture,Lamp,Small Business,Retail,2,97.42,0.1,175.36,121.85,53.51,False,False,Valid
+ORD000433,2026-05-16,Central,Office Supplies,Binder,Small Business,Online,7,17.21,0.05,114.45,95.36,19.09,False,False,Valid
+ORD000434,2025-11-14,East,Furniture,Office Chair,Enterprise,Online,8,320.14,0.0,2561.12,1608.45,952.67,False,False,Valid
+ORD000435,2025-09-30,North,Technology,Monitor,Enterprise,Partner,6,314.98,0.1,1700.89,1539.89,161.0,False,False,Valid
+ORD000436,2025-03-26,South,Technology,Headphones,Small Business,Partner,2,90.47,0.1,162.85,122.37,40.48,False,False,Valid
+ORD000437,2025-05-30,East,Technology,Monitor,Consumer,Partner,6,354.81,0.05,2022.42,1404.24,618.18,False,False,Valid
+ORD000438,2025-10-14,West,Office Supplies,Storage Box,Consumer,Online,3,44.39,0.0,133.17,92.51,40.66,False,False,Valid
+ORD000439,2026-02-02,North,Office Supplies,Pens,Small Business,Online,4,12.53,0.2,40.1,32.42,7.68,False,False,Valid
+ORD000440,2026-02-22,North,Office Supplies,Paper Pack,Small Business,Partner,5,13.15,0.0,65.75,40.72,25.03,False,False,Valid
+ORD000441,2025-12-30,South,Office Supplies,Paper Pack,Small Business,Online,4,13.7,0.1,49.32,41.13,8.19,False,False,Valid
+ORD000442,2025-04-01,South,Technology,Monitor,Small Business,Online,7,294.23,0.0,2059.61,1540.26,519.35,False,False,Valid
+ORD000443,2026-07-13,South,Furniture,Office Chair,Consumer,Online,6,142.43,0.1,769.12,626.36,142.76,False,False,Valid
+ORD000444,2026-01-25,North,Office Supplies,Paper Pack,Small Business,Online,4,9.99,0.0,39.96,30.4,9.56,False,False,Valid
+ORD000445,2025-03-20,North,Office Supplies,Pens,Enterprise,Retail,1,6.9,0.1,6.21,4.96,1.25,False,False,Valid
+ORD000446,2025-11-29,East,Furniture,Office Chair,Enterprise,Online,8,342.48,0.0,2739.84,2217.27,522.57,False,False,Valid
+ORD000447,2025-09-20,Central,Technology,Keyboard,Consumer,Retail,2,66.13,0.1,119.03,80.91,38.12,False,False,Valid
+ORD000448,2026-01-02,Central,Furniture,Bookshelf,Small Business,Retail,7,133.76,0.0,936.32,731.73,204.59,False,False,Valid
+ORD000449,2026-06-03,South,Office Supplies,Paper Pack,Consumer,Partner,6,7.07,0.2,33.94,30.1,3.84,False,False,Valid
+ORD000450,2025-01-11,Central,Office Supplies,Binder,Small Business,Partner,4,4.63,0.05,17.59,11.31,6.28,False,False,Valid
+ORD000451,2026-04-10,East,Technology,Monitor,Consumer,Online,7,262.25,0.2,1468.6,1451.26,17.34,False,False,Valid
+ORD000452,2025-08-26,East,Technology,Keyboard,Enterprise,Partner,8,19.52,0.15,132.74,127.52,5.22,False,False,Valid
+ORD000453,2026-09-23,North,Technology,Monitor,Consumer,Partner,8,326.56,0.0,2612.48,2066.39,546.09,False,False,Valid
+ORD000454,2026-02-16,North,Furniture,Lamp,Consumer,Partner,2,74.41,0.05,141.38,118.65,22.73,False,False,Valid
+ORD000455,2026-06-21,North,Office Supplies,Paper Pack,Enterprise,Online,3,6.3,0.2,15.12,12.37,2.75,False,False,Valid
+ORD000456,2026-05-19,West,Technology,Laptop,Consumer,Retail,2,881.5,0.0,1763.0,1133.2,629.8,False,False,Valid
+ORD000457,2025-09-26,Central,Furniture,Bookshelf,Consumer,Online,4,204.98,0.15,696.93,577.47,119.46,False,False,Valid
+ORD000458,2025-10-12,East,Furniture,Office Chair,Small Business,Partner,6,152.37,0.05,868.51,579.13,289.38,False,False,Valid
+ORD000459,2026-05-24,Central,Office Supplies,Storage Box,Small Business,Online,8,40.39,0.0,323.12,237.99,85.13,False,False,Valid
+ORD000460,2025-02-05,Central,Office Supplies,Binder,Small Business,Partner,8,26.33,0.2,168.51,155.15,13.36,False,False,Valid
+ORD000461,2025-10-24,North,Furniture,Office Chair,Consumer,Online,3,257.51,0.0,772.53,606.13,166.4,False,False,Valid
+ORD000462,2025-09-10,Central,Technology,Headphones,Consumer,Retail,3,125.99,0.1,340.17,306.66,33.51,False,False,Valid
+ORD000463,2026-07-02,Central,Furniture,Bookshelf,Enterprise,Partner,3,112.76,0.15,287.54,231.44,56.1,False,False,Valid
+ORD000464,2025-07-24,West,Office Supplies,Pens,Small Business,Partner,8,10.44,0.05,79.34,69.9,9.44,False,False,Valid
+ORD000465,2025-05-01,East,Technology,Monitor,Enterprise,Retail,2,189.36,0.0,378.72,307.05,71.67,False,False,Valid
+ORD000466,2026-07-16,North,Technology,Keyboard,Enterprise,Partner,5,91.72,0.1,412.74,343.5,69.24,False,False,Valid
+ORD000467,2025-09-04,South,Technology,Laptop,Enterprise,Online,6,792.24,0.05,4515.77,3260.12,1255.65,False,False,Valid
+ORD000468,2025-08-29,Central,Office Supplies,Binder,Enterprise,Partner,2,8.91,0.05,16.93,13.78,3.15,False,False,Valid
+ORD000469,2026-02-19,South,Technology,Headphones,Enterprise,Partner,4,75.29,0.2,240.93,188.31,52.62,False,False,Valid
+ORD000470,2026-02-24,East,Furniture,Office Chair,Small Business,Online,2,336.55,0.1,605.79,560.97,44.82,False,False,Valid
+ORD000471,2025-05-21,South,Technology,Headphones,Enterprise,Retail,6,30.93,0.05,176.3,122.86,53.44,False,False,Valid
+ORD000472,2025-08-31,West,Technology,Keyboard,Small Business,Online,2,89.26,0.2,142.82,125.95,16.87,False,False,Valid
+ORD000473,2025-08-12,North,Technology,Monitor,Consumer,Partner,8,217.76,0.1,1567.87,1331.28,236.59,False,False,Valid
+ORD000474,2025-12-10,Central,Furniture,Bookshelf,Consumer,Online,6,137.15,0.15,699.47,650.55,48.92,False,False,Valid
+ORD000475,2025-02-23,West,Technology,Laptop,Enterprise,Partner,3,1224.93,0.0,3674.79,2807.02,867.77,False,False,Valid
+ORD000476,2025-11-11,South,Furniture,Lamp,Small Business,Online,8,31.43,0.05,238.87,208.27,30.6,False,False,Valid
+ORD000477,2025-03-04,East,Technology,Monitor,Small Business,Online,2,244.63,0.0,489.26,412.73,76.53,False,False,Valid
+ORD000478,2026-03-24,North,Furniture,Lamp,Small Business,Online,6,54.45,0.0,326.7,225.07,101.63,False,False,Valid
+ORD000479,2026-01-06,Central,Furniture,Desk,Consumer,Online,3,151.09,0.0,453.27,273.59,179.68,False,False,Valid
+ORD000480,2025-03-15,South,Furniture,Office Chair,Enterprise,Retail,7,292.19,0.0,2045.33,1659.58,385.75,False,False,Valid
+ORD000481,2025-04-07,Central,Office Supplies,Storage Box,Small Business,Partner,4,48.91,0.0,195.64,147.56,48.08,False,False,Valid
+ORD000482,2025-04-19,North,Technology,Laptop,Consumer,Partner,6,706.27,0.05,4025.74,3287.86,737.88,False,False,Valid
+ORD000483,2025-08-30,South,Office Supplies,Binder,Enterprise,Partner,5,19.2,0.05,91.2,68.92,22.28,False,False,Valid
+ORD000484,2025-06-12,East,Furniture,Desk,Small Business,Retail,4,450.28,0.2,1440.9,1334.57,106.33,False,False,Valid
+ORD000485,2025-03-26,West,Furniture,Bookshelf,Enterprise,Retail,7,144.05,0.15,857.1,669.5,187.6,False,False,Valid
+ORD000486,2025-11-08,East,Technology,Headphones,Consumer,Online,3,34.66,0.15,88.38,85.46,2.92,False,False,Valid
+ORD000487,2025-10-09,East,Furniture,Office Chair,Consumer,Retail,4,208.29,0.05,791.5,623.29,168.21,False,False,Valid
+ORD000488,2025-02-18,West,Technology,Monitor,Consumer,Retail,7,378.72,0.05,2518.49,2253.39,265.1,False,False,Valid
+ORD000489,2026-06-08,West,Furniture,Lamp,Consumer,Retail,2,24.92,0.0,49.84,41.02,8.82,False,False,Valid
+ORD000490,2025-10-07,East,Technology,Keyboard,Consumer,Online,1,62.32,0.1,56.09,40.05,16.04,False,False,Valid
+ORD000491,2025-08-24,East,Office Supplies,Pens,Enterprise,Partner,6,6.92,0.15,35.29,32.0,3.29,False,False,Valid
+ORD000492,2026-05-08,East,Furniture,Bookshelf,Small Business,Online,4,184.35,0.2,589.92,491.06,98.86,False,False,Valid
+ORD000493,2025-09-19,North,Technology,Laptop,Small Business,Partner,3,1217.87,0.0,3653.61,2539.11,1114.5,False,False,Valid
+ORD000494,2026-07-16,West,Furniture,Office Chair,Small Business,Retail,6,207.79,0.2,997.39,1063.53,-66.14,False,False,Valid
+ORD000495,2025-03-17,South,Office Supplies,Paper Pack,Small Business,Online,4,16.26,0.2,52.03,41.47,10.56,False,False,Valid
+ORD000496,2026-09-01,Central,Furniture,Bookshelf,Consumer,Partner,6,169.42,0.05,965.69,790.9,174.79,False,False,Valid
+ORD000497,2025-12-25,South,Technology,Laptop,Enterprise,Partner,2,887.36,0.2,1419.78,1122.94,296.84,False,False,Valid
+ORD000498,2026-02-24,South,Furniture,Bookshelf,Small Business,Online,3,201.53,0.0,604.59,502.28,102.31,False,False,Valid
+ORD000499,2026-08-16,North,Furniture,Office Chair,Consumer,Online,6,140.46,0.0,842.76,707.0,135.76,False,False,Valid
+ORD000500,2025-08-08,North,Furniture,Lamp,Small Business,Partner,4,29.32,0.1,105.55,84.32,21.23,False,False,Valid
+ORD000501,2025-01-09,East,Office Supplies,Storage Box,Small Business,Partner,7,31.7,0.2,177.52,152.65,24.87,False,False,Valid
+ORD000502,2025-07-23,Unknown,Technology,Laptop,Small Business,Online,2,733.12,0.0,1466.24,1073.7,392.54,False,False,Needs Attention
+ORD000503,2025-01-15,East,Furniture,Office Chair,Enterprise,Partner,4,292.59,0.0,1170.36,818.95,351.41,False,False,Valid
+ORD000504,2026-01-19,Central,Technology,Headphones,Small Business,Partner,1,140.0,0.0,140.0,104.1,35.9,False,False,Valid
+ORD000505,2026-08-06,West,Technology,Keyboard,Consumer,Partner,7,68.69,0.0,480.83,317.58,163.25,False,False,Valid
+ORD000506,2025-07-28,South,Technology,Headphones,Enterprise,Partner,5,98.56,0.15,418.88,339.02,79.86,False,False,Valid
+ORD000507,2025-03-25,East,Furniture,Desk,Small Business,Partner,2,293.82,0.0,587.64,366.3,221.34,False,False,Valid
+ORD000508,2026-02-01,West,Technology,Headphones,Consumer,Partner,1,83.02,0.2,66.42,59.68,6.74,False,False,Valid
+ORD000509,2025-08-12,West,Furniture,Lamp,Consumer,Online,5,78.82,0.1,354.69,239.11,115.58,False,False,Valid
+ORD000510,2025-07-02,South,Office Supplies,Pens,Small Business,Online,5,6.33,0.2,25.32,23.8,1.52,False,False,Valid
+ORD000511,2025-04-19,North,Furniture,Bookshelf,Consumer,Online,5,62.98,0.0,314.9,192.87,122.03,False,False,Valid
+ORD000512,2025-10-16,East,Technology,Monitor,Small Business,Online,3,259.78,0.0,779.34,572.74,206.6,False,False,Valid
+ORD000513,2025-10-06,East,Furniture,Bookshelf,Consumer,Retail,2,116.28,0.05,220.93,152.23,68.7,False,False,Valid
+ORD000514,2025-01-27,Central,Office Supplies,Binder,Consumer,Online,8,18.66,0.1,134.35,110.33,24.02,False,False,Valid
+ORD000515,2025-05-27,West,Technology,Laptop,Enterprise,Partner,5,746.69,0.2,2986.76,2961.72,25.04,False,False,Valid
+ORD000516,2026-06-15,West,Technology,Laptop,Consumer,Retail,7,717.57,0.0,5022.99,3797.44,1225.55,False,False,Valid
+ORD000517,2026-01-27,East,Office Supplies,Storage Box,Small Business,Partner,6,29.91,0.2,143.57,139.14,4.43,False,False,Valid
+ORD000518,2026-09-28,West,Office Supplies,Storage Box,Enterprise,Partner,1,53.57,0.05,50.89,40.59,10.3,False,False,Valid
+ORD000519,2026-03-21,West,Furniture,Desk,Small Business,Online,6,179.36,0.15,914.74,672.48,242.26,False,False,Valid
+ORD000520,2026-04-04,North,Office Supplies,Storage Box,Consumer,Online,2,50.14,0.05,95.27,77.58,17.69,False,False,Valid
+ORD000521,2025-08-24,Central,Office Supplies,Paper Pack,Small Business,Retail,2,10.4,0.05,19.76,13.38,6.38,False,False,Valid
+ORD000522,2025-10-24,West,Office Supplies,Binder,Enterprise,Online,3,13.45,0.1,36.31,27.03,9.28,False,False,Valid
+ORD000523,2026-04-09,North,Furniture,Lamp,Consumer,Retail,1,69.29,0.2,55.43,48.74,6.69,False,False,Valid
+ORD000524,2026-08-01,West,Office Supplies,Storage Box,Consumer,Online,6,48.88,0.1,263.95,179.61,84.34,False,False,Valid
+ORD000525,2026-01-06,East,Furniture,Lamp,Small Business,Retail,6,50.02,0.05,285.11,232.37,52.74,False,False,Valid
+ORD000526,2025-07-14,Central,Office Supplies,Storage Box,Consumer,Retail,3,17.34,0.05,49.42,41.16,8.26,False,False,Valid
+ORD000527,2026-08-05,Central,Technology,Monitor,Consumer,Partner,8,188.52,0.05,1432.75,1027.26,405.49,False,False,Valid
+ORD000528,2025-10-28,East,Technology,Headphones,Enterprise,Partner,2,63.68,0.1,114.62,90.26,24.36,False,False,Valid
+ORD000529,2025-11-18,Central,Technology,Keyboard,Consumer,Online,5,72.7,0.1,327.15,286.7,40.45,False,False,Valid
+ORD000530,2025-10-31,West,Furniture,Desk,Enterprise,Partner,4,149.52,0.2,478.46,464.53,13.93,False,False,Valid
+ORD000531,2025-09-01,North,Office Supplies,Storage Box,Enterprise,Online,3,52.14,0.15,132.96,98.99,33.97,False,False,Valid
+ORD000532,2026-08-18,South,Technology,Monitor,Enterprise,Retail,2,306.65,0.0,613.3,455.81,157.49,False,False,Valid
+ORD000533,2025-04-20,South,Furniture,Lamp,Enterprise,Retail,2,47.93,0.05,91.07,61.33,29.74,False,False,Valid
+ORD000534,2026-04-02,East,Technology,Keyboard,Small Business,Online,7,61.0,0.0,427.0,324.66,102.34,False,False,Valid
+ORD000535,2026-02-19,West,Furniture,Desk,Consumer,Partner,4,243.78,0.2,780.1,672.73,107.37,False,False,Valid
+ORD000536,2025-01-19,South,Technology,Laptop,Small Business,Retail,6,984.21,0.1,5314.73,4133.37,1181.36,False,False,Valid
+ORD000537,2026-05-19,East,Furniture,Lamp,Small Business,Retail,8,47.63,0.05,361.99,285.43,76.56,False,False,Valid
+ORD000538,2025-02-02,East,Technology,Headphones,Enterprise,Partner,5,31.11,0.05,147.77,111.36,36.41,False,False,Valid
+ORD000539,2025-02-16,East,Technology,Headphones,Consumer,Partner,5,79.87,0.0,399.35,245.47,153.88,False,False,Valid
+ORD000540,2025-07-04,West,Technology,Headphones,Enterprise,Retail,4,73.87,0.15,251.16,189.57,61.59,False,False,Valid
+ORD000541,2026-06-21,South,Technology,Monitor,Consumer,Partner,7,255.56,0.1,1610.03,1510.58,99.45,False,False,Valid
+ORD000542,2025-08-21,North,Office Supplies,Pens,Small Business,Partner,8,3.79,0.15,25.77,19.1,6.67,False,False,Valid
+ORD000543,2026-08-16,Central,Technology,Monitor,Enterprise,Online,6,201.29,0.2,966.19,1031.67,-65.48,False,False,Valid
+ORD000544,2025-04-25,Central,Technology,Headphones,Consumer,Partner,5,85.61,0.2,342.44,346.57,-4.13,False,False,Valid
+ORD000545,2026-09-02,West,Furniture,Lamp,Enterprise,Retail,2,65.48,0.2,104.77,78.8,25.97,False,False,Valid
+ORD000546,2026-02-15,West,Technology,Monitor,Consumer,Partner,1,408.32,0.15,347.07,331.01,16.06,False,False,Valid
+ORD000547,2025-06-15,North,Furniture,Desk,Small Business,Online,5,432.94,0.05,2056.46,1515.49,540.97,False,False,Valid
+ORD000548,2025-10-10,West,Office Supplies,Storage Box,Enterprise,Partner,5,19.58,0.1,88.11,69.71,18.4,False,False,Valid
+ORD000549,2026-01-12,North,Technology,Laptop,Consumer,Online,4,1228.58,0.0,4914.32,4059.46,854.86,False,False,Valid
+ORD000550,2025-03-19,West,Office Supplies,Binder,Enterprise,Online,5,9.82,0.05,46.64,41.79,4.85,False,False,Valid
+ORD000551,2025-06-14,East,Technology,Keyboard,Enterprise,Partner,3,41.93,0.0,125.79,94.45,31.34,False,False,Valid
+ORD000552,2025-06-20,West,Technology,Keyboard,Consumer,Partner,6,83.37,0.05,475.21,397.18,78.03,False,False,Valid
+ORD000553,2025-03-18,North,Technology,Keyboard,Small Business,Retail,4,58.7,0.05,223.06,185.69,37.37,False,False,Valid
+ORD000554,2026-01-06,West,Office Supplies,Paper Pack,Enterprise,Retail,2,18.67,0.1,33.61,30.4,3.21,False,False,Valid
+ORD000555,2026-01-17,South,Furniture,Lamp,Small Business,Partner,6,76.95,0.15,392.45,392.72,-0.27,False,False,Valid
+ORD000556,2026-04-29,South,Office Supplies,Storage Box,Enterprise,Online,2,45.85,0.0,91.7,60.29,31.41,False,False,Valid
+ORD000557,2025-02-07,Central,Office Supplies,Binder,Consumer,Retail,6,19.89,0.1,107.41,92.9,14.51,False,False,Valid
+ORD000558,2026-05-05,Central,Office Supplies,Paper Pack,Consumer,Partner,7,20.22,0.05,134.46,92.51,41.95,False,False,Valid
+ORD000559,2025-12-21,North,Technology,Laptop,Small Business,Retail,1,959.85,0.2,767.88,663.11,104.77,False,False,Valid
+ORD000560,2025-05-30,East,Furniture,Desk,Small Business,Retail,6,458.59,0.1,2476.39,1718.21,758.18,False,False,Valid
+ORD000561,2025-04-10,Central,Furniture,Desk,Enterprise,Partner,4,322.44,0.1,1160.78,900.04,260.74,False,False,Valid
+ORD000562,2026-09-03,East,Furniture,Lamp,Small Business,Online,4,98.3,0.0,393.2,299.27,93.93,False,False,Valid
+ORD000563,2025-12-18,North,Office Supplies,Storage Box,Enterprise,Online,4,25.54,0.1,91.94,62.09,29.85,False,False,Valid
+ORD000564,2025-11-17,West,Technology,Laptop,Consumer,Online,5,1016.94,0.2,4067.76,3286.78,780.98,False,False,Valid
+ORD000565,2026-02-12,North,Technology,Headphones,Consumer,Online,3,86.32,0.15,220.12,216.9,3.22,False,False,Valid
+ORD000566,2026-03-28,North,Office Supplies,Storage Box,Consumer,Retail,8,27.29,0.05,207.4,184.85,22.55,False,False,Valid
+ORD000567,2026-04-13,West,Office Supplies,Storage Box,Consumer,Retail,2,12.59,0.05,23.92,17.62,6.3,False,False,Valid
+ORD000568,2026-04-24,Central,Furniture,Bookshelf,Enterprise,Partner,3,179.72,0.2,431.33,349.0,82.33,False,False,Valid
+ORD000569,2026-01-11,South,Technology,Monitor,Consumer,Partner,5,236.11,0.0,1180.55,942.91,237.64,False,False,Valid
+ORD000570,2025-09-10,West,Office Supplies,Pens,Enterprise,Online,8,10.37,0.05,78.81,53.87,24.94,False,False,Valid
+ORD000571,2026-07-29,Central,Technology,Headphones,Consumer,Retail,3,78.1,0.2,187.44,142.4,45.04,False,False,Valid
+ORD000572,2025-12-15,South,Technology,Headphones,Enterprise,Retail,1,175.26,0.1,157.73,118.55,39.18,False,False,Valid
+ORD000573,2026-04-20,South,Technology,Laptop,Enterprise,Partner,3,824.94,0.0,2474.82,1768.56,706.26,False,False,Valid
+ORD000574,2025-12-21,North,Furniture,Desk,Small Business,Retail,8,367.04,0.0,2936.32,1866.2,1070.12,False,False,Valid
+ORD000575,2025-08-01,North,Technology,Monitor,Small Business,Retail,2,315.48,0.05,599.41,379.6,219.81,False,False,Valid
+ORD000576,2026-08-21,North,Technology,Monitor,Enterprise,Retail,8,151.05,0.1,1087.56,860.72,226.84,False,False,Valid
+ORD000577,2026-07-22,South,Office Supplies,Paper Pack,Small Business,Online,6,17.83,0.0,106.98,84.17,22.81,False,False,Valid
+ORD000578,2025-03-29,Central,Technology,Laptop,Enterprise,Online,4,906.44,0.0,3625.76,2430.43,1195.33,False,False,Valid
+ORD000579,2026-03-14,Central,Furniture,Desk,Enterprise,Retail,5,248.85,0.05,1182.04,926.16,255.88,False,False,Valid
+ORD000580,2026-01-18,West,Technology,Laptop,Small Business,Retail,4,843.59,0.0,3374.36,2496.48,877.88,False,False,Valid
+ORD000581,2025-05-11,West,Technology,Headphones,Small Business,Online,2,30.78,0.15,52.33,43.09,9.24,False,False,Valid
+ORD000582,2025-04-23,South,Furniture,Desk,Consumer,Retail,1,473.56,0.0,473.56,391.21,82.35,False,False,Valid
+ORD000583,2026-03-22,Central,Office Supplies,Storage Box,Enterprise,Online,5,45.49,0.0,227.45,157.38,70.07,False,False,Valid
+ORD000584,2026-06-29,East,Office Supplies,Paper Pack,Small Business,Online,4,20.6,0.05,78.28,70.66,7.62,False,False,Valid
+ORD000585,2026-03-07,West,Office Supplies,Binder,Consumer,Partner,1,3.93,0.0,3.93,2.83,1.1,False,False,Valid
+ORD000586,2025-11-20,North,Office Supplies,Storage Box,Small Business,Online,1,30.07,0.2,24.06,20.0,4.06,False,False,Valid
+ORD000587,2025-01-17,East,Technology,Keyboard,Small Business,Partner,3,94.49,0.15,240.95,229.3,11.65,False,False,Valid
+ORD000588,2025-06-05,East,Technology,Headphones,Consumer,Online,5,114.93,0.2,459.72,491.33,-31.61,False,False,Valid
+ORD000589,2025-02-28,West,Office Supplies,Storage Box,Enterprise,Online,8,29.31,0.15,199.31,193.37,5.94,False,False,Valid
+ORD000590,2025-05-02,West,Furniture,Lamp,Small Business,Retail,5,98.44,0.0,492.2,374.08,118.12,False,False,Valid
+ORD000591,2026-03-10,North,Technology,Headphones,Enterprise,Partner,4,93.01,0.1,334.84,261.75,73.09,False,False,Valid
+ORD000592,2026-04-20,North,Furniture,Bookshelf,Enterprise,Online,2,62.67,0.0,125.34,100.44,24.9,False,False,Valid
+ORD000593,2025-08-13,Central,Furniture,Lamp,Consumer,Online,6,42.19,0.0,253.14,168.05,85.09,False,False,Valid
+ORD000594,2026-07-29,North,Technology,Headphones,Consumer,Retail,2,66.62,0.05,126.58,99.22,27.36,False,False,Valid
+ORD000595,2026-01-30,Central,Office Supplies,Storage Box,Small Business,Partner,1,34.28,0.1,30.85,23.09,7.76,False,False,Valid
+ORD000596,2026-07-16,North,Technology,Headphones,Enterprise,Online,7,110.3,0.2,617.68,617.14,0.54,False,False,Valid
+ORD000597,2026-04-08,South,Office Supplies,Storage Box,Small Business,Partner,5,20.7,0.1,93.15,77.24,15.91,False,False,Valid
+ORD000598,2025-08-29,South,Office Supplies,Binder,Consumer,Partner,3,14.0,0.0,42.0,28.51,13.49,False,False,Valid
+ORD000599,2026-03-05,East,Technology,Headphones,Small Business,Partner,5,116.53,0.0,582.65,357.29,225.36,False,False,Valid
+ORD000600,2025-01-27,North,Office Supplies,Paper Pack,Consumer,Partner,4,19.53,0.15,66.4,66.46,-0.06,False,False,Valid
+ORD000601,2025-07-16,East,Office Supplies,Binder,Small Business,Partner,7,8.79,0.0,61.53,42.71,18.82,False,False,Valid
+ORD000602,2025-10-30,South,Furniture,Bookshelf,Enterprise,Online,8,102.5,0.15,697.0,690.51,6.49,False,False,Valid
+ORD000603,2025-08-18,North,Office Supplies,Storage Box,Enterprise,Online,8,26.6,0.0,212.8,174.07,38.73,False,False,Valid
+ORD000604,2026-08-17,East,Furniture,Bookshelf,Small Business,Retail,1,164.31,0.05,156.09,129.53,26.56,False,False,Valid
+ORD000605,2026-02-12,North,Technology,Keyboard,Enterprise,Online,8,80.07,0.0,640.56,460.16,180.4,False,False,Valid
+ORD000606,2025-04-02,East,Technology,Monitor,Consumer,Online,7,221.87,0.1,1397.78,1053.66,344.12,False,False,Valid
+ORD000607,2025-04-14,Central,Technology,Headphones,Small Business,Partner,5,36.74,0.05,174.52,119.07,55.45,False,False,Valid
+ORD000608,2025-04-10,North,Furniture,Desk,Small Business,Retail,7,290.32,0.1,1829.02,1483.36,345.66,False,False,Valid
+ORD000609,2025-12-21,North,Office Supplies,Pens,Small Business,Partner,2,12.47,0.05,23.69,16.63,7.06,False,False,Valid
+ORD000610,2026-07-01,East,Office Supplies,Storage Box,Enterprise,Retail,8,44.61,0.05,339.04,218.98,120.06,False,False,Valid
+ORD000611,2026-03-09,East,Office Supplies,Pens,Small Business,Partner,3,5.69,0.05,16.22,14.42,1.8,False,False,Valid
+ORD000612,2025-07-20,North,Furniture,Lamp,Enterprise,Partner,6,63.68,0.05,362.98,281.57,81.41,False,False,Valid
+ORD000613,2026-03-04,West,Furniture,Lamp,Enterprise,Retail,6,68.11,0.1,367.79,294.66,73.13,False,False,Valid
+ORD000614,2025-04-29,Central,Office Supplies,Storage Box,Small Business,Partner,3,47.89,0.1,129.3,100.86,28.44,False,False,Valid
+ORD000615,2026-06-09,South,Furniture,Desk,Consumer,Online,4,180.39,0.0,721.56,534.02,187.54,False,False,Valid
+ORD000616,2026-07-31,Central,Furniture,Lamp,Consumer,Partner,3,25.68,0.0,77.04,55.25,21.79,False,False,Valid
+ORD000617,2026-04-03,South,Office Supplies,Pens,Consumer,Partner,6,5.68,0.2,27.26,26.88,0.38,False,False,Valid
+ORD000618,2026-04-15,Central,Office Supplies,Storage Box,Enterprise,Partner,7,19.93,0.05,132.53,115.39,17.14,False,False,Valid
+ORD000619,2026-07-18,South,Furniture,Office Chair,Enterprise,Retail,3,107.96,0.1,291.49,197.66,93.83,False,False,Valid
+ORD000620,2026-03-16,East,Office Supplies,Storage Box,Enterprise,Online,6,40.9,0.0,245.4,155.82,89.58,False,False,Valid
+ORD000621,2025-10-17,South,Office Supplies,Pens,Enterprise,Partner,7,6.27,0.0,43.89,28.29,15.6,False,False,Valid
+ORD000622,2026-05-19,North,Office Supplies,Pens,Consumer,Retail,2,5.25,0.0,10.5,6.77,3.73,False,False,Valid
+ORD000623,2025-04-04,South,Technology,Keyboard,Enterprise,Partner,8,81.89,0.05,622.36,463.22,159.14,False,False,Valid
+ORD000624,2025-06-17,East,Technology,Headphones,Consumer,Retail,6,165.94,0.2,796.51,740.28,56.23,False,False,Valid
+ORD000625,2025-04-15,Central,Technology,Keyboard,Enterprise,Partner,5,90.97,0.1,409.37,341.36,68.01,False,False,Valid
+ORD000626,2026-04-30,South,Technology,Monitor,Small Business,Partner,5,379.05,0.15,1610.96,1403.05,207.91,False,False,Valid
+ORD000627,2026-03-03,South,Technology,Monitor,Small Business,Partner,7,300.15,0.0,2101.05,1265.11,835.94,False,False,Valid
+ORD000628,2025-06-28,Central,Furniture,Desk,Enterprise,Partner,8,491.67,0.15,3343.36,2985.08,358.28,False,False,Valid
+ORD000629,2025-08-03,North,Technology,Headphones,Consumer,Online,4,44.81,0.0,179.24,129.28,49.96,False,False,Valid
+ORD000630,2025-01-15,Central,Furniture,Bookshelf,Small Business,Online,1,217.67,0.0,217.67,141.21,76.46,False,False,Valid
+ORD000631,2025-08-11,East,Technology,Headphones,Enterprise,Partner,3,108.87,0.15,277.62,236.07,41.55,False,False,Valid
+ORD000632,2026-05-09,North,Technology,Laptop,Enterprise,Retail,6,723.67,0.0,4342.02,2925.76,1416.26,False,False,Valid
+ORD000633,2026-02-06,West,Technology,Monitor,Small Business,Retail,7,380.03,0.1,2394.19,1707.9,686.29,False,False,Valid
+ORD000634,2025-12-27,East,Technology,Keyboard,Small Business,Retail,5,83.94,0.2,335.76,311.29,24.47,False,False,Valid
+ORD000635,2026-02-14,West,Technology,Laptop,Consumer,Partner,1,1169.27,0.1,1052.34,849.76,202.58,False,False,Valid
+ORD000636,2025-10-05,East,Technology,Headphones,Small Business,Online,5,138.92,0.15,590.41,505.77,84.64,False,False,Valid
+ORD000637,2025-04-08,South,Technology,Headphones,Enterprise,Online,6,175.5,0.05,1000.35,756.49,243.86,False,False,Valid
+ORD000638,2025-05-07,North,Furniture,Office Chair,Consumer,Retail,3,281.4,0.0,844.2,528.48,315.72,False,False,Valid
+ORD000639,2026-03-28,West,Furniture,Bookshelf,Consumer,Partner,2,130.68,0.2,209.09,204.49,4.6,False,False,Valid
+ORD000640,2025-11-21,North,Furniture,Bookshelf,Enterprise,Online,4,163.34,0.0,653.36,465.57,187.79,False,False,Valid
+ORD000641,2025-04-28,Central,Technology,Keyboard,Small Business,Partner,1,70.81,0.0,70.81,46.06,24.75,False,False,Valid
+ORD000642,2026-03-11,West,Furniture,Bookshelf,Enterprise,Retail,6,141.68,0.0,850.08,568.85,281.23,False,False,Valid
+ORD000643,2025-09-23,West,Furniture,Bookshelf,Consumer,Online,2,219.13,0.15,372.52,301.92,70.6,False,False,Valid
+ORD000644,2025-02-12,East,Furniture,Lamp,Consumer,Online,5,85.09,0.2,340.36,331.08,9.28,False,False,Valid
+ORD000645,2026-08-15,West,Technology,Headphones,Consumer,Partner,6,101.44,0.0,608.64,473.09,135.55,False,False,Valid
+ORD000646,2026-07-08,East,Technology,Keyboard,Enterprise,Online,3,37.19,0.05,105.99,70.81,35.18,False,False,Valid
+ORD000647,2025-05-25,South,Office Supplies,Paper Pack,Consumer,Online,3,20.78,0.0,62.34,52.69,9.65,False,False,Valid
+ORD000648,2025-08-14,West,Office Supplies,Pens,Enterprise,Partner,3,5.03,0.0,15.09,9.22,5.87,False,False,Valid
+ORD000649,2025-02-22,Central,Technology,Monitor,Consumer,Retail,6,192.01,0.05,1094.46,741.83,352.63,False,False,Valid
+ORD000650,2026-01-12,West,Technology,Keyboard,Enterprise,Partner,5,55.82,0.2,223.28,229.34,-6.06,False,False,Valid
+ORD000651,2026-06-23,South,Office Supplies,Paper Pack,Small Business,Retail,4,10.5,0.2,33.6,33.36,0.24,False,False,Valid
+ORD000652,2026-02-01,Central,Technology,Headphones,Consumer,Online,8,165.78,0.15,1127.3,844.9,282.4,False,False,Valid
+ORD000653,2026-01-18,North,Technology,Monitor,Consumer,Online,4,363.97,0.1,1310.29,1105.78,204.51,False,False,Valid
+ORD000654,2026-04-12,North,Furniture,Office Chair,Small Business,Retail,3,99.86,0.2,239.66,229.12,10.54,False,False,Valid
+ORD000655,2025-02-01,Central,Technology,Laptop,Consumer,Online,3,828.11,0.15,2111.68,1936.98,174.7,False,False,Valid
+ORD000656,2025-11-07,West,Technology,Monitor,Small Business,Online,7,248.9,0.0,1742.3,1099.03,643.27,False,False,Valid
+ORD000657,2026-05-29,South,Office Supplies,Paper Pack,Enterprise,Partner,1,4.86,0.0,4.86,4.14,0.72,False,False,Valid
+ORD000658,2026-04-25,West,Office Supplies,Binder,Enterprise,Online,6,20.55,0.2,98.64,95.52,3.12,False,False,Valid
+ORD000659,2025-01-23,West,Furniture,Lamp,Enterprise,Partner,6,83.69,0.15,426.82,401.47,25.35,False,False,Valid
+ORD000660,2025-03-12,Central,Technology,Headphones,Consumer,Partner,3,28.7,0.05,81.79,67.55,14.24,False,False,Valid
+ORD000661,2026-07-28,West,Technology,Headphones,Small Business,Partner,1,82.26,0.1,74.03,58.99,15.04,False,False,Valid
+ORD000662,2026-06-30,South,Technology,Monitor,Enterprise,Retail,3,374.01,0.05,1065.93,865.52,200.41,False,False,Valid
+ORD000663,2025-02-05,East,Office Supplies,Pens,Small Business,Partner,8,9.11,0.2,58.3,60.11,-1.81,False,False,Valid
+ORD000664,2025-02-01,North,Technology,Laptop,Enterprise,Online,5,791.61,0.1,3562.25,3061.97,500.28,False,False,Valid
+ORD000665,2025-05-28,East,Furniture,Lamp,Consumer,Retail,5,68.42,0.15,290.79,267.2,23.59,False,False,Valid
+ORD000666,2025-09-25,South,Technology,Monitor,Enterprise,Retail,5,256.89,0.0,1284.45,901.7,382.75,False,False,Valid
+ORD000667,2026-04-21,South,Office Supplies,Binder,Small Business,Partner,2,15.23,0.15,25.89,20.78,5.11,False,False,Valid
+ORD000668,2026-04-30,Central,Technology,Keyboard,Small Business,Retail,8,37.42,0.1,269.42,181.63,87.79,False,False,Valid
+ORD000669,2025-11-08,East,Office Supplies,Pens,Small Business,Retail,3,13.13,0.15,33.48,31.12,2.36,False,False,Valid
+ORD000670,2025-01-30,East,Office Supplies,Binder,Small Business,Partner,4,6.8,0.05,25.84,20.18,5.66,False,False,Valid
+ORD000671,2025-07-27,South,Furniture,Bookshelf,Consumer,Retail,1,129.58,0.0,129.58,92.54,37.04,False,False,Valid
+ORD000672,2026-09-15,North,Technology,Monitor,Small Business,Partner,3,367.99,0.0,1103.97,818.17,285.8,False,False,Valid
+ORD000673,2025-02-27,East,Technology,Keyboard,Small Business,Online,1,66.72,0.15,56.71,53.94,2.77,False,False,Valid
+ORD000674,2025-11-30,Central,Technology,Keyboard,Enterprise,Retail,7,53.62,0.1,337.81,241.36,96.45,False,False,Valid
+ORD000675,2026-04-27,Central,Office Supplies,Pens,Enterprise,Partner,3,10.31,0.2,24.74,23.47,1.27,False,False,Valid
+ORD000676,2026-03-10,North,Technology,Monitor,Small Business,Retail,8,203.44,0.0,1627.52,1208.87,418.65,False,False,Valid
+ORD000677,2025-04-18,East,Furniture,Office Chair,Small Business,Online,8,267.66,0.0,2141.28,1590.31,550.97,False,False,Valid
+ORD000678,2026-05-17,North,Furniture,Lamp,Enterprise,Online,6,22.91,0.15,116.84,101.24,15.6,False,False,Valid
+ORD000679,2025-10-28,South,Furniture,Desk,Enterprise,Retail,4,329.11,0.15,1118.97,1066.78,52.19,False,False,Valid
+ORD000680,2025-01-11,West,Office Supplies,Pens,Enterprise,Retail,6,2.27,0.2,10.9,8.68,2.22,False,False,Valid
+ORD000681,2025-06-22,South,Furniture,Bookshelf,Enterprise,Online,2,216.12,0.0,432.24,272.61,159.63,False,False,Valid
+ORD000682,2025-03-31,West,Technology,Laptop,Small Business,Online,5,997.49,0.0,4987.45,3481.19,1506.26,False,False,Valid
+ORD000683,2025-09-24,North,Furniture,Desk,Consumer,Partner,3,301.05,0.05,857.99,731.31,126.68,False,False,Valid
+ORD000684,2025-04-20,East,Technology,Keyboard,Consumer,Partner,3,17.24,0.15,43.96,43.58,0.38,False,False,Valid
+ORD000685,2026-07-01,East,Technology,Keyboard,Small Business,Partner,8,16.17,0.2,103.49,104.0,-0.51,False,False,Valid
+ORD000686,2025-12-25,West,Technology,Monitor,Enterprise,Retail,3,161.81,0.0,485.43,354.23,131.2,False,False,Valid
+ORD000687,2025-11-07,Central,Office Supplies,Storage Box,Consumer,Partner,4,43.87,0.15,149.16,141.73,7.43,False,False,Valid
+ORD000688,2025-07-08,North,Office Supplies,Pens,Consumer,Retail,5,5.06,0.0,25.3,21.12,4.18,False,False,Valid
+ORD000689,2026-07-24,Central,Office Supplies,Storage Box,Enterprise,Partner,2,18.54,0.05,35.23,27.85,7.38,False,False,Valid
+ORD000690,2026-05-26,South,Technology,Keyboard,Small Business,Partner,7,83.79,0.0,586.53,431.19,155.34,False,False,Valid
+ORD000691,2026-09-20,East,Technology,Laptop,Small Business,Partner,2,897.6,0.05,1705.44,1292.77,412.67,False,False,Valid
+ORD000692,2026-09-13,East,Furniture,Bookshelf,Small Business,Online,3,149.76,0.2,359.42,314.21,45.21,False,False,Valid
+ORD000693,2026-09-23,South,Furniture,Bookshelf,Consumer,Online,7,63.01,0.2,352.86,329.72,23.14,False,False,Valid
+ORD000694,2025-01-08,East,Office Supplies,Binder,Consumer,Online,6,10.12,0.0,60.72,41.58,19.14,False,False,Valid
+ORD000695,2025-07-02,West,Technology,Monitor,Small Business,Online,1,176.55,0.1,158.9,139.34,19.56,False,False,Valid
+ORD000696,2025-05-12,South,Technology,Laptop,Enterprise,Online,4,875.3,0.0,3501.2,2643.54,857.66,False,False,Valid
+ORD000697,2025-01-01,East,Technology,Keyboard,Small Business,Retail,3,76.71,0.0,230.13,162.89,67.24,False,False,Valid
+ORD000698,2025-03-05,West,Furniture,Desk,Small Business,Retail,5,488.93,0.1,2200.18,1827.88,372.3,False,False,Valid
+ORD000699,2025-08-05,East,Furniture,Lamp,Small Business,Retail,1,18.5,0.0,18.5,12.32,6.18,False,False,Valid
+ORD000700,2026-08-15,South,Furniture,Lamp,Consumer,Online,8,41.54,0.05,315.7,217.66,98.04,False,False,Valid
+ORD000701,2025-02-11,East,Technology,Monitor,Small Business,Partner,2,208.19,0.2,333.1,266.18,66.92,False,False,Valid
+ORD000702,2025-09-17,North,Furniture,Lamp,Small Business,Partner,8,29.24,0.15,198.83,185.96,12.87,False,False,Valid
+ORD000703,2025-11-21,West,Technology,Headphones,Enterprise,Partner,5,99.66,0.1,448.47,329.72,118.75,False,False,Valid
+ORD000704,2025-06-17,Central,Technology,Headphones,Consumer,Online,2,27.51,0.15,46.77,42.59,4.18,False,False,Valid
+ORD000705,2025-01-21,West,Furniture,Office Chair,Consumer,Partner,5,110.24,0.2,440.96,397.91,43.05,False,False,Valid
+ORD000706,2025-04-30,East,Technology,Headphones,Small Business,Partner,3,178.4,0.0,535.2,387.71,147.49,False,False,Valid
+ORD000707,2025-08-14,West,Office Supplies,Pens,Consumer,Partner,2,6.17,0.1,11.11,10.25,0.86,False,False,Valid
+ORD000708,2026-05-23,East,Technology,Headphones,Enterprise,Partner,7,36.88,0.05,245.25,214.91,30.34,False,False,Valid
+ORD000709,2025-04-18,South,Technology,Monitor,Enterprise,Retail,8,309.14,0.2,1978.5,1501.48,477.02,False,False,Valid
+ORD000710,2026-03-25,Central,Office Supplies,Paper Pack,Consumer,Retail,1,12.66,0.15,10.76,9.43,1.33,False,False,Valid
+ORD000711,2025-08-17,West,Office Supplies,Storage Box,Consumer,Partner,5,31.88,0.0,159.4,125.92,33.48,False,False,Valid
+ORD000712,2026-03-28,Central,Furniture,Office Chair,Consumer,Online,1,163.62,0.15,139.08,135.12,3.96,False,False,Valid
+ORD000713,2026-06-18,Central,Technology,Headphones,Small Business,Partner,4,41.95,0.05,159.41,109.17,50.24,False,False,Valid
+ORD000714,2025-02-28,East,Office Supplies,Binder,Enterprise,Retail,8,27.8,0.0,222.4,182.83,39.57,False,False,Valid
+ORD000715,2025-11-01,Central,Office Supplies,Storage Box,Consumer,Retail,7,48.77,0.0,341.39,249.37,92.02,False,False,Valid
+ORD000716,2025-12-07,Central,Office Supplies,Paper Pack,Enterprise,Retail,4,19.09,0.0,76.36,56.05,20.31,False,False,Valid
+ORD000717,2025-04-11,West,Technology,Keyboard,Consumer,Online,1,83.8,0.0,83.8,59.39,24.41,False,False,Valid
+ORD000718,2026-03-09,West,Furniture,Desk,Consumer,Partner,2,493.28,0.0,986.56,815.65,170.91,False,False,Valid
+ORD000719,2026-03-13,North,Technology,Keyboard,Enterprise,Retail,4,67.61,0.15,229.87,227.82,2.05,False,False,Valid
+ORD000720,2025-11-24,North,Technology,Keyboard,Enterprise,Retail,7,54.37,0.1,342.53,250.6,91.93,False,False,Valid
+ORD000721,2025-04-26,North,Technology,Keyboard,Small Business,Online,1,60.23,0.0,60.23,46.51,13.72,False,False,Valid
+ORD000722,2025-02-26,West,Furniture,Office Chair,Consumer,Retail,8,254.25,0.1,1830.6,1289.52,541.08,False,False,Valid
+ORD000723,2026-01-28,South,Furniture,Desk,Small Business,Partner,1,299.11,0.2,239.29,251.09,-11.8,False,False,Valid
+ORD000724,2026-04-10,East,Office Supplies,Storage Box,Enterprise,Partner,7,34.18,0.0,239.26,160.92,78.34,False,False,Valid
+ORD000725,2025-09-08,Central,Technology,Laptop,Enterprise,Partner,5,1170.72,0.0,5853.6,4472.19,1381.41,False,False,Valid
+ORD000726,2025-01-05,West,Furniture,Lamp,Enterprise,Partner,4,32.74,0.2,104.77,97.92,6.85,False,False,Valid
+ORD000727,2025-11-21,North,Technology,Laptop,Enterprise,Retail,6,1224.13,0.2,5875.82,5366.9,508.92,False,False,Valid
+ORD000728,2026-04-01,North,Office Supplies,Pens,Consumer,Online,1,14.44,0.1,13.0,10.55,2.45,False,False,Valid
+ORD000729,2025-08-10,South,Technology,Keyboard,Enterprise,Partner,4,80.91,0.1,291.28,234.42,56.86,False,False,Valid
+ORD000730,2026-09-16,North,Office Supplies,Storage Box,Small Business,Retail,7,30.2,0.1,190.26,179.17,11.09,False,False,Valid
+ORD000731,2026-05-21,West,Office Supplies,Storage Box,Enterprise,Retail,7,10.7,0.2,59.92,48.35,11.57,False,False,Valid
+ORD000732,2025-05-12,North,Office Supplies,Paper Pack,Enterprise,Online,3,8.66,0.0,25.98,17.56,8.42,False,False,Valid
+ORD000733,2026-06-23,North,Technology,Monitor,Small Business,Online,5,245.43,0.0,1227.15,788.74,438.41,False,False,Valid
+ORD000734,2026-03-30,East,Furniture,Bookshelf,Small Business,Online,1,143.76,0.0,143.76,100.69,43.07,False,False,Valid
+ORD000735,2026-06-22,South,Office Supplies,Paper Pack,Small Business,Retail,4,4.02,0.15,13.67,11.32,2.35,False,False,Valid
+ORD000736,2025-12-07,Central,Technology,Laptop,Small Business,Retail,3,878.19,0.2,2107.66,2125.49,-17.83,False,False,Valid
+ORD000737,2025-07-25,West,Technology,Laptop,Consumer,Retail,1,746.04,0.2,596.83,492.58,104.25,False,False,Valid
+ORD000738,2025-06-10,East,Furniture,Lamp,Small Business,Retail,8,21.8,0.05,165.68,144.03,21.65,False,False,Valid
+ORD000739,2025-04-05,East,Technology,Keyboard,Small Business,Retail,3,92.56,0.2,222.14,172.14,50.0,False,False,Valid
+ORD000740,2025-09-28,West,Furniture,Lamp,Small Business,Partner,5,44.83,0.0,224.15,137.59,86.56,False,False,Valid
+ORD000741,2026-03-26,East,Office Supplies,Binder,Consumer,Online,6,23.84,0.0,143.04,96.81,46.23,False,False,Valid
+ORD000742,2026-05-13,East,Furniture,Office Chair,Consumer,Retail,7,253.98,0.15,1511.18,1496.76,14.42,False,False,Valid
+ORD000743,2026-01-21,North,Furniture,Office Chair,Consumer,Online,1,175.22,0.05,166.46,145.37,21.09,False,False,Valid
+ORD000744,2026-03-14,Central,Furniture,Lamp,Small Business,Online,5,85.1,0.2,340.4,315.34,25.06,False,False,Valid
+ORD000745,2025-02-05,East,Furniture,Desk,Small Business,Retail,7,133.36,0.0,933.52,722.29,211.23,False,False,Valid
+ORD000746,2025-08-17,South,Office Supplies,Pens,Consumer,Retail,7,4.87,0.15,28.98,28.66,0.32,False,False,Valid
+ORD000747,2025-02-16,South,Furniture,Office Chair,Enterprise,Online,7,242.78,0.2,1359.57,1359.21,0.36,False,False,Valid
+ORD000748,2026-05-10,Central,Office Supplies,Paper Pack,Consumer,Online,6,9.61,0.0,57.66,46.52,11.14,False,False,Valid
+ORD000749,2025-01-26,North,Office Supplies,Pens,Enterprise,Partner,3,10.48,0.1,28.3,22.84,5.46,False,False,Valid
+ORD000750,2026-09-10,East,Office Supplies,Binder,Small Business,Partner,1,7.98,0.05,7.58,4.86,2.72,False,False,Valid
+ORD000751,2025-11-19,West,Furniture,Office Chair,Small Business,Retail,7,218.51,0.05,1453.09,1039.19,413.9,False,False,Valid
+ORD000752,2026-04-19,North,Furniture,Bookshelf,Consumer,Partner,6,200.07,0.0,1200.42,860.12,340.3,False,False,Valid
+ORD000753,2026-09-24,West,Technology,Headphones,Enterprise,Partner,5,30.57,0.05,145.21,106.43,38.78,False,False,Valid
+ORD000754,2026-04-14,South,Furniture,Office Chair,Consumer,Partner,8,134.83,0.2,862.91,876.85,-13.94,False,False,Valid
+ORD000755,2026-04-16,West,Furniture,Office Chair,Small Business,Online,3,311.68,0.0,935.04,576.1,358.94,False,False,Valid
+ORD000756,2025-04-19,North,Office Supplies,Pens,Consumer,Partner,4,13.64,0.0,54.56,41.58,12.98,False,False,Valid
+ORD000757,2026-03-01,West,Technology,Headphones,Consumer,Partner,5,69.34,0.2,277.36,288.93,-11.57,False,False,Valid
+ORD000758,2025-01-02,Central,Furniture,Bookshelf,Consumer,Online,1,64.03,0.05,60.83,54.76,6.07,False,False,Valid
+ORD000759,2025-11-30,South,Furniture,Lamp,Small Business,Online,8,64.77,0.0,518.16,389.2,128.96,False,False,Valid
+ORD000760,2026-06-11,South,Office Supplies,Storage Box,Small Business,Online,1,22.42,0.15,19.06,14.35,4.71,False,False,Valid
+ORD000761,2025-10-05,East,Office Supplies,Pens,Consumer,Online,7,3.05,0.2,17.08,13.97,3.11,False,False,Valid
+ORD000762,2026-09-12,North,Furniture,Desk,Enterprise,Online,3,218.31,0.15,556.69,562.92,-6.23,False,False,Valid
+ORD000763,2026-08-23,East,Furniture,Office Chair,Enterprise,Partner,7,122.75,0.0,859.25,690.22,169.03,False,False,Valid
+ORD000764,2025-03-17,North,Technology,Headphones,Enterprise,Retail,8,127.26,0.1,916.27,822.4,93.87,False,False,Valid
+ORD000765,2025-04-03,North,Technology,Laptop,Consumer,Online,7,786.93,0.15,4682.23,3971.76,710.47,False,False,Valid
+ORD000766,2025-12-27,Central,Technology,Monitor,Enterprise,Online,5,269.28,0.05,1279.08,1011.53,267.55,False,False,Valid
+ORD000767,2026-03-24,Central,Technology,Laptop,Enterprise,Online,3,1227.56,0.0,3682.68,2472.42,1210.26,False,False,Valid
+ORD000768,2025-04-08,East,Furniture,Lamp,Consumer,Online,1,38.22,0.0,38.22,27.84,10.38,False,False,Valid
+ORD000769,2026-05-20,North,Technology,Monitor,Enterprise,Retail,2,389.15,0.0,778.3,598.59,179.71,False,False,Valid
+ORD000770,2025-01-03,South,Furniture,Bookshelf,Small Business,Online,4,205.61,0.0,822.44,572.39,250.05,False,False,Valid
+ORD000771,2025-11-22,East,Technology,Laptop,Consumer,Online,3,997.49,0.1,2693.22,2518.6,174.62,False,False,Valid
+ORD000772,2026-06-17,South,Office Supplies,Pens,Consumer,Retail,3,7.82,0.2,18.77,15.62,3.15,False,False,Valid
+ORD000773,2026-05-30,South,Office Supplies,Paper Pack,Consumer,Online,5,5.07,0.0,25.35,17.99,7.36,False,False,Valid
+ORD000774,2026-04-12,South,Office Supplies,Binder,Enterprise,Partner,3,5.13,0.0,15.39,11.04,4.35,False,False,Valid
+ORD000775,2026-02-17,East,Furniture,Bookshelf,Consumer,Online,4,117.28,0.1,422.21,379.7,42.51,False,False,Valid
+ORD000776,2026-08-28,East,Technology,Laptop,Consumer,Retail,8,709.54,0.0,5676.32,3470.99,2205.33,False,False,Valid
+ORD000777,2025-02-25,South,Furniture,Bookshelf,Enterprise,Partner,3,186.56,0.0,559.68,456.26,103.42,False,False,Valid
+ORD000778,2026-01-27,North,Technology,Keyboard,Small Business,Online,6,89.85,0.05,512.14,337.77,174.37,False,False,Valid
+ORD000779,2025-04-27,Central,Furniture,Bookshelf,Enterprise,Partner,1,215.28,0.15,182.99,172.91,10.08,False,False,Valid
+ORD000780,2026-03-02,Central,Office Supplies,Storage Box,Small Business,Retail,6,52.08,0.0,312.48,263.6,48.88,False,False,Valid
+ORD000781,2025-05-27,South,Furniture,Lamp,Small Business,Online,6,94.69,0.2,454.51,453.52,0.99,False,False,Valid
+ORD000782,2025-03-14,West,Technology,Monitor,Small Business,Retail,5,187.94,0.1,845.73,798.63,47.1,False,False,Valid
+ORD000783,2025-03-03,South,Technology,Headphones,Small Business,Partner,5,69.71,0.05,331.12,297.19,33.93,False,False,Valid
+ORD000784,2025-08-04,East,Technology,Monitor,Small Business,Partner,7,211.0,0.0,1477.0,1234.4,242.6,False,False,Valid
+ORD000785,2026-05-23,West,Technology,Laptop,Enterprise,Retail,8,975.82,0.2,6245.25,6279.84,-34.59,False,False,Valid
+ORD000786,2026-07-05,West,Technology,Keyboard,Enterprise,Partner,8,94.88,0.2,607.23,463.3,143.93,False,False,Valid
+ORD000787,2025-04-21,North,Office Supplies,Storage Box,Enterprise,Online,8,18.12,0.2,115.97,98.38,17.59,False,False,Valid
+ORD000788,2025-02-09,North,Office Supplies,Paper Pack,Enterprise,Online,2,13.65,0.1,24.57,19.43,5.14,False,False,Valid
+ORD000789,2026-04-12,Central,Furniture,Lamp,Small Business,Partner,1,80.1,0.2,64.08,67.71,-3.63,False,False,Valid
+ORD000790,2026-01-08,West,Office Supplies,Paper Pack,Small Business,Online,6,4.04,0.0,24.24,20.33,3.91,False,False,Valid
+ORD000791,2025-04-09,South,Furniture,Lamp,Consumer,Online,4,21.26,0.0,85.04,66.71,18.33,False,False,Valid
+ORD000792,2026-04-03,Central,Office Supplies,Paper Pack,Consumer,Online,2,19.02,0.0,38.04,24.04,14.0,False,False,Valid
+ORD000793,2025-08-11,South,Office Supplies,Binder,Small Business,Retail,6,6.82,0.2,32.74,34.81,-2.07,False,False,Valid
+ORD000794,2025-09-19,Central,Technology,Monitor,Small Business,Retail,6,307.1,0.05,1750.47,1270.64,479.83,False,False,Valid
+ORD000795,2025-06-29,Central,Technology,Keyboard,Consumer,Retail,4,20.54,0.1,73.94,60.89,13.05,False,False,Valid
+ORD000796,2025-04-27,Central,Office Supplies,Binder,Consumer,Retail,2,9.8,0.0,19.6,12.01,7.59,False,False,Valid
+ORD000797,2025-08-10,South,Furniture,Lamp,Consumer,Partner,5,69.05,0.0,345.25,278.74,66.51,False,False,Valid
+ORD000798,2025-08-20,East,Furniture,Desk,Enterprise,Partner,4,170.12,0.0,680.48,424.77,255.71,False,False,Valid
+ORD000799,2025-12-18,North,Furniture,Lamp,Enterprise,Partner,2,89.92,0.0,179.84,154.53,25.31,False,False,Valid
+ORD000800,2025-10-27,West,Office Supplies,Pens,Small Business,Partner,4,4.92,0.1,17.71,14.22,3.49,False,False,Valid
+ORD000801,2026-01-21,Central,Technology,Monitor,Enterprise,Retail,5,274.42,0.2,1097.68,1012.13,85.55,False,False,Valid
+ORD000802,2026-08-15,North,Technology,Laptop,Small Business,Retail,7,1148.61,0.2,6432.22,5798.25,633.97,False,False,Valid
+ORD000803,2025-03-18,West,Technology,Keyboard,Enterprise,Retail,6,41.68,0.1,225.07,214.19,10.88,False,False,Valid
+ORD000804,2025-12-03,Central,Technology,Headphones,Consumer,Partner,7,55.66,0.0,389.62,269.89,119.73,False,False,Valid
+ORD000805,2026-09-08,North,Office Supplies,Pens,Small Business,Retail,1,10.88,0.05,10.34,7.21,3.13,False,False,Valid
+ORD000806,2025-02-15,West,Technology,Headphones,Small Business,Retail,1,143.55,0.15,122.02,107.43,14.59,False,False,Valid
+ORD000807,2025-02-22,South,Furniture,Office Chair,Enterprise,Retail,6,263.28,0.05,1500.7,1181.33,319.37,False,False,Valid
+ORD000808,2025-08-16,South,Technology,Keyboard,Consumer,Retail,1,55.18,0.15,46.9,34.69,12.21,False,False,Valid
+ORD000809,2025-10-29,East,Technology,Monitor,Small Business,Retail,6,146.51,0.15,747.2,608.24,138.96,False,False,Valid
+ORD000810,2026-07-28,Central,Office Supplies,Binder,Consumer,Retail,8,10.01,0.0,80.08,61.55,18.53,False,False,Valid
+ORD000811,2025-06-14,South,Furniture,Desk,Small Business,Retail,6,408.11,0.05,2326.23,2083.6,242.63,False,False,Valid
+ORD000812,2025-06-17,South,Technology,Keyboard,Enterprise,Online,1,36.33,0.05,34.51,26.81,7.7,False,False,Valid
+ORD000813,2025-05-04,Central,Office Supplies,Storage Box,Consumer,Online,3,23.31,0.05,66.43,46.07,20.36,False,False,Valid
+ORD000814,2026-08-11,South,Technology,Headphones,Small Business,Online,8,113.78,0.0,910.24,737.78,172.46,False,False,Valid
+ORD000815,2026-09-23,South,Office Supplies,Paper Pack,Consumer,Retail,2,5.21,0.0,10.42,8.68,1.74,False,False,Valid
+ORD000816,2025-10-08,North,Office Supplies,Pens,Enterprise,Online,6,13.75,0.05,78.38,55.52,22.86,False,False,Valid
+ORD000817,2025-01-03,East,Furniture,Lamp,Enterprise,Online,1,20.42,0.15,17.36,14.96,2.4,False,False,Valid
+ORD000818,2025-05-11,West,Technology,Laptop,Enterprise,Retail,3,1191.17,0.15,3037.48,2286.5,750.98,False,False,Valid
+ORD000819,2025-04-30,Central,Office Supplies,Storage Box,Small Business,Online,4,8.85,0.0,35.4,29.07,6.33,False,False,Valid
+ORD000820,2025-02-28,South,Furniture,Office Chair,Consumer,Online,3,262.45,0.05,747.98,575.22,172.76,False,False,Valid
+ORD000821,2026-04-01,North,Office Supplies,Paper Pack,Consumer,Online,7,17.6,0.1,110.88,101.25,9.63,False,False,Valid
+ORD000822,2025-10-23,East,Office Supplies,Binder,Consumer,Retail,1,16.86,0.15,14.33,10.36,3.97,False,False,Valid
+ORD000823,2025-08-02,West,Technology,Headphones,Consumer,Online,8,45.53,0.2,291.39,231.64,59.75,False,False,Valid
+ORD000824,2026-01-24,South,Furniture,Desk,Consumer,Online,1,450.33,0.05,427.81,371.76,56.05,False,False,Valid
+ORD000825,2026-07-21,East,Technology,Monitor,Small Business,Online,2,201.4,0.1,362.52,314.29,48.23,False,False,Valid
+ORD000826,2025-11-20,East,Furniture,Lamp,Consumer,Retail,1,86.94,0.2,69.55,61.27,8.28,False,False,Valid
+ORD000827,2026-06-09,East,Technology,Monitor,Enterprise,Online,5,404.16,0.05,1919.76,1561.33,358.43,False,False,Valid
+ORD000828,2025-02-22,South,Technology,Laptop,Consumer,Partner,4,895.49,0.0,3581.96,2799.37,782.59,False,False,Valid
+ORD000829,2026-08-26,West,Office Supplies,Storage Box,Small Business,Partner,6,40.8,0.0,244.8,164.32,80.48,False,False,Valid
+ORD000830,2025-10-06,West,Technology,Keyboard,Small Business,Online,1,72.04,0.0,72.04,57.1,14.94,False,False,Valid
+ORD000831,2025-03-31,South,Furniture,Lamp,Enterprise,Partner,8,70.94,0.1,510.77,454.7,56.07,False,False,Valid
+ORD000832,2026-04-06,North,Office Supplies,Paper Pack,Consumer,Partner,6,7.54,0.0,45.24,31.33,13.91,False,False,Valid
+ORD000833,2025-01-27,Central,Furniture,Bookshelf,Enterprise,Retail,3,90.02,0.15,229.55,167.46,62.09,False,False,Valid
+ORD000834,2025-08-29,West,Office Supplies,Paper Pack,Consumer,Online,3,16.97,0.1,45.82,40.87,4.95,False,False,Valid
+ORD000835,2025-02-20,Central,Office Supplies,Pens,Consumer,Partner,6,8.9,0.05,50.73,38.39,12.34,False,False,Valid
+ORD000836,2025-06-28,East,Technology,Keyboard,Small Business,Online,2,89.6,0.0,179.2,146.4,32.8,False,False,Valid
+ORD000837,2025-12-04,West,Technology,Laptop,Small Business,Online,7,825.67,0.0,5779.69,4040.15,1739.54,False,False,Valid
+ORD000838,2025-07-04,North,Office Supplies,Pens,Enterprise,Online,3,13.12,0.0,39.36,33.4,5.96,False,False,Valid
+ORD000839,2026-08-01,Central,Technology,Monitor,Enterprise,Retail,2,398.77,0.15,677.91,526.88,151.03,False,False,Valid
+ORD000840,2025-06-12,East,Technology,Keyboard,Consumer,Partner,7,51.38,0.1,323.69,292.52,31.17,False,False,Valid
+ORD000841,2026-02-08,Central,Furniture,Lamp,Enterprise,Online,2,62.87,0.2,100.59,89.58,11.01,False,False,Valid
+ORD000842,2025-10-23,Central,Technology,Monitor,Consumer,Online,3,123.74,0.0,371.22,279.55,91.67,False,False,Valid
+ORD000843,2025-01-31,South,Furniture,Bookshelf,Small Business,Online,3,130.57,0.0,391.71,276.05,115.66,False,False,Valid
+ORD000844,2026-01-26,South,Office Supplies,Storage Box,Enterprise,Online,1,40.38,0.05,38.36,26.05,12.31,False,False,Valid
+ORD000845,2026-07-27,North,Technology,Storage Box,Enterprise,Partner,6,53.29,0.2,255.79,237.61,18.18,False,False,Valid
+ORD000846,2025-08-28,East,Furniture,Desk,Consumer,Online,3,242.6,0.0,727.8,484.74,243.06,False,False,Valid
+ORD000847,2026-01-01,West,Furniture,Lamp,Small Business,Partner,4,39.48,0.0,157.92,131.92,26.0,False,False,Valid
+ORD000848,2026-03-31,Central,Office Supplies,Paper Pack,Enterprise,Online,7,6.04,0.15,35.94,29.27,6.67,False,False,Valid
+ORD000849,2025-04-13,North,Technology,Monitor,Enterprise,Partner,6,242.58,0.0,1455.48,996.31,459.17,False,False,Valid
+ORD000850,2025-05-07,East,Furniture,Lamp,Consumer,Retail,1,62.91,0.0,62.91,40.99,21.92,False,False,Valid
+ORD000851,2025-11-04,North,Technology,Keyboard,Consumer,Online,5,76.67,0.1,345.02,231.34,113.68,False,False,Valid
+ORD000852,2026-08-29,East,Office Supplies,Paper Pack,Consumer,Partner,3,19.15,0.1,51.7,44.69,7.01,False,False,Valid
+ORD000853,2026-08-21,Central,Furniture,Bookshelf,Enterprise,Retail,5,193.02,0.0,965.1,788.31,176.79,False,False,Valid
+ORD000854,2025-07-12,East,Furniture,Bookshelf,Consumer,Online,5,100.64,0.0,503.2,376.82,126.38,False,False,Valid
+ORD000855,2025-07-29,West,Office Supplies,Binder,Small Business,Partner,4,15.36,0.2,49.15,50.81,-1.66,False,False,Valid
+ORD000856,2026-05-25,North,Technology,Laptop,Small Business,Online,7,978.25,0.0,6847.75,4418.9,2428.85,False,False,Valid
+ORD000857,2026-09-08,South,Technology,Laptop,Enterprise,Partner,5,750.32,0.15,3188.86,2504.56,684.3,False,False,Valid
+ORD000858,2026-08-23,West,Technology,Laptop,Enterprise,Retail,5,1097.69,0.2,4390.76,4338.06,52.7,False,False,Valid
+ORD000859,2025-09-12,South,Technology,Laptop,Enterprise,Retail,5,1168.53,0.0,5842.65,4324.66,1517.99,False,False,Valid
+ORD000860,2025-10-19,West,Furniture,Lamp,Enterprise,Online,5,34.46,0.05,163.69,121.37,42.32,False,False,Valid
+ORD000861,2025-09-25,Central,Furniture,Desk,Consumer,Online,4,359.38,0.1,1293.77,1177.68,116.09,False,False,Valid
+ORD000862,2025-10-03,West,Office Supplies,Binder,Enterprise,Online,7,8.69,0.05,57.79,46.1,11.69,False,False,Valid
+ORD000863,2026-05-27,South,Technology,Keyboard,Consumer,Partner,8,76.77,0.2,491.33,470.25,21.08,False,False,Valid
+ORD000864,2026-06-14,East,Office Supplies,Binder,Small Business,Online,4,12.13,0.0,48.52,34.86,13.66,False,False,Valid
+ORD000865,2026-06-29,South,Technology,Headphones,Enterprise,Partner,2,36.65,0.0,73.3,46.81,26.49,False,False,Valid
+ORD000866,2026-09-19,North,Technology,Laptop,Enterprise,Retail,8,862.99,0.05,6558.72,5920.78,637.94,False,False,Valid
+ORD000867,2026-08-02,East,Furniture,Lamp,Small Business,Partner,2,82.78,0.0,165.56,124.43,41.13,False,False,Valid
+ORD000868,2025-06-01,Central,Technology,Laptop,Consumer,Online,7,1189.58,0.05,7910.71,6679.0,1231.71,False,False,Valid
+ORD000869,2026-07-28,West,Furniture,Office Chair,Consumer,Partner,7,273.36,0.05,1817.84,1322.98,494.86,False,False,Valid
+ORD000870,2025-02-22,East,Office Supplies,Binder,Consumer,Online,6,17.31,0.05,98.67,88.86,9.81,False,False,Valid
+ORD000871,2025-02-13,West,Technology,Monitor,Small Business,Retail,5,230.39,0.2,921.56,803.35,118.21,False,False,Valid
+ORD000872,2025-05-28,West,Office Supplies,Binder,Small Business,Partner,1,12.29,0.0,12.29,10.27,2.02,False,False,Valid
+ORD000873,2026-05-26,East,Technology,Monitor,Small Business,Online,8,220.68,0.05,1677.17,1072.48,604.69,False,False,Valid
+ORD000874,2026-07-07,North,Office Supplies,Pens,Small Business,Partner,4,3.49,0.05,13.26,9.57,3.69,False,False,Valid
+ORD000875,2026-03-14,West,Technology,Laptop,Small Business,Partner,1,869.18,0.05,825.72,653.06,172.66,False,False,Valid
+ORD000876,2025-07-16,South,Furniture,Lamp,Consumer,Partner,3,52.81,0.1,142.59,123.78,18.81,False,False,Valid
+ORD000877,2025-07-06,Central,Office Supplies,Pens,Small Business,Partner,6,13.3,0.1,71.82,52.83,18.99,False,False,Valid
+ORD000878,2026-03-29,Central,Furniture,Office Chair,Small Business,Retail,6,126.37,0.15,644.49,616.68,27.81,False,False,Valid
+ORD000879,2025-08-04,East,Technology,Monitor,Small Business,Online,2,161.08,0.0,322.16,208.04,114.12,False,False,Valid
+ORD000880,2025-04-17,West,Furniture,Lamp,Enterprise,Partner,7,93.58,0.2,524.05,491.41,32.64,False,False,Valid
+ORD000881,2026-08-13,East,Furniture,Desk,Small Business,Partner,6,434.26,0.0,2605.56,2226.56,379.0,False,False,Valid
+ORD000882,2025-01-13,South,Technology,Headphones,Small Business,Retail,6,66.39,0.0,398.34,258.02,140.32,False,False,Valid
+ORD000883,2026-06-11,Central,Furniture,Bookshelf,Consumer,Online,8,73.79,0.1,531.29,502.95,28.34,False,False,Valid
+ORD000884,2025-06-12,South,Technology,Keyboard,Consumer,Partner,7,24.87,0.1,156.68,141.43,15.25,False,False,Valid
+ORD000885,2025-06-01,West,Office Supplies,Pens,Small Business,Retail,8,4.92,0.1,35.42,31.64,3.78,False,False,Valid
+ORD000886,2025-11-06,Central,Office Supplies,Binder,Consumer,Partner,5,4.52,0.0,22.6,16.76,5.84,False,False,Valid
+ORD000887,2026-09-26,North,Office Supplies,Storage Box,Small Business,Partner,1,22.0,0.15,18.7,17.69,1.01,False,False,Valid
+ORD000888,2025-07-01,North,Office Supplies,Storage Box,Enterprise,Online,8,28.21,0.0,225.68,180.24,45.44,False,False,Valid
+ORD000889,2025-12-22,South,Office Supplies,Paper Pack,Consumer,Partner,3,17.08,0.1,46.12,43.84,2.28,False,False,Valid
+ORD000890,2026-03-28,North,Office Supplies,Paper Pack,Small Business,Online,6,12.21,0.0,73.26,50.79,22.47,False,False,Valid
+ORD000891,2026-05-28,East,Technology,Headphones,Small Business,Partner,5,145.22,0.1,653.49,529.15,124.34,False,False,Valid
+ORD000892,2025-03-05,South,Technology,Keyboard,Small Business,Partner,5,94.72,0.1,426.24,356.38,69.86,False,False,Valid
+ORD000893,2025-08-16,South,Technology,Laptop,Small Business,Online,6,1097.26,0.15,5596.03,5166.2,429.83,False,False,Valid
+ORD000894,2025-05-21,East,Office Supplies,Storage Box,Consumer,Online,5,27.7,0.2,110.8,96.66,14.14,False,False,Valid
+ORD000895,2025-02-22,East,Technology,Laptop,Consumer,Retail,1,890.58,0.0,890.58,644.77,245.81,False,False,Valid
+ORD000896,2026-02-27,West,Furniture,Desk,Enterprise,Retail,3,340.81,0.05,971.31,642.97,328.34,False,False,Valid
+ORD000897,2026-09-15,West,Office Supplies,Binder,Consumer,Online,4,14.75,0.1,53.1,44.85,8.25,False,False,Valid
+ORD000898,2025-04-23,North,Technology,Keyboard,Consumer,Partner,7,88.94,0.1,560.32,502.0,58.32,False,False,Valid
+ORD000899,2026-05-12,East,Office Supplies,Storage Box,Consumer,Online,7,45.16,0.1,284.51,233.49,51.02,False,False,Valid
+ORD000900,2025-12-24,Unknown,Furniture,Office Chair,Small Business,Online,4,188.38,0.05,715.84,511.32,204.52,False,False,Needs Attention
+ORD000901,2026-03-14,South,Furniture,Office Chair,Consumer,Retail,2,155.95,0.0,311.9,230.56,81.34,False,False,Valid
+ORD000902,2026-01-04,South,Furniture,Bookshelf,Enterprise,Online,5,148.28,0.1,667.26,466.15,201.11,False,False,Valid
+ORD000903,2025-06-16,South,Technology,Monitor,Consumer,Partner,7,249.57,0.05,1659.64,1304.23,355.41,False,False,Valid
+ORD000904,2025-10-31,Central,Technology,Monitor,Small Business,Online,1,346.53,0.1,311.88,250.81,61.07,False,False,Valid
+ORD000905,2025-04-14,South,Technology,Headphones,Enterprise,Retail,7,149.25,0.2,835.8,786.18,49.62,False,False,Valid
+ORD000906,2025-11-30,North,Furniture,Desk,Small Business,Partner,8,443.81,0.2,2840.38,2371.94,468.44,False,False,Valid
+ORD000907,2026-04-15,East,Furniture,Bookshelf,Enterprise,Partner,6,163.15,0.05,929.96,828.43,101.53,False,False,Valid
+ORD000908,2025-02-08,West,Furniture,Office Chair,Small Business,Online,7,265.53,0.0,1858.71,1162.42,696.29,False,False,Valid
+ORD000909,2025-02-09,North,Technology,Keyboard,Consumer,Retail,7,28.55,0.1,179.87,166.77,13.1,False,False,Valid
+ORD000910,2025-10-10,North,Office Supplies,Storage Box,Consumer,Online,6,9.43,0.15,48.09,42.12,5.97,False,False,Valid
+ORD000911,2025-12-10,Central,Office Supplies,Paper Pack,Enterprise,Partner,7,5.86,0.2,32.82,30.37,2.45,False,False,Valid
+ORD000912,2026-05-03,South,Technology,Keyboard,Small Business,Retail,7,75.07,0.05,499.22,388.39,110.83,False,False,Valid
+ORD000913,2026-05-19,South,Office Supplies,Pens,Consumer,Online,2,2.5,0.2,4.0,4.05,-0.05,False,False,Valid
+ORD000914,2025-12-31,East,Office Supplies,Pens,Enterprise,Partner,1,8.28,0.05,7.87,6.07,1.8,False,False,Valid
+ORD000915,2026-08-05,South,Furniture,Lamp,Consumer,Online,3,54.64,0.0,163.92,98.64,65.28,False,False,Valid
+ORD000916,2026-04-15,South,Technology,Keyboard,Small Business,Partner,4,15.27,0.05,58.03,37.26,20.77,False,False,Valid
+ORD000917,2025-05-08,West,Furniture,Office Chair,Enterprise,Online,3,146.85,0.05,418.52,280.91,137.61,False,False,Valid
+ORD000918,2026-09-30,North,Office Supplies,Binder,Small Business,Partner,2,23.82,0.1,42.88,40.89,1.99,False,False,Valid
+ORD000919,2026-07-03,Central,Technology,Keyboard,Small Business,Partner,4,22.64,0.0,90.56,74.01,16.55,False,False,Valid
+ORD000920,2025-05-02,South,Furniture,Office Chair,Small Business,Partner,7,287.79,0.0,2014.53,1250.69,763.84,False,False,Valid
+ORD000921,2026-05-22,North,Technology,Keyboard,Small Business,Online,8,86.21,0.0,689.68,564.58,125.1,False,False,Valid
+ORD000922,2026-07-18,North,Technology,Monitor,Consumer,Online,2,247.1,0.0,494.2,326.17,168.03,False,False,Valid
+ORD000923,2026-08-13,Central,Office Supplies,Pens,Small Business,Online,8,6.24,0.0,49.92,32.26,17.66,False,False,Valid
+ORD000924,2025-06-25,Central,Furniture,Desk,Small Business,Online,2,141.07,0.1,253.93,236.45,17.48,False,False,Valid
+ORD000925,2026-09-03,West,Office Supplies,Paper Pack,Enterprise,Retail,8,15.26,0.15,103.77,100.04,3.73,False,False,Valid
+ORD000926,2026-05-09,South,Furniture,Office Chair,Consumer,Partner,4,145.6,0.05,553.28,471.09,82.19,False,False,Valid
+ORD000927,2026-01-03,East,Office Supplies,Binder,Consumer,Retail,2,4.83,0.0,9.66,6.08,3.58,False,False,Valid
+ORD000928,2025-10-25,Central,Technology,Monitor,Small Business,Partner,1,343.75,0.05,326.56,269.04,57.52,False,False,Valid
+ORD000929,2025-05-13,South,Technology,Headphones,Enterprise,Retail,6,132.99,0.1,718.15,573.26,144.89,False,False,Valid
+ORD000930,2025-07-01,South,Office Supplies,Binder,Small Business,Partner,5,14.58,0.0,72.9,53.72,19.18,False,False,Valid
+ORD000931,2026-05-23,South,Technology,Keyboard,Consumer,Partner,2,30.06,0.0,60.12,40.98,19.14,False,False,Valid
+ORD000932,2026-03-13,Central,Furniture,Desk,Small Business,Retail,7,126.56,0.1,797.33,756.52,40.81,False,False,Valid
+ORD000933,2025-06-18,Central,Furniture,Desk,Enterprise,Partner,8,435.87,0.15,2963.92,2280.85,683.07,False,False,Valid
+ORD000934,2025-02-02,North,Technology,Monitor,Small Business,Retail,6,148.06,0.0,888.36,630.44,257.92,False,False,Valid
+ORD000935,2025-11-20,North,Office Supplies,Storage Box,Consumer,Partner,1,24.04,0.15,20.43,17.16,3.27,False,False,Valid
+ORD000936,2025-05-24,Central,Furniture,Bookshelf,Consumer,Online,2,107.48,0.0,214.96,137.24,77.72,False,False,Valid
+ORD000937,2025-01-30,Central,Office Supplies,Binder,Consumer,Online,7,12.26,0.1,77.24,53.75,23.49,False,False,Valid
+ORD000938,2026-08-14,East,Office Supplies,Paper Pack,Consumer,Retail,2,20.2,0.0,40.4,28.99,11.41,False,False,Valid
+ORD000939,2026-03-11,Central,Office Supplies,Pens,Enterprise,Partner,7,2.7,0.2,15.12,13.31,1.81,False,False,Valid
+ORD000940,2026-03-12,Central,Office Supplies,Paper Pack,Small Business,Retail,6,4.93,0.2,23.66,19.77,3.89,False,False,Valid
+ORD000941,2025-11-01,South,Office Supplies,Paper Pack,Consumer,Partner,8,8.84,0.0,70.72,58.24,12.48,False,False,Valid
+ORD000942,2026-08-21,South,Furniture,Desk,Small Business,Partner,7,112.08,0.0,784.56,653.11,131.45,False,False,Valid
+ORD000943,2026-09-04,North,Furniture,Office Chair,Enterprise,Retail,4,90.65,0.2,290.08,251.52,38.56,False,False,Valid
+ORD000944,2025-08-14,East,Technology,Monitor,Small Business,Partner,4,187.0,0.05,710.6,606.84,103.76,False,False,Valid
+ORD000945,2025-08-03,South,Office Supplies,Pens,Small Business,Retail,7,2.34,0.15,13.92,13.62,0.3,False,False,Valid
+ORD000946,2026-09-27,North,Furniture,Desk,Small Business,Retail,2,368.44,0.2,589.5,541.71,47.79,False,False,Valid
+ORD000947,2025-03-26,East,Office Supplies,Pens,Enterprise,Retail,3,8.67,0.1,23.41,19.14,4.27,False,False,Valid
+ORD000948,2025-05-16,East,Furniture,Desk,Consumer,Retail,3,132.09,0.0,396.27,312.27,84.0,False,False,Valid
+ORD000949,2025-10-18,East,Office Supplies,Storage Box,Enterprise,Retail,2,38.76,0.2,62.02,60.2,1.82,False,False,Valid
+ORD000950,2025-08-02,East,Technology,Laptop,Consumer,Retail,7,1052.91,0.0,7370.37,4706.03,2664.34,False,False,Valid
+ORD000951,2025-08-29,East,Office Supplies,Binder,Enterprise,Partner,8,22.2,0.0,177.6,138.75,38.85,False,False,Valid
+ORD000952,2025-02-12,Central,Technology,Keyboard,Small Business,Retail,5,36.31,0.05,172.47,110.26,62.21,False,False,Valid
+ORD000953,2026-07-12,South,Office Supplies,Paper Pack,Small Business,Partner,7,16.88,0.15,100.44,83.34,17.1,False,False,Valid
+ORD000954,2025-01-13,South,Furniture,Lamp,Small Business,Retail,4,28.12,0.1,101.23,83.48,17.75,False,False,Valid
+ORD000955,2025-08-12,East,Furniture,Desk,Enterprise,Online,5,238.06,0.05,1130.78,878.56,252.22,False,False,Valid
+ORD000956,2025-06-15,East,Technology,Headphones,Consumer,Retail,1,176.49,0.15,150.02,114.9,35.12,False,False,Valid
+ORD000957,2025-01-14,South,Furniture,Lamp,Enterprise,Retail,3,99.71,0.05,284.17,249.28,34.89,False,False,Valid
+ORD000958,2026-07-06,Central,Office Supplies,Binder,Small Business,Partner,7,25.63,0.1,161.47,114.4,47.07,False,False,Valid
+ORD000959,2026-09-11,West,Office Supplies,Storage Box,Consumer,Online,1,20.75,0.2,16.6,17.06,-0.46,False,False,Valid
+ORD000960,2025-08-14,West,Office Supplies,Storage Box,Consumer,Retail,8,26.79,0.1,192.89,159.18,33.71,False,False,Valid
+ORD000961,2025-10-09,West,Technology,Keyboard,Small Business,Partner,6,87.3,0.15,445.23,383.98,61.25,False,False,Valid
+ORD000962,2025-12-31,South,Furniture,Bookshelf,Enterprise,Online,8,163.99,0.1,1180.73,926.13,254.6,False,False,Valid
+ORD000963,2025-03-29,North,Furniture,Bookshelf,Small Business,Online,5,119.71,0.15,508.77,442.45,66.32,False,False,Valid
+ORD000964,2025-01-22,West,Technology,Keyboard,Small Business,Online,8,84.85,0.1,610.92,577.89,33.03,False,False,Valid
+ORD000965,2025-10-02,North,Furniture,Desk,Enterprise,Retail,7,242.45,0.2,1357.72,1427.2,-69.48,False,False,Valid
+ORD000966,2025-07-03,East,Furniture,Bookshelf,Enterprise,Partner,1,207.51,0.05,197.13,166.21,30.92,False,False,Valid
+ORD000967,2026-04-21,West,Office Supplies,Pens,Enterprise,Partner,3,11.36,0.0,34.08,24.01,10.07,False,False,Valid
+ORD000968,2025-12-21,West,Furniture,Bookshelf,Enterprise,Online,7,149.91,0.15,891.96,680.47,211.49,False,False,Valid
+ORD000969,2025-03-17,Central,Office Supplies,Paper Pack,Enterprise,Retail,5,6.23,0.2,24.92,21.08,3.84,False,False,Valid
+ORD000970,2026-05-18,East,Office Supplies,Storage Box,Consumer,Online,2,10.26,0.0,20.52,13.1,7.42,False,False,Valid
+ORD000971,2025-07-09,North,Technology,Monitor,Consumer,Online,8,272.91,0.1,1964.95,1826.33,138.62,False,False,Valid
+ORD000972,2025-11-24,South,Technology,Laptop,Enterprise,Retail,6,1108.52,0.0,6651.12,4291.13,2359.99,False,False,Valid
+ORD000973,2026-03-05,South,Furniture,Bookshelf,Enterprise,Retail,2,113.56,0.0,227.12,153.42,73.7,False,False,Valid
+ORD000974,2025-10-30,South,Office Supplies,Pens,Small Business,Online,8,4.17,0.05,31.69,28.11,3.58,False,False,Valid
+ORD000975,2026-06-18,North,Furniture,Lamp,Consumer,Retail,4,63.11,0.05,239.82,196.46,43.36,False,False,Valid
+ORD000976,2026-09-19,West,Technology,Keyboard,Enterprise,Partner,5,75.1,0.2,300.4,319.18,-18.78,False,False,Valid
+ORD000977,2026-06-01,East,Technology,Headphones,Small Business,Partner,1,127.07,0.15,108.01,88.23,19.78,False,False,Valid
+ORD000978,2025-05-22,South,Technology,Headphones,Consumer,Online,2,96.72,0.15,164.42,134.52,29.9,False,False,Valid
+ORD000979,2026-09-16,South,Office Supplies,Paper Pack,Small Business,Retail,7,18.85,0.1,118.76,80.93,37.83,False,False,Valid
+ORD000980,2025-12-30,West,Office Supplies,Storage Box,Small Business,Retail,1,35.16,0.0,35.16,22.2,12.96,False,False,Valid
+ORD000981,2025-08-26,Central,Furniture,Bookshelf,Enterprise,Online,5,196.78,0.15,836.31,821.98,14.33,False,False,Valid
+ORD000982,2025-05-25,West,Office Supplies,Storage Box,Small Business,Partner,5,36.77,0.0,183.85,117.41,66.44,False,False,Valid
+ORD000983,2026-05-25,Central,Office Supplies,Paper Pack,Enterprise,Retail,4,18.61,0.05,70.72,63.51,7.21,False,False,Valid
+ORD000984,2026-05-03,South,Technology,Laptop,Consumer,Retail,7,819.44,0.0,5736.08,3604.19,2131.89,False,False,Valid
+ORD000985,2025-04-02,South,Office Supplies,Paper Pack,Enterprise,Online,6,16.08,0.1,86.83,72.51,14.32,False,False,Valid
+ORD000986,2025-12-31,West,Office Supplies,Binder,Small Business,Partner,7,12.73,0.2,71.29,63.31,7.98,False,False,Valid
+ORD000987,2025-11-16,West,Furniture,Bookshelf,Consumer,Online,5,76.09,0.0,380.45,261.72,118.73,False,False,Valid
+ORD000988,2026-01-17,West,Technology,Laptop,Enterprise,Retail,7,1000.37,0.0,7002.59,5200.45,1802.14,False,False,Valid
+ORD000989,2025-08-23,Central,Technology,Keyboard,Small Business,Online,1,48.82,0.1,43.94,37.78,6.16,False,False,Valid
+ORD000990,2025-04-17,North,Technology,Keyboard,Enterprise,Retail,2,64.4,0.1,115.92,83.7,32.22,False,False,Valid
+ORD000991,2025-04-05,East,Furniture,Bookshelf,Consumer,Retail,7,140.1,0.05,931.66,810.53,121.13,False,False,Valid
+ORD000992,2026-01-20,South,Office Supplies,Pens,Enterprise,Partner,8,11.25,0.2,72.0,62.68,9.32,False,False,Valid
+ORD000993,2025-01-02,North,Technology,Keyboard,Consumer,Partner,6,28.86,0.2,138.53,129.35,9.18,False,False,Valid
+ORD000994,2025-05-06,North,Office Supplies,Pens,Enterprise,Partner,4,7.58,0.15,25.77,24.14,1.63,False,False,Valid
+ORD000995,2026-03-20,North,Technology,Keyboard,Enterprise,Online,3,92.08,0.0,276.24,189.36,86.88,False,False,Valid
+ORD000996,2026-01-11,South,Furniture,Bookshelf,Consumer,Online,8,106.68,0.15,725.42,651.56,73.86,False,False,Valid
+ORD000997,2025-01-28,East,Furniture,Lamp,Enterprise,Retail,4,50.94,0.05,193.57,168.2,25.37,False,False,Valid
+ORD000998,2025-09-30,East,Office Supplies,Paper Pack,Enterprise,Partner,4,12.89,0.15,43.83,42.9,0.93,False,False,Valid
+ORD000999,2025-09-24,East,Furniture,Office Chair,Small Business,Retail,5,251.3,0.15,1068.02,864.92,203.1,False,False,Valid
+ORD001000,2025-02-03,Central,Office Supplies,Paper Pack,Small Business,Retail,5,18.04,0.15,76.67,71.63,5.04,False,False,Valid
+ORD001001,2025-11-20,North,Furniture,Desk,Small Business,Retail,7,475.68,0.0,3329.76,2062.62,1267.14,False,False,Valid
+ORD001002,2025-01-21,North,Technology,Headphones,Enterprise,Partner,2,50.66,0.0,101.32,79.04,22.28,False,False,Valid
+ORD001003,2026-07-13,South,Office Supplies,Binder,Small Business,Partner,3,17.59,0.1,47.49,37.75,9.74,False,False,Valid
+ORD001004,2025-04-11,East,Furniture,Desk,Consumer,Retail,1,298.71,0.2,238.97,235.2,3.77,False,True,Needs Attention
+ORD001004,2025-04-21,East,Technology,Headphones,Enterprise,Retail,7,38.18,0.0,267.26,199.94,67.32,False,True,Needs Attention
+ORD001006,2025-09-25,South,Office Supplies,Pens,Consumer,Online,2,14.41,0.05,27.38,21.08,6.3,False,False,Valid
+ORD001007,2025-09-03,Central,Furniture,Office Chair,Small Business,Retail,3,129.04,0.0,387.12,250.68,136.44,False,False,Valid
+ORD001008,2026-08-18,South,Technology,Monitor,Consumer,Partner,3,238.5,0.1,643.95,546.93,97.02,False,False,Valid
+ORD001009,2025-09-30,North,Furniture,Bookshelf,Enterprise,Retail,4,159.37,0.15,541.86,516.64,25.22,False,False,Valid
+ORD001010,2026-05-24,South,Technology,Keyboard,Consumer,Online,7,21.87,0.15,130.13,120.49,9.64,False,False,Valid
+ORD001011,2026-02-02,West,Office Supplies,Paper Pack,Enterprise,Online,6,21.19,0.05,120.78,85.25,35.53,False,False,Valid
+ORD001012,2025-02-10,South,Technology,Laptop,Small Business,Partner,7,781.63,0.15,4650.7,3665.66,985.04,False,False,Valid
+ORD001013,2026-01-05,West,Technology,Keyboard,Consumer,Partner,6,45.87,0.0,275.22,199.75,75.47,False,False,Valid
+ORD001014,2025-04-10,North,Technology,Monitor,Enterprise,Retail,3,315.89,0.05,900.29,751.15,149.14,False,False,Valid
+ORD001015,2025-09-17,Central,Technology,Monitor,Small Business,Retail,2,363.39,0.15,617.76,558.58,59.18,False,False,Valid
+ORD001016,2025-11-19,West,Technology,Monitor,Consumer,Partner,6,158.74,0.05,904.82,594.59,310.23,False,False,Valid
+ORD001017,2026-04-16,East,Technology,Monitor,Enterprise,Partner,8,334.71,0.15,2276.03,1643.81,632.22,False,False,Valid
+ORD001018,2025-07-08,West,Technology,Keyboard,Consumer,Online,1,20.54,0.05,19.51,16.2,3.31,False,False,Valid
+ORD001019,2025-09-09,South,Furniture,Bookshelf,Small Business,Partner,5,216.18,0.2,864.72,714.78,149.94,False,False,Valid
+ORD001020,2025-08-24,East,Office Supplies,Storage Box,Enterprise,Partner,4,20.45,0.05,77.71,54.84,22.87,False,False,Valid
+ORD001021,2025-07-12,North,Office Supplies,Paper Pack,Consumer,Partner,1,4.91,0.2,3.93,3.72,0.21,False,False,Valid
+ORD001022,2025-05-04,North,Furniture,Office Chair,Small Business,Retail,4,287.59,0.05,1092.84,755.57,337.27,False,False,Valid
+ORD001023,2025-12-30,South,Office Supplies,Binder,Consumer,Online,5,11.83,0.0,59.15,48.44,10.71,False,False,Valid
+ORD001024,2026-07-11,East,Office Supplies,Paper Pack,Enterprise,Online,8,12.96,0.0,103.68,69.46,34.22,False,False,Valid
+ORD001025,2025-11-28,North,Furniture,Bookshelf,Enterprise,Online,8,154.35,0.0,1234.8,1050.79,184.01,False,False,Valid
+ORD001026,2025-03-07,Central,Technology,Headphones,Consumer,Retail,5,78.74,0.15,334.64,296.57,38.07,False,False,Valid
+ORD001027,2025-02-28,West,Technology,Keyboard,Small Business,Partner,8,89.37,0.0,714.96,436.32,278.64,False,False,Valid
+ORD001028,2025-01-17,East,Office Supplies,Binder,Small Business,Online,5,9.84,0.05,46.74,35.81,10.93,False,False,Valid
+ORD001029,2025-11-21,South,Furniture,Desk,Small Business,Retail,4,247.38,0.0,989.52,821.72,167.8,False,False,Valid
+ORD001030,2025-03-25,Central,Furniture,Desk,Consumer,Online,8,414.16,0.0,3313.28,2059.8,1253.48,False,False,Valid
+ORD001031,2026-09-01,North,Furniture,Bookshelf,Consumer,Retail,6,164.08,0.0,984.48,845.59,138.89,False,False,Valid
+ORD001032,2026-07-13,South,Furniture,Lamp,Consumer,Retail,8,48.94,0.0,391.52,315.95,75.57,False,False,Valid
+ORD001033,2025-10-08,North,Office Supplies,Paper Pack,Consumer,Online,1,13.63,0.15,11.59,9.48,2.11,False,False,Valid
+ORD001034,2025-03-02,Central,Office Supplies,Pens,Enterprise,Partner,3,12.93,0.05,36.85,30.96,5.89,False,False,Valid
+ORD001035,2025-06-20,South,Technology,Monitor,Enterprise,Partner,2,190.18,0.0,380.36,232.92,147.44,False,False,Valid
+ORD001036,2026-04-04,North,Technology,Monitor,Enterprise,Retail,5,202.64,0.2,810.56,780.6,29.96,False,False,Valid
+ORD001037,2025-03-10,West,Furniture,Bookshelf,Consumer,Online,8,158.73,0.1,1142.86,762.03,380.83,False,False,Valid
+ORD001038,2025-06-30,North,Furniture,Office Chair,Enterprise,Online,2,153.96,0.0,307.92,199.96,107.96,False,False,Valid
+ORD001039,2025-08-16,North,Furniture,Lamp,Small Business,Retail,5,48.2,0.15,204.85,182.05,22.8,False,False,Valid
+ORD001040,2025-08-30,East,Technology,Laptop,Consumer,Retail,1,1187.87,0.1,1069.08,1015.3,53.78,False,False,Valid
+ORD001041,2026-02-10,East,Furniture,Bookshelf,Small Business,Partner,3,187.42,0.0,562.26,414.47,147.79,False,False,Valid
+ORD001042,2025-04-17,South,Technology,Headphones,Small Business,Online,8,103.19,0.1,742.97,614.28,128.69,False,False,Valid
+ORD001043,2026-07-05,North,Technology,Monitor,Small Business,Online,2,361.83,0.05,687.48,559.44,128.04,False,False,Valid
+ORD001044,2026-01-17,North,Technology,Keyboard,Consumer,Online,8,74.24,0.1,534.53,473.41,61.12,False,False,Valid
+ORD001045,2026-08-26,East,Furniture,Desk,Small Business,Online,8,171.52,0.15,1166.34,901.72,264.62,False,False,Valid
+ORD001046,2025-09-24,West,Technology,Headphones,Small Business,Online,3,164.38,0.0,493.14,390.09,103.05,False,False,Valid
+ORD001047,2025-04-22,South,Furniture,Bookshelf,Consumer,Retail,4,113.4,0.0,453.6,314.9,138.7,False,False,Valid
+ORD001048,2026-01-08,South,Furniture,Desk,Small Business,Partner,8,408.22,0.0,3265.76,1974.31,1291.45,False,False,Valid
+ORD001049,2026-03-20,South,Furniture,Desk,Consumer,Online,7,378.71,0.15,2253.32,2208.06,45.26,False,False,Valid
+ORD001050,2025-01-28,South,Technology,Monitor,Consumer,Retail,7,287.45,0.15,1710.33,1417.66,292.67,False,False,Valid
+ORD001051,2025-05-05,West,Technology,Keyboard,Small Business,Partner,4,67.64,0.1,243.5,209.24,34.26,False,False,Valid
+ORD001052,2025-09-29,South,Furniture,Bookshelf,Enterprise,Retail,6,170.36,0.15,868.84,799.92,68.92,False,False,Valid
+ORD001053,2025-10-09,North,Technology,Laptop,Consumer,Partner,2,1248.98,0.15,2123.27,1560.8,562.47,False,False,Valid
+ORD001054,2026-04-08,North,Furniture,Bookshelf,Small Business,Partner,7,166.95,0.05,1110.22,785.41,324.81,False,False,Valid
+ORD001055,2025-04-20,East,Technology,Laptop,Consumer,Partner,2,889.12,0.2,1422.59,1159.36,263.23,False,False,Valid
+ORD001056,2026-05-04,East,Office Supplies,Paper Pack,Enterprise,Online,3,12.5,0.0,37.5,27.25,10.25,False,False,Valid
+ORD001057,2026-05-19,South,Office Supplies,Binder,Small Business,Partner,2,19.44,0.0,38.88,28.67,10.21,False,False,Valid
+ORD001058,2025-11-15,South,Office Supplies,Paper Pack,Small Business,Retail,7,8.59,0.05,57.12,46.13,10.99,False,False,Valid
+ORD001059,2025-02-15,East,Technology,Monitor,Consumer,Online,7,229.13,0.0,1603.91,1336.36,267.55,False,False,Valid
+ORD001060,2025-05-17,East,Office Supplies,Paper Pack,Enterprise,Retail,1,20.92,0.2,16.74,16.12,0.62,False,False,Valid
+ORD001061,2026-01-17,West,Furniture,Office Chair,Small Business,Retail,6,184.35,0.05,1050.79,911.52,139.27,False,False,Valid
+ORD001062,2026-07-14,North,Office Supplies,Storage Box,Small Business,Retail,2,31.52,0.0,63.04,38.65,24.39,False,False,Valid
+ORD001063,2026-09-08,East,Office Supplies,Pens,Small Business,Retail,1,6.43,0.1,5.79,4.24,1.55,False,False,Valid
+ORD001064,2025-10-24,South,Office Supplies,Binder,Small Business,Online,4,4.04,0.0,16.16,13.75,2.41,False,False,Valid
+ORD001065,2025-01-20,Central,Technology,Keyboard,Small Business,Partner,4,57.97,0.05,220.29,198.94,21.35,False,False,Valid
+ORD001066,2025-07-21,East,Furniture,Office Chair,Enterprise,Retail,1,208.77,0.1,187.89,125.75,62.14,False,False,Valid
+ORD001067,2026-06-07,East,Furniture,Bookshelf,Enterprise,Retail,8,88.31,0.2,565.18,433.96,131.22,False,False,Valid
+ORD001068,2025-09-12,South,Office Supplies,Storage Box,Small Business,Partner,4,25.16,0.0,100.64,63.45,37.19,False,False,Valid
+ORD001069,2025-07-01,North,Office Supplies,Pens,Consumer,Online,1,9.61,0.0,9.61,6.16,3.45,False,False,Valid
+ORD001070,2025-04-29,North,Office Supplies,Paper Pack,Small Business,Partner,8,12.59,0.05,95.68,74.12,21.56,False,False,Valid
+ORD001071,2026-07-05,West,Office Supplies,Pens,Enterprise,Partner,8,10.5,0.0,84.0,69.04,14.96,False,False,Valid
+ORD001072,2025-07-25,North,Technology,Monitor,Enterprise,Partner,3,194.82,0.2,467.57,483.62,-16.05,False,False,Valid
+ORD001073,2026-05-07,West,Technology,Laptop,Enterprise,Online,4,813.99,0.05,3093.16,2061.82,1031.34,False,False,Valid
+ORD001074,2026-05-23,North,Technology,Keyboard,Enterprise,Partner,5,30.31,0.05,143.97,110.96,33.01,False,False,Valid
+ORD001075,2025-10-19,North,Office Supplies,Binder,Enterprise,Retail,4,15.12,0.0,60.48,42.42,18.06,False,False,Valid
+ORD001076,2025-10-20,West,Technology,Keyboard,Enterprise,Partner,5,60.48,0.05,287.28,216.22,71.06,False,False,Valid
+ORD001077,2026-04-14,South,Technology,Headphones,Consumer,Partner,7,146.75,0.15,873.16,760.03,113.13,False,False,Valid
+ORD001078,2026-01-10,East,Furniture,Office Chair,Small Business,Retail,3,223.32,0.2,535.97,532.94,3.03,False,False,Valid
+ORD001079,2026-09-24,Central,Office Supplies,Pens,Small Business,Partner,6,13.9,0.2,66.72,54.27,12.45,False,False,Valid
+ORD001080,2026-01-07,East,Technology,Monitor,Consumer,Online,6,140.97,0.0,845.82,514.43,331.39,False,False,Valid
+ORD001081,2026-07-21,West,Furniture,Lamp,Small Business,Partner,2,92.09,0.2,147.34,156.59,-9.25,False,False,Valid
+ORD001082,2025-04-27,Central,Furniture,Lamp,Enterprise,Retail,1,59.01,0.0,59.01,49.51,9.5,False,False,Valid
+ORD001083,2025-08-01,Central,Technology,Laptop,Enterprise,Partner,7,994.9,0.1,6267.87,5472.07,795.8,False,False,Valid
+ORD001084,2026-03-26,West,Office Supplies,Pens,Small Business,Retail,4,8.06,0.1,29.02,20.95,8.07,False,False,Valid
+ORD001085,2026-06-29,South,Technology,Laptop,Small Business,Retail,6,813.94,0.0,4883.64,3330.19,1553.45,False,False,Valid
+ORD001086,2025-09-01,East,Furniture,Bookshelf,Consumer,Retail,3,116.68,0.2,280.03,281.54,-1.51,False,False,Valid
+ORD001087,2025-02-27,Central,Office Supplies,Binder,Enterprise,Partner,7,22.57,0.15,134.29,109.55,24.74,False,False,Valid
+ORD001088,2026-01-07,Central,Office Supplies,Pens,Small Business,Partner,3,8.81,0.0,26.43,20.17,6.26,False,False,Valid
+ORD001089,2026-04-14,South,Furniture,Office Chair,Consumer,Partner,4,256.94,0.1,924.98,711.26,213.72,False,False,Valid
+ORD001090,2026-03-07,West,Furniture,Bookshelf,Consumer,Online,6,82.27,0.2,394.9,375.72,19.18,False,False,Valid
+ORD001091,2025-10-07,Central,Office Supplies,Paper Pack,Small Business,Online,7,13.22,0.2,74.03,74.6,-0.57,False,False,Valid
+ORD001092,2026-01-02,South,Office Supplies,Storage Box,Small Business,Retail,6,39.09,0.0,234.54,190.77,43.77,False,False,Valid
+ORD001093,2026-09-29,North,Technology,Keyboard,Small Business,Online,6,71.56,0.0,429.36,266.15,163.21,False,False,Valid
+ORD001094,2026-03-02,Central,Office Supplies,Pens,Small Business,Retail,6,11.67,0.05,66.52,54.6,11.92,False,False,Valid
+ORD001095,2025-07-23,Central,Office Supplies,Pens,Consumer,Partner,8,2.07,0.0,16.56,13.86,2.7,False,False,Valid
+ORD001096,2025-11-24,East,Furniture,Bookshelf,Small Business,Online,8,98.38,0.05,747.69,590.69,157.0,False,False,Valid
+ORD001097,2026-03-15,South,Technology,Laptop,Small Business,Online,8,755.2,0.1,5437.44,3889.84,1547.6,False,False,Valid
+ORD001098,2025-10-20,West,Technology,Headphones,Enterprise,Retail,6,121.04,0.0,726.24,572.04,154.2,False,False,Valid
+ORD001099,2026-01-22,Central,Furniture,Office Chair,Consumer,Partner,2,110.0,0.2,176.0,158.74,17.26,False,False,Valid
+ORD001100,2025-10-27,South,Furniture,Bookshelf,Enterprise,Online,2,167.46,0.1,301.43,227.23,74.2,False,False,Valid
+ORD001101,2025-05-18,South,Office Supplies,Binder,Enterprise,Retail,7,15.6,0.1,98.28,67.69,30.59,False,False,Valid
+ORD001102,2026-01-04,North,Technology,Headphones,Small Business,Online,5,33.18,0.2,132.72,127.2,5.52,False,False,Valid
+ORD001103,2026-01-26,Central,Technology,Laptop,Enterprise,Partner,7,1227.75,0.0,8594.25,6074.51,2519.74,False,False,Valid
+ORD001104,2026-08-20,West,Office Supplies,Paper Pack,Enterprise,Online,5,12.48,0.1,56.16,42.43,13.73,False,False,Valid
+ORD001105,2025-02-26,North,Office Supplies,Paper Pack,Enterprise,Retail,1,20.01,0.15,17.01,14.69,2.32,False,False,Valid
+ORD001106,2026-01-08,South,Office Supplies,Pens,Enterprise,Online,4,12.98,0.2,41.54,34.29,7.25,False,False,Valid
+ORD001107,2026-06-12,North,Technology,Headphones,Small Business,Retail,3,109.69,0.05,312.62,273.29,39.33,False,False,Valid
+ORD001108,2025-05-08,West,Technology,Keyboard,Small Business,Retail,7,62.6,0.05,416.29,275.46,140.83,False,False,Valid
+ORD001109,2025-12-12,North,Technology,Monitor,Enterprise,Online,4,319.68,0.05,1214.78,779.6,435.18,False,False,Valid
+ORD001110,2025-04-28,West,Technology,Headphones,Small Business,Partner,4,62.1,0.05,235.98,161.13,74.85,False,False,Valid
+ORD001111,2026-03-19,South,Technology,Laptop,Enterprise,Retail,7,773.74,0.05,5145.37,3944.4,1200.97,False,False,Valid
+ORD001112,2025-12-18,Central,Office Supplies,Storage Box,Consumer,Online,3,43.45,0.1,117.32,106.79,10.53,False,False,Valid
+ORD001113,2025-01-14,West,Office Supplies,Pens,Consumer,Online,4,12.8,0.05,48.64,34.12,14.52,False,False,Valid
+ORD001114,2025-10-21,West,Technology,Keyboard,Small Business,Online,8,20.22,0.15,137.5,119.48,18.02,False,False,Valid
+ORD001115,2026-03-12,North,Furniture,Lamp,Consumer,Online,5,89.93,0.0,449.65,305.04,144.61,False,False,Valid
+ORD001116,2025-10-17,West,Office Supplies,Storage Box,Small Business,Partner,1,30.57,0.1,27.51,22.97,4.54,False,False,Valid
+ORD001117,2025-12-13,North,Furniture,Bookshelf,Enterprise,Retail,2,163.47,0.15,277.9,277.01,0.89,False,False,Valid
+ORD001118,2026-06-23,West,Technology,Headphones,Small Business,Online,8,172.36,0.05,1309.94,1014.74,295.2,False,False,Valid
+ORD001119,2025-11-17,Central,Furniture,Lamp,Enterprise,Retail,4,70.93,0.2,226.98,187.99,38.99,False,False,Valid
+ORD001120,2025-12-22,North,Office Supplies,Paper Pack,Consumer,Online,4,13.05,0.1,46.98,32.27,14.71,False,False,Valid
+ORD001121,2025-12-04,West,Office Supplies,Pens,Enterprise,Partner,2,12.7,0.0,25.4,19.39,6.01,False,False,Valid
+ORD001122,2025-07-22,North,Technology,Laptop,Consumer,Online,2,1181.07,0.0,2362.14,1466.92,895.22,False,False,Valid
+ORD001123,2026-03-28,Central,Technology,Monitor,Consumer,Partner,1,314.45,0.2,251.56,201.79,49.77,False,False,Valid
+ORD001124,2025-09-27,South,Furniture,Bookshelf,Enterprise,Online,4,119.19,0.2,381.41,349.22,32.19,False,False,Valid
+ORD001125,2025-07-26,North,Office Supplies,Storage Box,Small Business,Retail,5,33.81,0.2,135.24,122.32,12.92,False,False,Valid
+ORD001126,2026-01-25,South,Furniture,Lamp,Small Business,Retail,7,88.39,0.2,494.98,419.63,75.35,False,False,Valid
+ORD001127,2026-04-29,Central,Technology,Monitor,Consumer,Retail,8,365.17,0.05,2775.29,2420.55,354.74,False,False,Valid
+ORD001128,2025-07-27,South,Office Supplies,Paper Pack,Consumer,Online,8,9.93,0.05,75.47,51.55,23.92,False,False,Valid
+ORD001129,2025-05-01,East,Furniture,Desk,Consumer,Online,4,483.64,0.2,1547.65,1310.57,237.08,False,False,Valid
+ORD001130,2025-05-21,South,Technology,Keyboard,Consumer,Online,6,80.36,0.2,385.73,346.9,38.83,False,False,Valid
+ORD001131,2025-07-14,South,Office Supplies,Pens,Small Business,Online,5,7.4,0.15,31.45,22.55,8.9,False,False,Valid
+ORD001132,2025-07-14,North,Furniture,Desk,Small Business,Retail,7,441.84,0.05,2938.24,2386.63,551.61,False,False,Valid
+ORD001133,2026-05-12,South,Technology,Monitor,Consumer,Online,8,413.14,0.0,3305.12,2197.01,1108.11,False,False,Valid
+ORD001134,2026-06-18,East,Furniture,Lamp,Consumer,Partner,6,76.01,0.0,456.06,320.29,135.77,False,False,Valid
+ORD001135,2026-01-31,East,Technology,Keyboard,Consumer,Partner,7,44.37,0.1,279.53,239.45,40.08,False,False,Valid
+ORD001136,2025-03-05,North,Technology,Monitor,Enterprise,Online,3,253.34,0.1,684.02,627.11,56.91,False,False,Valid
+ORD001137,2025-10-29,North,Office Supplies,Binder,Enterprise,Retail,2,13.66,0.15,23.22,22.08,1.14,False,False,Valid
+ORD001138,2026-08-12,South,Technology,Monitor,Consumer,Online,8,373.02,0.2,2387.33,1885.8,501.53,False,False,Valid
+ORD001139,2025-04-29,South,Technology,Keyboard,Small Business,Online,8,83.79,0.2,536.26,457.69,78.57,False,False,Valid
+ORD001140,2025-03-06,West,Technology,Laptop,Small Business,Partner,2,823.0,0.1,1481.4,1406.35,75.05,False,False,Valid
+ORD001141,2025-06-23,South,Office Supplies,Binder,Small Business,Partner,5,18.62,0.15,79.14,78.81,0.33,False,False,Valid
+ORD001142,2025-06-03,East,Furniture,Desk,Enterprise,Retail,6,285.99,0.0,1715.94,1242.37,473.57,False,False,Valid
+ORD001143,2025-08-14,East,Office Supplies,Binder,Enterprise,Partner,4,19.66,0.0,78.64,52.09,26.55,False,False,Valid
+ORD001144,2025-12-29,West,Office Supplies,Binder,Enterprise,Retail,2,4.11,0.05,7.81,6.86,0.95,False,False,Valid
+ORD001145,2026-05-11,South,Office Supplies,Pens,Consumer,Online,3,9.37,0.0,28.11,23.94,4.17,False,False,Valid
+ORD001146,2026-08-30,North,Office Supplies,Binder,Consumer,Retail,7,3.12,0.0,21.84,14.29,7.55,False,False,Valid
+ORD001147,2026-04-13,Central,Technology,Laptop,Small Business,Retail,4,1135.8,0.15,3861.72,3253.54,608.18,False,False,Valid
+ORD001148,2026-04-23,South,Technology,Keyboard,Enterprise,Retail,5,39.49,0.05,187.58,155.33,32.25,False,False,Valid
+ORD001149,2025-04-21,West,Technology,Laptop,Consumer,Partner,6,1063.61,0.2,5105.33,4309.61,795.72,False,False,Valid
+ORD001150,2026-03-16,West,Office Supplies,Pens,Small Business,Online,1,8.86,0.0,8.86,7.58,1.28,False,False,Valid
+ORD001151,2025-03-14,South,Office Supplies,Paper Pack,Consumer,Partner,7,16.53,0.1,104.14,89.01,15.13,False,False,Valid
+ORD001152,2025-04-23,South,Office Supplies,Storage Box,Consumer,Partner,3,26.29,0.1,70.98,50.5,20.48,False,False,Valid
+ORD001153,2026-01-21,West,Office Supplies,Paper Pack,Enterprise,Partner,3,16.88,0.1,45.58,43.37,2.21,False,False,Valid
+ORD001154,2026-07-04,East,Furniture,Lamp,Consumer,Partner,1,95.81,0.05,91.02,73.81,17.21,False,False,Valid
+ORD001155,2025-11-07,East,Office Supplies,Binder,Small Business,Retail,8,25.83,0.0,206.64,142.26,64.38,False,False,Valid
+ORD001156,2025-08-13,East,Office Supplies,Pens,Consumer,Online,2,8.62,0.05,16.38,13.03,3.35,False,False,Valid
+ORD001157,2025-01-29,Central,Office Supplies,Pens,Small Business,Retail,1,7.86,0.05,7.47,6.4,1.07,False,False,Valid
+ORD001158,2026-05-22,West,Technology,Headphones,Small Business,Retail,6,168.79,0.1,911.47,749.13,162.34,False,False,Valid
+ORD001159,2026-09-18,West,Office Supplies,Binder,Small Business,Partner,1,20.75,0.2,16.6,16.7,-0.1,False,False,Valid
+ORD001160,2025-10-02,East,Office Supplies,Binder,Enterprise,Online,8,25.01,0.0,200.08,134.78,65.3,False,False,Valid
+ORD001161,2026-03-17,North,Technology,Keyboard,Consumer,Online,8,91.06,0.0,728.48,511.88,216.6,False,False,Valid
+ORD001162,2026-09-09,South,Furniture,Lamp,Small Business,Online,7,55.01,0.0,385.07,320.64,64.43,False,False,Valid
+ORD001163,2025-02-06,West,Technology,Keyboard,Consumer,Partner,8,34.68,0.15,235.82,225.89,9.93,False,False,Valid
+ORD001164,2026-09-04,East,Office Supplies,Storage Box,Enterprise,Retail,3,29.75,0.0,89.25,70.45,18.8,False,False,Valid
+ORD001165,2026-02-01,South,Technology,Laptop,Enterprise,Partner,8,1112.63,0.05,8455.99,6199.37,2256.62,False,False,Valid
+ORD001166,2026-06-23,East,Technology,Monitor,Small Business,Online,6,354.65,0.05,2021.5,1293.91,727.59,False,False,Valid
+ORD001167,2025-08-31,North,Office Supplies,Pens,Small Business,Partner,6,14.97,0.05,85.33,57.39,27.94,False,False,Valid
+ORD001168,2026-04-17,Central,Furniture,Desk,Consumer,Partner,2,351.92,0.05,668.65,583.22,85.43,False,False,Valid
+ORD001169,2025-05-13,East,Office Supplies,Binder,Consumer,Retail,6,27.3,0.0,163.8,100.98,62.82,False,False,Valid
+ORD001170,2026-02-27,East,Furniture,Lamp,Small Business,Partner,6,25.56,0.2,122.69,92.52,30.17,False,False,Valid
+ORD001171,2025-01-09,South,Office Supplies,Storage Box,Small Business,Partner,5,25.24,0.15,107.27,80.76,26.51,False,False,Valid
+ORD001172,2026-05-05,North,Furniture,Bookshelf,Consumer,Retail,6,189.86,0.2,911.33,838.11,73.22,False,False,Valid
+ORD001173,2025-07-28,Central,Technology,Headphones,Enterprise,Online,7,179.77,0.15,1069.63,796.04,273.59,False,False,Valid
+ORD001174,2026-04-28,West,Technology,Keyboard,Consumer,Online,6,47.7,0.1,257.58,233.78,23.8,False,False,Valid
+ORD001175,2025-06-04,North,Furniture,Office Chair,Small Business,Online,4,206.84,0.05,785.99,615.81,170.18,False,False,Valid
+ORD001176,2026-06-09,Central,Technology,Keyboard,Small Business,Online,4,45.66,0.1,164.38,138.75,25.63,False,False,Valid
+ORD001177,2026-07-14,Central,Technology,Keyboard,Consumer,Retail,1,89.48,0.1,80.53,61.02,19.51,False,False,Valid
+ORD001178,2026-09-28,South,Furniture,Bookshelf,Enterprise,Retail,4,96.12,0.2,307.58,300.71,6.87,False,False,Valid
+ORD001179,2025-02-10,Central,Office Supplies,Storage Box,Small Business,Online,7,34.36,0.1,216.47,195.94,20.53,False,False,Valid
+ORD001180,2025-10-03,East,Technology,Monitor,Small Business,Partner,1,140.78,0.2,112.62,96.1,16.52,False,False,Valid
+ORD001181,2025-08-14,North,Technology,Laptop,Enterprise,Partner,5,1099.44,0.15,4672.62,3987.69,684.93,False,False,Valid
+ORD001182,2025-05-27,East,Office Supplies,Pens,Consumer,Partner,3,9.18,0.1,24.79,18.84,5.95,False,False,Valid
+ORD001183,2025-02-27,West,Furniture,Desk,Consumer,Retail,6,132.52,0.0,795.12,560.91,234.21,False,False,Valid
+ORD001184,2026-04-18,West,Technology,Headphones,Small Business,Online,4,75.9,0.15,258.06,199.05,59.01,False,False,Valid
+ORD001185,2026-03-18,West,Technology,Laptop,Enterprise,Retail,6,919.14,0.0,5514.84,4392.59,1122.25,False,False,Valid
+ORD001186,2025-04-15,North,Technology,Headphones,Small Business,Retail,2,133.94,0.0,267.88,172.14,95.74,False,False,Valid
+ORD001187,2025-10-27,North,Technology,Headphones,Consumer,Partner,8,93.29,0.2,597.06,477.76,119.3,False,False,Valid
+ORD001188,2025-10-21,Central,Furniture,Desk,Consumer,Partner,5,228.95,0.2,915.8,909.54,6.26,False,False,Valid
+ORD001189,2025-03-17,West,Office Supplies,Paper Pack,Consumer,Partner,5,14.2,0.0,71.0,53.74,17.26,False,False,Valid
+ORD001190,2025-03-19,Central,Office Supplies,Pens,Consumer,Partner,5,8.18,0.1,36.81,29.42,7.39,False,False,Valid
+ORD001191,2025-02-14,West,Technology,Monitor,Consumer,Partner,8,270.06,0.0,2160.48,1336.99,823.49,False,False,Valid
+ORD001192,2026-06-02,South,Furniture,Desk,Consumer,Partner,2,243.06,0.0,486.12,404.19,81.93,False,False,Valid
+ORD001193,2025-12-21,East,Office Supplies,Binder,Enterprise,Online,4,8.37,0.05,31.81,22.88,8.93,False,False,Valid
+ORD001194,2026-02-24,West,Technology,Monitor,Enterprise,Online,7,343.12,0.05,2281.75,1781.22,500.53,False,False,Valid
+ORD001195,2025-12-27,South,Office Supplies,Binder,Consumer,Online,6,20.62,0.2,98.98,94.06,4.92,False,False,Valid
+ORD001196,2025-11-01,East,Technology,Headphones,Small Business,Partner,2,51.71,0.05,98.25,87.9,10.35,False,False,Valid
+ORD001197,2026-08-02,West,Furniture,Desk,Enterprise,Retail,6,311.73,0.15,1589.82,1397.82,192.0,False,False,Valid
+ORD001198,2025-03-07,South,Furniture,Bookshelf,Enterprise,Retail,6,112.88,0.1,609.55,452.62,156.93,False,False,Valid
+ORD001199,2025-04-16,Central,Furniture,Desk,Enterprise,Online,3,324.0,0.1,874.8,772.17,102.63,False,False,Valid
+ORD001200,2025-04-20,Central,Technology,Laptop,Small Business,Retail,8,796.71,0.1,5736.31,5228.09,508.22,False,False,Valid
+ORD001201,2026-03-20,Central,Office Supplies,Pens,Consumer,Retail,3,4.76,0.0,14.28,11.14,3.14,False,False,Valid
+ORD001202,2025-04-26,Central,Office Supplies,Storage Box,Small Business,Partner,2,38.0,0.0,76.0,53.67,22.33,False,False,Valid
+ORD001203,2025-02-21,West,Furniture,Lamp,Consumer,Online,6,47.93,0.0,287.58,206.46,81.12,False,False,Valid
+ORD001204,2026-05-13,West,Technology,Keyboard,Consumer,Online,6,15.15,0.0,90.9,76.61,14.29,False,False,Valid
+ORD001205,2025-02-26,Central,Office Supplies,Binder,Small Business,Online,1,10.54,0.0,10.54,7.02,3.52,False,False,Valid
+ORD001206,2026-04-17,North,Technology,Headphones,Enterprise,Online,2,84.85,0.0,169.7,126.81,42.89,False,False,Valid
+ORD001207,2025-03-16,West,Office Supplies,Storage Box,Enterprise,Partner,1,37.16,0.0,37.16,22.33,14.83,False,False,Valid
+ORD001208,2025-06-12,North,Furniture,Desk,Consumer,Online,5,340.96,0.0,1704.8,1286.01,418.79,False,False,Valid
+ORD001209,2025-07-27,North,Technology,Keyboard,Enterprise,Online,7,43.07,0.0,301.49,254.39,47.1,False,False,Valid
+ORD001210,2026-08-03,East,Office Supplies,Paper Pack,Small Business,Partner,4,8.44,0.15,28.7,27.97,0.73,False,False,Valid
+ORD001211,2026-09-06,North,Office Supplies,Storage Box,Enterprise,Online,7,35.22,0.0,246.54,189.49,57.05,False,False,Valid
+ORD001212,2025-05-12,North,Office Supplies,Pens,Consumer,Online,4,13.24,0.05,50.31,41.86,8.45,False,False,Valid
+ORD001213,2025-12-17,East,Technology,Laptop,Consumer,Online,4,734.73,0.2,2351.14,2017.38,333.76,False,False,Valid
+ORD001214,2026-08-16,East,Furniture,Office Chair,Small Business,Partner,4,243.45,0.0,973.8,820.1,153.7,False,False,Valid
+ORD001215,2025-11-07,Central,Office Supplies,Storage Box,Enterprise,Retail,8,42.02,0.0,336.16,285.71,50.45,False,False,Valid
+ORD001216,2026-08-01,South,Office Supplies,Binder,Small Business,Retail,8,25.99,0.15,176.73,144.65,32.08,False,False,Valid
+ORD001217,2025-09-19,East,Technology,Laptop,Small Business,Online,2,1071.08,0.2,1713.73,1579.37,134.36,False,False,Valid
+ORD001218,2026-06-25,West,Office Supplies,Pens,Small Business,Online,4,2.2,0.2,7.04,5.34,1.7,False,False,Valid
+ORD001219,2026-07-17,North,Furniture,Office Chair,Enterprise,Partner,6,334.78,0.05,1908.25,1663.35,244.9,False,False,Valid
+ORD001220,2025-05-09,West,Office Supplies,Paper Pack,Small Business,Retail,4,10.95,0.0,43.8,32.08,11.72,False,False,Valid
+ORD001221,2025-04-07,West,Office Supplies,Pens,Consumer,Online,4,5.24,0.2,16.77,12.88,3.89,False,False,Valid
+ORD001222,2026-07-14,East,Furniture,Bookshelf,Small Business,Partner,5,79.25,0.1,356.62,269.29,87.33,False,False,Valid
+ORD001223,2025-12-18,East,Technology,Headphones,Consumer,Retail,7,128.08,0.15,762.08,687.22,74.86,False,False,Valid
+ORD001224,2025-05-22,North,Technology,Keyboard,Enterprise,Online,8,30.51,0.15,207.47,206.15,1.32,False,False,Valid
+ORD001225,2026-01-17,East,Technology,Keyboard,Enterprise,Partner,8,60.86,0.1,438.19,418.71,19.48,False,False,Valid
+ORD001226,2025-12-28,West,Furniture,Bookshelf,Enterprise,Online,1,121.19,0.0,121.19,79.68,41.51,False,False,Valid
+ORD001227,2025-02-27,Central,Furniture,Lamp,Small Business,Online,5,63.67,0.15,270.6,251.83,18.77,False,False,Valid
+ORD001228,2025-11-25,East,Office Supplies,Paper Pack,Enterprise,Partner,8,18.53,0.1,133.42,99.26,34.16,False,False,Valid
+ORD001229,2025-10-06,West,Furniture,Office Chair,Enterprise,Retail,3,104.86,0.0,314.58,227.8,86.78,False,False,Valid
+ORD001230,2025-12-14,North,Office Supplies,Storage Box,Consumer,Partner,3,17.4,0.15,44.37,38.4,5.97,False,False,Valid
+ORD001231,2026-07-17,Central,Technology,Monitor,Consumer,Online,6,136.54,0.0,819.24,608.47,210.77,False,False,Valid
+ORD001232,2025-06-20,North,Furniture,Lamp,Consumer,Retail,3,55.14,0.1,148.88,103.9,44.98,False,False,Valid
+ORD001233,2026-09-04,North,Furniture,Desk,Consumer,Partner,3,374.39,0.2,898.54,900.93,-2.39,False,False,Valid
+ORD001234,2025-09-13,South,Furniture,Desk,Small Business,Retail,1,258.69,0.15,219.89,157.89,62.0,False,False,Valid
+ORD001235,2026-01-03,South,Technology,Headphones,Small Business,Retail,4,25.78,0.1,92.81,63.47,29.34,False,False,Valid
+ORD001236,2025-11-23,North,Office Supplies,Pens,Consumer,Online,5,11.58,0.15,49.21,39.61,9.6,False,False,Valid
+ORD001237,2025-03-23,Central,Office Supplies,Storage Box,Enterprise,Partner,2,28.56,0.1,51.41,37.84,13.57,False,False,Valid
+ORD001238,2025-07-12,South,Technology,Keyboard,Consumer,Online,7,78.94,0.05,524.95,460.78,64.17,False,False,Valid
+ORD001239,2026-09-07,North,Furniture,Bookshelf,Consumer,Retail,4,161.17,0.2,515.74,501.96,13.78,False,False,Valid
+ORD001240,2025-06-29,East,Furniture,Office Chair,Consumer,Retail,2,322.09,0.2,515.34,491.06,24.28,False,False,Valid
+ORD001241,2025-08-10,East,Office Supplies,Paper Pack,Consumer,Retail,1,20.72,0.0,20.72,17.03,3.69,False,False,Valid
+ORD001242,2025-10-30,South,Technology,Monitor,Small Business,Retail,1,151.71,0.15,128.95,99.68,29.27,False,False,Valid
+ORD001243,2026-09-06,Central,Office Supplies,Pens,Consumer,Retail,8,2.98,0.1,21.46,19.66,1.8,False,False,Valid
+ORD001244,2025-05-05,East,Technology,Headphones,Consumer,Online,6,55.78,0.1,301.21,237.39,63.82,False,False,Valid
+ORD001245,2026-07-06,East,Technology,Keyboard,Small Business,Retail,8,64.07,0.2,410.05,421.95,-11.9,False,False,Valid
+ORD001246,2025-03-10,South,Technology,Headphones,Small Business,Online,6,40.68,0.0,244.08,159.77,84.31,False,False,Valid
+ORD001247,2025-09-12,East,Technology,Laptop,Small Business,Online,8,1059.52,0.0,8476.16,6701.78,1774.38,False,False,Valid
+ORD001248,2025-09-13,West,Technology,Keyboard,Enterprise,Online,4,53.62,0.0,214.48,134.97,79.51,False,False,Valid
+ORD001249,2026-09-01,South,Office Supplies,Binder,Small Business,Retail,3,13.48,0.0,40.44,26.85,13.59,False,False,Valid
+ORD001250,2025-05-27,South,Technology,Headphones,Small Business,Online,2,157.64,0.0,315.28,200.96,114.32,False,False,Valid
+ORD001251,2025-04-20,Central,Technology,Keyboard,Consumer,Partner,3,27.35,0.0,82.05,57.75,24.3,False,False,Valid
+ORD001252,2025-02-21,South,Technology,Monitor,Enterprise,Partner,3,294.42,0.2,706.61,649.03,57.58,False,False,Valid
+ORD001253,2026-08-10,Central,Technology,Laptop,Consumer,Retail,6,825.92,0.05,4707.74,3362.63,1345.11,False,False,Valid
+ORD001254,2026-01-09,East,Technology,Monitor,Small Business,Online,6,122.19,0.15,623.17,524.48,98.69,False,False,Valid
+ORD001255,2026-08-04,East,Office Supplies,Binder,Consumer,Online,7,23.71,0.0,165.97,110.66,55.31,False,False,Valid
+ORD001256,2026-06-28,South,Office Supplies,Storage Box,Consumer,Partner,7,51.47,0.2,288.23,302.54,-14.31,False,False,Valid
+ORD001257,2025-01-13,West,Furniture,Lamp,Enterprise,Online,7,59.78,0.1,376.61,315.87,60.74,False,False,Valid
+ORD001258,2025-12-13,West,Technology,Laptop,Consumer,Retail,2,925.43,0.0,1850.86,1475.86,375.0,False,False,Valid
+ORD001259,2025-06-21,Central,Technology,Monitor,Consumer,Partner,2,156.24,0.05,296.86,202.94,93.92,False,False,Valid
+ORD001260,2025-01-29,North,Furniture,Office Chair,Consumer,Partner,7,174.69,0.2,978.26,946.37,31.89,False,False,Valid
+ORD001261,2025-01-31,South,Furniture,Desk,Enterprise,Online,2,286.29,0.2,458.06,439.52,18.54,False,False,Valid
+ORD001262,2025-10-08,South,Furniture,Lamp,Consumer,Online,3,68.02,0.2,163.25,163.64,-0.39,False,False,Valid
+ORD001263,2026-05-15,Central,Furniture,Bookshelf,Small Business,Partner,1,172.32,0.15,146.47,127.75,18.72,False,False,Valid
+ORD001264,2026-03-25,West,Technology,Keyboard,Small Business,Retail,5,50.17,0.2,200.68,156.45,44.23,False,False,Valid
+ORD001265,2025-07-21,West,Furniture,Bookshelf,Small Business,Partner,7,118.86,0.15,707.22,568.7,138.52,False,False,Valid
+ORD001266,2026-02-10,South,Office Supplies,Paper Pack,Enterprise,Partner,4,16.32,0.05,62.02,44.21,17.81,False,False,Valid
+ORD001267,2025-11-16,Central,Technology,Keyboard,Consumer,Online,7,56.84,0.2,318.3,296.47,21.83,False,False,Valid
+ORD001268,2026-01-22,East,Technology,Keyboard,Enterprise,Online,6,67.08,0.2,321.98,253.26,68.72,False,False,Valid
+ORD001269,2026-08-31,North,Office Supplies,Pens,Small Business,Partner,5,9.35,0.05,44.41,30.72,13.69,False,False,Valid
+ORD001270,2026-03-05,West,Furniture,Desk,Small Business,Online,4,497.2,0.05,1889.36,1405.21,484.15,False,False,Valid
+ORD001271,2025-03-04,East,Technology,Keyboard,Small Business,Online,3,27.97,0.1,75.52,63.4,12.12,False,False,Valid
+ORD001272,2026-08-05,West,Technology,Keyboard,Small Business,Retail,2,24.06,0.05,45.71,31.13,14.58,False,False,Valid
+ORD001273,2026-08-22,West,Office Supplies,Pens,Enterprise,Retail,6,7.76,0.05,44.23,30.6,13.63,False,False,Valid
+ORD001274,2026-08-26,East,Office Supplies,Paper Pack,Consumer,Partner,3,14.82,0.2,35.57,33.29,2.28,False,False,Valid
+ORD001275,2025-11-09,West,Furniture,Lamp,Small Business,Retail,5,31.92,0.15,135.66,125.58,10.08,False,False,Valid
+ORD001276,2025-04-08,Central,Technology,Laptop,Small Business,Online,5,982.1,0.0,4910.5,2995.63,1914.87,False,False,Valid
+ORD001277,2026-02-20,South,Furniture,Lamp,Consumer,Retail,2,37.77,0.2,60.43,54.85,5.58,False,False,Valid
+ORD001278,2025-03-29,East,Technology,Keyboard,Small Business,Retail,8,46.95,0.0,375.6,312.61,62.99,False,False,Valid
+ORD001279,2025-11-07,North,Office Supplies,Storage Box,Small Business,Partner,2,30.59,0.2,48.94,36.77,12.17,False,False,Valid
+ORD001280,2026-02-23,East,Furniture,Desk,Small Business,Partner,4,180.77,0.05,686.93,537.55,149.38,False,False,Valid
+ORD001281,2026-08-21,Central,Office Supplies,Pens,Enterprise,Partner,6,12.03,0.0,72.18,45.39,26.79,False,False,Valid
+ORD001282,2025-05-12,North,Furniture,Lamp,Consumer,Retail,1,99.83,0.15,84.86,85.3,-0.44,False,False,Valid
+ORD001283,2025-02-13,Central,Furniture,Office Chair,Enterprise,Partner,5,307.23,0.05,1459.34,1174.5,284.84,False,False,Valid
+ORD001284,2025-07-23,Central,Office Supplies,Binder,Enterprise,Online,8,4.1,0.15,27.88,27.42,0.46,False,False,Valid
+ORD001285,2026-09-17,Central,Technology,Laptop,Consumer,Retail,3,850.05,0.2,2040.12,1776.99,263.13,False,False,Valid
+ORD001286,2026-01-07,East,Technology,Laptop,Consumer,Online,7,746.5,0.15,4441.68,3806.24,635.44,False,False,Valid
+ORD001287,2025-02-03,South,Office Supplies,Paper Pack,Enterprise,Retail,2,14.05,0.15,23.89,22.63,1.26,False,False,Valid
+ORD001288,2025-03-17,South,Furniture,Lamp,Consumer,Online,8,20.71,0.2,132.54,112.77,19.77,False,False,Valid
+ORD001289,2025-10-20,South,Furniture,Office Chair,Consumer,Partner,8,215.38,0.2,1378.43,1349.88,28.55,False,False,Valid
+ORD001290,2026-03-30,South,Technology,Keyboard,Enterprise,Partner,8,60.19,0.15,409.29,397.31,11.98,False,False,Valid
+ORD001291,2026-06-08,North,Technology,Keyboard,Small Business,Retail,4,91.59,0.2,293.09,237.35,55.74,False,False,Valid
+ORD001292,2025-04-28,West,Technology,Laptop,Small Business,Retail,5,869.53,0.05,4130.27,3484.18,646.09,False,False,Valid
+ORD001293,2026-08-30,West,Furniture,Bookshelf,Enterprise,Retail,4,203.39,0.2,650.85,569.63,81.22,False,False,Valid
+ORD001294,2026-04-01,South,Office Supplies,Pens,Consumer,Retail,5,2.23,0.0,11.15,7.5,3.65,False,False,Valid
+ORD001295,2025-03-17,East,Office Supplies,Paper Pack,Consumer,Partner,5,17.04,0.2,68.16,56.94,11.22,False,False,Valid
+ORD001296,2025-03-03,Central,Technology,Laptop,Enterprise,Online,2,1212.82,0.0,2425.64,1643.68,781.96,False,False,Valid
+ORD001297,2025-10-20,South,Office Supplies,Paper Pack,Small Business,Retail,2,7.03,0.0,14.06,8.88,5.18,False,False,Valid
+ORD001298,2025-06-20,North,Technology,Monitor,Small Business,Online,2,395.52,0.2,632.83,604.28,28.55,False,False,Valid
+ORD001299,2026-07-30,North,Office Supplies,Storage Box,Enterprise,Retail,8,27.02,0.0,216.16,136.75,79.41,False,False,Valid
+ORD001300,2026-03-27,Central,Technology,Keyboard,Enterprise,Retail,3,62.58,0.2,150.19,133.2,16.99,False,False,Valid
+ORD001301,2026-04-21,South,Furniture,Desk,Small Business,Online,-1,153.46,0.0,1227.68,946.95,280.73,True,False,Needs Attention
+ORD001302,2025-02-16,East,Technology,Monitor,Enterprise,Retail,8,278.54,0.0,2228.32,1592.51,635.81,False,False,Valid
+ORD001303,2026-04-24,North,Technology,Monitor,Small Business,Partner,3,244.21,0.0,732.63,561.04,171.59,False,False,Valid
+ORD001304,2026-01-01,Central,Technology,Headphones,Enterprise,Retail,8,90.29,0.0,722.32,570.13,152.19,False,False,Valid
+ORD001305,2026-03-02,North,Office Supplies,Pens,Consumer,Retail,8,4.72,0.2,30.21,29.53,0.68,False,False,Valid
+ORD001306,2025-03-10,South,Technology,Laptop,Small Business,Online,8,977.08,0.1,7034.98,5229.07,1805.91,False,False,Valid
+ORD001307,2026-04-09,West,Technology,Laptop,Small Business,Online,3,799.71,0.1,2159.22,1881.41,277.81,False,False,Valid
+ORD001308,2025-05-12,East,Technology,Monitor,Enterprise,Online,5,303.7,0.0,1518.5,1076.14,442.36,False,False,Valid
+ORD001309,2026-09-14,West,Furniture,Office Chair,Small Business,Retail,7,304.79,0.0,2133.53,1517.96,615.57,False,False,Valid
+ORD001310,2026-01-30,North,Technology,Headphones,Small Business,Online,7,47.42,0.05,315.34,248.42,66.92,False,False,Valid
+ORD001311,2026-04-16,North,Office Supplies,Binder,Small Business,Partner,8,27.47,0.1,197.78,142.07,55.71,False,False,Valid
+ORD001312,2026-06-27,East,Furniture,Office Chair,Enterprise,Retail,7,167.22,0.1,1053.49,859.61,193.88,False,False,Valid
+ORD001313,2025-01-12,East,Technology,Keyboard,Enterprise,Partner,6,85.63,0.15,436.71,431.1,5.61,False,False,Valid
+ORD001314,2026-04-03,South,Office Supplies,Storage Box,Enterprise,Retail,1,45.87,0.0,45.87,28.17,17.7,False,False,Valid
+ORD001315,2026-09-29,South,Furniture,Office Chair,Consumer,Retail,8,269.57,0.1,1940.9,1674.46,266.44,False,False,Valid
+ORD001316,2026-02-10,Central,Technology,Keyboard,Enterprise,Partner,7,53.43,0.2,299.21,251.96,47.25,False,False,Valid
+ORD001317,2025-10-22,East,Furniture,Bookshelf,Small Business,Partner,1,66.17,0.1,59.55,55.55,4.0,False,False,Valid
+ORD001318,2026-01-08,South,Furniture,Desk,Small Business,Retail,7,355.81,0.1,2241.6,1671.82,569.78,False,False,Valid
+ORD001319,2026-06-01,Central,Technology,Keyboard,Enterprise,Retail,8,42.18,0.15,286.82,251.47,35.35,False,False,Valid
+ORD001320,2025-12-11,North,Office Supplies,Storage Box,Small Business,Retail,7,17.5,0.0,122.5,87.57,34.93,False,False,Valid
+ORD001321,2025-03-14,Central,Technology,Headphones,Enterprise,Online,8,169.54,0.2,1085.06,1099.42,-14.36,False,False,Valid
+ORD001322,2025-11-24,Unknown,Furniture,Office Chair,Consumer,Partner,4,272.4,0.15,926.16,791.28,134.88,False,False,Needs Attention
+ORD001323,2026-07-30,North,Office Supplies,Paper Pack,Consumer,Retail,1,4.77,0.2,3.82,3.43,0.39,False,False,Valid
+ORD001324,2026-05-20,North,Office Supplies,Paper Pack,Consumer,Retail,8,14.6,0.15,99.28,99.21,0.07,False,False,Valid
+ORD001325,2025-01-22,Central,Office Supplies,Binder,Enterprise,Retail,3,22.46,0.0,67.38,57.13,10.25,False,False,Valid
+ORD001326,2026-02-25,East,Technology,Monitor,Enterprise,Partner,6,240.02,0.15,1224.1,959.19,264.91,False,False,Valid
+ORD001327,2025-01-05,Central,Technology,Headphones,Enterprise,Online,3,48.68,0.15,124.13,111.5,12.63,False,False,Valid
+ORD001328,2026-03-03,Central,Office Supplies,Binder,Small Business,Online,4,7.86,0.2,25.15,26.37,-1.22,False,False,Valid
+ORD001329,2025-11-13,South,Technology,Monitor,Enterprise,Retail,8,132.83,0.0,1062.64,790.48,272.16,False,False,Valid
+ORD001330,2025-02-02,Central,Office Supplies,Binder,Consumer,Partner,3,20.86,0.15,53.19,40.69,12.5,False,False,Valid
+ORD001331,2025-07-18,Central,Office Supplies,Paper Pack,Small Business,Retail,2,13.62,0.15,23.15,16.64,6.51,False,False,Valid
+ORD001332,2026-04-09,South,Technology,Keyboard,Enterprise,Partner,6,22.75,0.2,109.2,99.71,9.49,False,False,Valid
+ORD001333,2026-03-07,East,Technology,Keyboard,Small Business,Partner,1,53.67,0.0,53.67,33.03,20.64,False,False,Valid
+ORD001334,2026-02-16,East,Technology,Keyboard,Small Business,Partner,6,58.68,0.2,281.66,246.92,34.74,False,False,Valid
+ORD001335,2026-06-25,East,Furniture,Office Chair,Consumer,Partner,1,261.48,0.2,209.18,198.03,11.15,False,False,Valid
+ORD001336,2026-08-27,East,Office Supplies,Pens,Enterprise,Retail,7,5.66,0.15,33.68,27.94,5.74,False,False,Valid
+ORD001337,2026-04-05,South,Technology,Monitor,Small Business,Partner,5,131.35,0.05,623.91,468.05,155.86,False,False,Valid
+ORD001338,2025-07-09,South,Technology,Monitor,Small Business,Retail,8,398.97,0.15,2713.0,2280.57,432.43,False,False,Valid
+ORD001339,2026-03-14,South,Technology,Headphones,Enterprise,Partner,2,98.2,0.2,157.12,157.78,-0.66,False,False,Valid
+ORD001340,2025-09-18,North,Technology,Monitor,Small Business,Online,7,330.12,0.0,2310.84,1830.43,480.41,False,False,Valid
+ORD001341,2025-02-20,West,Furniture,Lamp,Small Business,Online,5,63.54,0.0,317.7,229.54,88.16,False,False,Valid
+ORD001342,2026-02-07,South,Office Supplies,Paper Pack,Consumer,Online,8,8.26,0.0,66.08,53.16,12.92,False,False,Valid
+ORD001343,2026-05-26,North,Technology,Laptop,Consumer,Online,2,847.15,0.0,1694.3,1308.76,385.54,False,False,Valid
+ORD001344,2026-07-27,North,Furniture,Bookshelf,Consumer,Online,2,82.35,0.0,164.7,122.5,42.2,False,False,Valid
+ORD001345,2025-09-23,West,Technology,Headphones,Enterprise,Partner,2,71.47,0.0,142.94,94.13,48.81,False,False,Valid
+ORD001346,2025-04-06,Central,Furniture,Office Chair,Enterprise,Online,4,325.9,0.15,1108.06,966.18,141.88,False,False,Valid
+ORD001347,2026-05-09,West,Technology,Headphones,Enterprise,Online,7,131.49,0.0,920.43,616.85,303.58,False,False,Valid
+ORD001348,2025-04-29,North,Technology,Headphones,Enterprise,Partner,3,76.01,0.1,205.23,138.08,67.15,False,False,Valid
+ORD001349,2026-02-04,East,Furniture,Lamp,Consumer,Partner,7,76.25,0.15,453.69,434.89,18.8,False,False,Valid
+ORD001350,2025-12-09,West,Technology,Keyboard,Small Business,Retail,3,15.8,0.05,45.03,30.6,14.43,False,False,Valid
+ORD001351,2026-05-17,Central,Office Supplies,Pens,Small Business,Retail,6,6.82,0.0,40.92,25.7,15.22,False,False,Valid
+ORD001352,2026-08-03,North,Technology,Laptop,Consumer,Retail,8,1123.47,0.15,7639.6,5596.1,2043.5,False,False,Valid
+ORD001353,2025-11-05,East,Office Supplies,Paper Pack,Consumer,Partner,4,11.76,0.15,39.98,37.38,2.6,False,False,Valid
+ORD001354,2025-10-13,West,Furniture,Lamp,Small Business,Online,7,65.13,0.0,455.91,315.95,139.96,False,False,Valid
+ORD001355,2026-05-31,North,Technology,Monitor,Consumer,Online,2,131.59,0.05,250.02,182.77,67.25,False,False,Valid
+ORD001356,2026-07-27,East,Office Supplies,Binder,Enterprise,Partner,3,11.45,0.0,34.35,22.44,11.91,False,False,Valid
+ORD001357,2026-05-16,East,Technology,Headphones,Enterprise,Online,8,87.97,0.15,598.2,551.07,47.13,False,False,Valid
+ORD001358,2025-11-22,East,Office Supplies,Storage Box,Consumer,Partner,1,23.13,0.0,23.13,19.4,3.73,False,False,Valid
+ORD001359,2025-12-14,East,Technology,Laptop,Consumer,Online,4,808.89,0.2,2588.45,2124.85,463.6,False,False,Valid
+ORD001360,2025-08-22,East,Technology,Keyboard,Small Business,Retail,5,64.54,0.2,258.16,232.91,25.25,False,False,Valid
+ORD001361,2025-02-21,Central,Furniture,Lamp,Small Business,Retail,4,97.77,0.0,391.08,267.2,123.88,False,False,Valid
+ORD001362,2026-06-23,Central,Furniture,Bookshelf,Enterprise,Retail,2,69.74,0.05,132.51,105.26,27.25,False,False,Valid
+ORD001363,2025-10-23,East,Technology,Monitor,Enterprise,Partner,3,168.8,0.15,430.44,405.75,24.69,False,False,Valid
+ORD001364,2026-07-09,North,Furniture,Office Chair,Enterprise,Online,6,207.04,0.1,1118.02,764.35,353.67,False,False,Valid
+ORD001365,2025-01-10,West,Furniture,Lamp,Small Business,Retail,1,58.27,0.2,46.62,43.69,2.93,False,False,Valid
+ORD001366,2026-02-01,North,Technology,Monitor,Consumer,Online,5,383.49,0.1,1725.71,1594.42,131.29,False,False,Valid
+ORD001367,2025-04-29,Central,Technology,Laptop,Consumer,Online,8,1221.01,0.2,7814.46,7891.0,-76.54,False,False,Valid
+ORD001368,2026-09-13,South,Office Supplies,Paper Pack,Enterprise,Retail,8,16.52,0.0,132.16,85.18,46.98,False,False,Valid
+ORD001369,2025-02-20,South,Furniture,Bookshelf,Enterprise,Online,8,124.0,0.2,793.6,705.87,87.73,False,False,Valid
+ORD001370,2025-08-12,Central,Furniture,Bookshelf,Enterprise,Online,8,208.84,0.1,1503.65,1058.2,445.45,False,False,Valid
+ORD001371,2026-04-18,South,Office Supplies,Storage Box,Enterprise,Retail,5,41.05,0.2,164.2,163.52,0.68,False,False,Valid
+ORD001372,2026-07-14,Central,Technology,Headphones,Enterprise,Online,4,138.81,0.1,499.72,428.6,71.12,False,False,Valid
+ORD001373,2026-04-25,West,Office Supplies,Binder,Small Business,Online,4,20.08,0.05,76.3,55.57,20.73,False,False,Valid
+ORD001374,2025-11-01,Central,Office Supplies,Paper Pack,Small Business,Retail,8,14.18,0.1,102.1,70.53,31.57,False,False,Valid
+ORD001375,2026-06-06,West,Furniture,Desk,Enterprise,Online,1,178.57,0.0,178.57,128.56,50.01,False,False,Valid
+ORD001376,2026-02-13,Central,Office Supplies,Pens,Small Business,Retail,4,12.64,0.05,48.03,31.72,16.31,False,False,Valid
+ORD001377,2026-01-20,South,Furniture,Lamp,Enterprise,Online,2,32.48,0.15,55.22,40.99,14.23,False,False,Valid
+ORD001378,2026-06-03,West,Office Supplies,Binder,Small Business,Partner,3,8.53,0.15,21.75,17.65,4.1,False,False,Valid
+ORD001379,2025-12-03,South,Technology,Monitor,Consumer,Partner,3,396.62,0.2,951.89,859.99,91.9,False,False,Valid
+ORD001380,2026-05-21,West,Office Supplies,Storage Box,Small Business,Partner,7,25.96,0.1,163.55,114.55,49.0,False,False,Valid
+ORD001381,2025-03-03,East,Furniture,Bookshelf,Consumer,Partner,5,172.97,0.0,864.85,650.56,214.29,False,False,Valid
+ORD001382,2026-08-01,North,Furniture,Desk,Consumer,Partner,4,110.61,0.2,353.95,369.86,-15.91,False,False,Valid
+ORD001383,2025-06-16,West,Furniture,Bookshelf,Enterprise,Online,4,108.5,0.05,412.3,307.61,104.69,False,False,Valid
+ORD001384,2026-02-16,North,Furniture,Desk,Consumer,Partner,1,371.92,0.0,371.92,279.27,92.65,False,False,Valid
+ORD001385,2025-08-10,West,Furniture,Office Chair,Consumer,Partner,4,259.24,0.2,829.57,635.1,194.47,False,False,Valid
+ORD001386,2025-11-22,West,Technology,Keyboard,Consumer,Partner,3,41.54,0.0,124.62,92.76,31.86,False,False,Valid
+ORD001387,2025-01-18,Central,Office Supplies,Paper Pack,Small Business,Online,1,6.34,0.05,6.02,5.0,1.02,False,False,Valid
+ORD001388,2025-12-02,Central,Office Supplies,Paper Pack,Small Business,Retail,6,19.84,0.15,101.18,83.25,17.93,False,False,Valid
+ORD001389,2025-04-22,West,Furniture,Bookshelf,Consumer,Partner,4,164.4,0.0,657.6,424.19,233.41,False,False,Valid
+ORD001390,2025-03-21,South,Furniture,Office Chair,Consumer,Partner,2,135.14,0.1,243.25,172.06,71.19,False,False,Valid
+ORD001391,2025-10-02,Central,Furniture,Bookshelf,Small Business,Retail,7,106.38,0.05,707.43,453.26,254.17,False,False,Valid
+ORD001392,2025-01-10,South,Furniture,Office Chair,Small Business,Online,2,217.33,0.05,412.93,273.98,138.95,False,False,Valid
+ORD001393,2026-05-15,Central,Furniture,Lamp,Consumer,Retail,4,78.59,0.05,298.64,206.0,92.64,False,False,Valid
+ORD001394,2026-05-07,South,Technology,Laptop,Small Business,Online,2,977.69,0.2,1564.3,1614.75,-50.45,False,False,Valid
+ORD001395,2026-04-22,East,Office Supplies,Storage Box,Small Business,Online,8,39.09,0.0,312.72,268.88,43.84,False,False,Valid
+ORD001396,2026-04-30,South,Office Supplies,Paper Pack,Small Business,Online,4,14.48,0.1,52.13,42.71,9.42,False,False,Valid
+ORD001397,2026-06-15,Central,Technology,Headphones,Consumer,Retail,5,89.23,0.15,379.23,328.98,50.25,False,False,Valid
+ORD001398,2025-02-06,North,Technology,Headphones,Enterprise,Online,1,55.32,0.05,52.55,34.53,18.02,False,False,Valid
+ORD001399,2025-01-02,South,Technology,Keyboard,Small Business,Retail,3,45.28,0.15,115.46,82.62,32.84,False,False,Valid
+ORD001400,2026-08-22,East,Furniture,Bookshelf,Consumer,Partner,3,71.9,0.0,215.7,172.39,43.31,False,False,Valid
+ORD001401,2026-07-28,East,Technology,Keyboard,Consumer,Partner,2,73.19,0.0,146.38,93.52,52.86,False,False,Valid
+ORD001402,2025-05-17,West,Furniture,Office Chair,Small Business,Online,4,292.5,0.1,1053.0,904.21,148.79,False,False,Valid
+ORD001403,2025-03-27,West,Furniture,Desk,Small Business,Online,3,258.46,0.0,775.38,501.26,274.12,False,False,Valid
+ORD001404,2025-05-03,West,Technology,Laptop,Consumer,Online,6,1136.35,0.0,6818.1,4190.35,2627.75,False,False,Valid
+ORD001405,2025-11-05,West,Technology,Laptop,Small Business,Online,7,867.28,0.0,6070.96,3662.23,2408.73,False,False,Valid
+ORD001406,2026-07-17,South,Technology,Headphones,Consumer,Partner,6,34.23,0.15,174.57,176.21,-1.64,False,False,Valid
+ORD001407,2026-06-08,North,Office Supplies,Storage Box,Small Business,Partner,7,17.26,0.15,102.7,82.68,20.02,False,False,Valid
+ORD001408,2026-04-12,South,Office Supplies,Paper Pack,Small Business,Partner,5,4.25,0.15,18.06,14.14,3.92,False,False,Valid
+ORD001409,2025-09-13,Central,Technology,Monitor,Consumer,Online,1,268.91,0.15,228.57,210.6,17.97,False,False,Valid
+ORD001410,2026-01-13,North,Furniture,Desk,Consumer,Online,6,207.02,0.15,1055.8,796.75,259.05,False,False,Valid
+ORD001411,2025-11-02,West,Furniture,Desk,Consumer,Retail,7,256.22,0.05,1703.86,1267.53,436.33,False,False,Valid
+ORD001412,2026-03-08,South,Office Supplies,Paper Pack,Small Business,Online,4,10.47,0.0,41.88,30.44,11.44,False,False,Valid
+ORD001413,2026-04-05,West,Technology,Headphones,Enterprise,Online,8,51.72,0.0,413.76,259.86,153.9,False,False,Valid
+ORD001414,2025-08-25,Central,Furniture,Bookshelf,Consumer,Partner,7,206.26,0.0,1443.82,1087.63,356.19,False,False,Valid
+ORD001415,2025-09-02,East,Office Supplies,Paper Pack,Small Business,Partner,8,20.75,0.05,157.7,105.88,51.82,False,False,Valid
+ORD001416,2026-06-25,Central,Technology,Laptop,Consumer,Partner,4,829.18,0.15,2819.21,2818.09,1.12,False,False,Valid
+ORD001417,2026-03-08,East,Office Supplies,Binder,Consumer,Online,7,10.88,0.15,64.74,56.18,8.56,False,False,Valid
+ORD001418,2026-04-16,East,Furniture,Bookshelf,Enterprise,Retail,2,130.98,0.0,261.96,177.09,84.87,False,False,Valid
+ORD001419,2025-03-04,North,Technology,Keyboard,Small Business,Online,4,20.0,0.0,80.0,61.6,18.4,False,False,Valid
+ORD001420,2025-01-11,East,Technology,Keyboard,Enterprise,Retail,2,37.57,0.1,67.63,53.76,13.87,False,False,Valid
+ORD001421,2026-07-17,South,Technology,Keyboard,Consumer,Partner,8,69.85,0.0,558.8,443.31,115.49,False,False,Valid
+ORD001422,2025-12-22,Central,Office Supplies,Pens,Small Business,Retail,8,13.1,0.1,94.32,88.01,6.31,False,False,Valid
+ORD001423,2026-03-29,East,Office Supplies,Storage Box,Small Business,Partner,1,50.9,0.1,45.81,36.4,9.41,False,False,Valid
+ORD001424,2026-07-21,East,Office Supplies,Storage Box,Small Business,Online,4,34.17,0.1,123.01,96.75,26.26,False,False,Valid
+ORD001425,2026-01-24,North,Technology,Monitor,Small Business,Retail,2,156.72,0.2,250.75,213.54,37.21,False,False,Valid
+ORD001426,2026-07-09,West,Technology,Keyboard,Enterprise,Partner,2,75.42,0.2,120.67,107.3,13.37,False,False,Valid
+ORD001427,2026-01-16,East,Technology,Keyboard,Consumer,Online,1,18.6,0.0,18.6,13.0,5.6,False,False,Valid
+ORD001428,2025-10-18,South,Furniture,Bookshelf,Small Business,Retail,6,218.83,0.15,1116.03,984.84,131.19,False,False,Valid
+ORD001429,2025-07-16,North,Furniture,Lamp,Small Business,Partner,3,65.43,0.05,186.48,153.65,32.83,False,False,Valid
+ORD001430,2026-08-10,North,Furniture,Office Chair,Enterprise,Retail,8,90.95,0.0,727.6,456.03,271.57,False,False,Valid
+ORD001431,2025-07-23,Central,Furniture,Lamp,Enterprise,Partner,1,28.17,0.0,28.17,20.9,7.27,False,False,Valid
+ORD001432,2025-12-21,Central,Furniture,Bookshelf,Enterprise,Partner,4,175.35,0.15,596.19,560.44,35.75,False,False,Valid
+ORD001433,2026-03-26,North,Technology,Laptop,Consumer,Partner,2,1159.31,0.0,2318.62,1934.93,383.69,False,False,Valid
+ORD001434,2025-11-19,North,Office Supplies,Pens,Enterprise,Partner,2,4.19,0.0,8.38,5.83,2.55,False,False,Valid
+ORD001435,2025-05-31,West,Technology,Keyboard,Enterprise,Retail,7,15.99,0.0,111.93,76.64,35.29,False,False,Valid
+ORD001436,2025-12-17,East,Office Supplies,Paper Pack,Enterprise,Online,2,20.04,0.0,40.08,29.37,10.71,False,False,Valid
+ORD001437,2026-02-24,North,Technology,Laptop,Small Business,Retail,5,1184.54,0.15,5034.3,3786.06,1248.24,False,False,Valid
+ORD001438,2026-07-19,South,Technology,Laptop,Enterprise,Retail,2,930.04,0.2,1488.06,1585.16,-97.1,False,False,Valid
+ORD001439,2025-05-16,East,Technology,Keyboard,Consumer,Partner,3,43.37,0.15,110.59,80.64,29.95,False,False,Valid
+ORD001440,2026-07-08,North,Technology,Keyboard,Consumer,Partner,4,75.92,0.15,258.13,237.96,20.17,False,False,Valid
+ORD001441,2026-02-04,East,Furniture,Desk,Enterprise,Retail,6,272.37,0.15,1389.09,1250.91,138.18,False,False,Valid
+ORD001442,2025-11-07,Central,Furniture,Office Chair,Small Business,Online,1,184.64,0.1,166.18,158.68,7.5,False,False,Valid
+ORD001443,2025-02-09,East,Technology,Laptop,Small Business,Retail,5,998.25,0.1,4492.12,3134.36,1357.76,False,False,Valid
+ORD001444,2026-09-24,North,Technology,Monitor,Consumer,Retail,1,194.04,0.05,184.34,144.17,40.17,False,False,Valid
+ORD001445,2025-10-28,Central,Furniture,Desk,Consumer,Partner,7,284.34,0.1,1791.34,1391.86,399.48,False,False,Valid
+ORD001446,2026-08-09,North,Furniture,Office Chair,Small Business,Retail,3,163.79,0.0,491.37,332.53,158.84,False,False,Valid
+ORD001447,2026-09-12,South,Technology,Headphones,Enterprise,Partner,5,95.88,0.0,479.4,310.23,169.17,False,False,Valid
+ORD001448,2026-07-05,South,Technology,Laptop,Small Business,Partner,3,958.19,0.2,2299.66,2210.86,88.8,False,False,Valid
+ORD001449,2026-05-16,Central,Office Supplies,Storage Box,Small Business,Partner,8,21.15,0.0,169.2,127.53,41.67,False,False,Valid
+ORD001450,2025-09-10,South,Office Supplies,Binder,Enterprise,Retail,6,27.28,0.15,139.13,137.33,1.8,False,False,Valid
+ORD001451,2025-12-13,East,Furniture,Office Chair,Small Business,Partner,6,229.05,0.2,1099.44,978.65,120.79,False,False,Valid
+ORD001452,2025-04-12,North,Technology,Laptop,Small Business,Partner,5,1236.59,0.1,5564.65,4338.78,1225.87,False,False,Valid
+ORD001453,2025-07-06,Central,Technology,Monitor,Small Business,Retail,5,324.35,0.0,1621.75,1354.59,267.16,False,False,Valid
+ORD001454,2026-06-24,North,Furniture,Desk,Small Business,Partner,3,328.15,0.0,984.45,845.82,138.63,False,False,Valid
+ORD001455,2026-08-26,South,Office Supplies,Binder,Consumer,Partner,2,3.58,0.2,5.73,5.33,0.4,False,False,Valid
+ORD001456,2025-11-01,West,Technology,Laptop,Small Business,Online,7,806.88,0.2,4518.53,3467.73,1050.8,False,False,Valid
+ORD001457,2025-07-26,East,Technology,Monitor,Consumer,Online,3,314.19,0.1,848.31,759.37,88.94,False,False,Valid
+ORD001458,2026-06-26,West,Technology,Laptop,Small Business,Retail,2,1223.4,0.0,2446.8,1798.24,648.56,False,False,Valid
+ORD001459,2025-06-17,South,Office Supplies,Storage Box,Consumer,Retail,2,43.47,0.15,73.9,72.52,1.38,False,False,Valid
+ORD001460,2025-08-13,Central,Furniture,Bookshelf,Small Business,Partner,6,186.25,0.2,894.0,684.47,209.53,False,False,Valid
+ORD001461,2025-03-27,South,Technology,Headphones,Small Business,Online,8,109.5,0.0,876.0,738.8,137.2,False,False,Valid
+ORD001462,2026-07-21,East,Technology,Keyboard,Enterprise,Partner,4,38.19,0.0,152.76,94.49,58.27,False,False,Valid
+ORD001463,2025-12-12,East,Furniture,Office Chair,Small Business,Partner,5,329.92,0.05,1567.12,1371.58,195.54,False,False,Valid
+ORD001464,2026-07-29,South,Technology,Monitor,Consumer,Online,8,417.13,0.0,3337.04,2359.97,977.07,False,False,Valid
+ORD001465,2025-07-31,East,Technology,Headphones,Small Business,Retail,6,29.13,0.2,139.82,138.09,1.73,False,False,Valid
+ORD001466,2026-06-13,West,Furniture,Bookshelf,Enterprise,Partner,4,136.06,0.2,435.39,346.95,88.44,False,False,Valid
+ORD001467,2025-06-30,West,Furniture,Desk,Small Business,Online,5,464.73,0.2,1858.92,1959.74,-100.82,False,False,Valid
+ORD001468,2025-09-20,East,Technology,Headphones,Consumer,Online,6,51.66,0.2,247.97,203.04,44.93,False,False,Valid
+ORD001469,2025-04-17,East,Furniture,Desk,Small Business,Partner,7,137.52,0.1,866.38,765.33,101.05,False,False,Valid
+ORD001470,2026-01-25,North,Technology,Headphones,Enterprise,Online,3,158.48,0.05,451.67,286.29,165.38,False,False,Valid
+ORD001471,2025-03-09,South,Furniture,Lamp,Small Business,Online,8,84.19,0.05,639.84,405.87,233.97,False,False,Valid
+ORD001472,2025-12-09,North,Furniture,Lamp,Small Business,Partner,5,32.88,0.0,164.4,106.38,58.02,False,False,Valid
+ORD001473,2026-04-05,Central,Office Supplies,Paper Pack,Consumer,Retail,2,18.71,0.1,33.68,25.28,8.4,False,False,Valid
+ORD001474,2025-08-13,South,Office Supplies,Binder,Small Business,Online,6,19.49,0.0,116.94,76.33,40.61,False,False,Valid
+ORD001475,2026-06-25,East,Technology,Headphones,Consumer,Online,8,118.55,0.2,758.72,718.55,40.17,False,False,Valid
+ORD001476,2026-03-09,East,Technology,Headphones,Small Business,Partner,5,68.45,0.15,290.91,284.43,6.48,False,False,Valid
+ORD001477,2026-01-04,South,Office Supplies,Paper Pack,Small Business,Online,5,5.13,0.2,20.52,16.87,3.65,False,False,Valid
+ORD001478,2025-09-04,East,Technology,Keyboard,Enterprise,Partner,3,37.35,0.05,106.45,83.31,23.14,False,False,Valid
+ORD001479,2026-06-17,West,Technology,Keyboard,Small Business,Retail,1,53.37,0.15,45.36,32.4,12.96,False,False,Valid
+ORD001480,2025-02-26,East,Furniture,Bookshelf,Small Business,Online,2,105.89,0.0,211.78,174.85,36.93,False,False,Valid
+ORD001481,2026-03-04,North,Technology,Keyboard,Enterprise,Retail,6,78.6,0.05,448.02,294.55,153.47,False,False,Valid
+ORD001482,2026-02-20,North,Office Supplies,Paper Pack,Enterprise,Retail,1,15.47,0.05,14.7,11.74,2.96,False,False,Valid
+ORD001483,2026-04-10,North,Technology,Keyboard,Consumer,Retail,6,50.7,0.2,243.36,210.77,32.59,False,False,Valid
+ORD001484,2026-02-04,Central,Office Supplies,Binder,Consumer,Retail,4,25.57,0.2,81.82,74.65,7.17,False,False,Valid
+ORD001485,2026-06-06,West,Office Supplies,Storage Box,Enterprise,Online,5,29.15,0.0,145.75,110.52,35.23,False,False,Valid
+ORD001486,2025-10-11,East,Technology,Monitor,Small Business,Partner,8,379.11,0.2,2426.3,1997.92,428.38,False,False,Valid
+ORD001487,2026-05-11,Central,Technology,Headphones,Consumer,Partner,6,139.61,0.15,712.01,505.48,206.53,False,False,Valid
+ORD001488,2025-09-02,North,Office Supplies,Pens,Small Business,Retail,3,11.1,0.2,26.64,20.93,5.71,False,False,Valid
+ORD001489,2025-01-24,South,Technology,Monitor,Consumer,Partner,2,260.8,0.15,443.36,357.27,86.09,False,False,Valid
+ORD001490,2025-02-02,North,Office Supplies,Pens,Consumer,Online,2,3.74,0.0,7.48,5.93,1.55,False,False,Valid
+ORD001491,2026-05-27,West,Technology,Headphones,Enterprise,Online,3,131.05,0.05,373.49,269.08,104.41,False,False,Valid
+ORD001492,2026-01-15,Central,Furniture,Lamp,Enterprise,Online,2,22.92,0.2,36.67,34.69,1.98,False,False,Valid
+ORD001493,2025-01-18,East,Furniture,Office Chair,Consumer,Online,7,91.8,0.0,642.6,516.37,126.23,False,False,Valid
+ORD001494,2026-01-12,West,Furniture,Bookshelf,Small Business,Online,4,134.81,0.0,539.24,369.14,170.1,False,False,Valid
+ORD001495,2025-07-30,North,Technology,Laptop,Small Business,Retail,2,1199.6,0.1,2159.28,1715.23,444.05,False,False,Valid
+ORD001496,2025-07-05,North,Furniture,Bookshelf,Enterprise,Retail,2,101.71,0.1,183.08,148.69,34.39,False,False,Valid
+ORD001497,2025-08-08,North,Furniture,Desk,Enterprise,Online,6,126.78,0.0,760.68,605.75,154.93,False,False,Valid
+ORD001498,2025-02-28,South,Furniture,Desk,Consumer,Retail,5,229.11,0.05,1088.27,946.36,141.91,False,False,Valid
+ORD001499,2025-08-04,South,Furniture,Bookshelf,Enterprise,Retail,4,193.7,0.05,736.06,519.1,216.96,False,False,Valid
+ORD001500,2026-09-21,Central,Furniture,Bookshelf,Consumer,Retail,8,125.18,0.1,901.3,706.85,194.45,False,False,Valid
+ORD001501,2025-05-26,Central,Technology,Headphones,Enterprise,Partner,7,156.84,0.0,1097.88,807.36,290.52,False,False,Valid
+ORD001502,2025-09-28,East,Technology,Keyboard,Small Business,Online,5,77.0,0.2,308.0,270.6,37.4,False,False,Valid
+ORD001503,2025-04-09,Central,Office Supplies,Binder,Small Business,Retail,8,22.79,0.0,182.32,154.46,27.86,False,False,Valid
+ORD001504,2026-04-24,West,Technology,Keyboard,Enterprise,Online,7,75.83,0.2,424.65,358.25,66.4,False,False,Valid
+ORD001505,2026-01-22,East,Furniture,Office Chair,Small Business,Online,1,311.73,0.1,280.56,215.91,64.65,False,False,Valid
+ORD001506,2025-10-09,Central,Technology,Laptop,Small Business,Online,3,804.15,0.0,2412.45,1819.8,592.65,False,False,Valid
+ORD001507,2025-04-14,East,Furniture,Desk,Enterprise,Online,3,302.87,0.0,908.61,715.41,193.2,False,False,Valid
+ORD001508,2025-04-21,West,Technology,Headphones,Enterprise,Online,5,172.37,0.0,861.85,524.79,337.06,False,False,Valid
+ORD001509,2026-06-02,South,Office Supplies,Storage Box,Consumer,Partner,7,14.4,0.1,90.72,62.8,27.92,False,False,Valid
+ORD001510,2026-05-12,West,Technology,Keyboard,Enterprise,Online,7,51.05,0.1,321.61,240.53,81.08,False,False,Valid
+ORD001511,2026-06-20,East,Technology,Keyboard,Consumer,Retail,4,38.41,0.2,122.91,126.06,-3.15,False,False,Valid
+ORD001512,2026-08-24,North,Furniture,Bookshelf,Small Business,Partner,4,134.47,0.2,430.3,350.66,79.64,False,False,Valid
+ORD001513,2025-08-19,Central,Furniture,Office Chair,Consumer,Online,1,197.69,0.0,197.69,159.82,37.87,False,False,Valid
+ORD001514,2026-04-24,East,Office Supplies,Pens,Consumer,Online,5,13.05,0.0,65.25,44.64,20.61,False,False,Valid
+ORD001515,2026-09-01,Central,Office Supplies,Pens,Enterprise,Retail,7,10.45,0.1,65.83,48.56,17.27,False,False,Valid
+ORD001516,2026-02-14,South,Furniture,Bookshelf,Consumer,Online,7,129.71,0.0,907.97,693.43,214.54,False,False,Valid
+ORD001517,2025-09-09,Central,Technology,Headphones,Enterprise,Online,5,125.66,0.1,565.47,392.4,173.07,False,False,Valid
+ORD001518,2025-12-10,West,Furniture,Lamp,Consumer,Retail,5,33.23,0.0,166.15,109.7,56.45,False,False,Valid
+ORD001519,2026-04-18,Central,Office Supplies,Binder,Small Business,Retail,7,24.06,0.1,151.58,132.83,18.75,False,False,Valid
+ORD001520,2026-09-30,Central,Technology,Headphones,Small Business,Partner,5,135.18,0.1,608.31,458.25,150.06,False,False,Valid
+ORD001521,2026-06-23,West,Office Supplies,Pens,Consumer,Retail,2,6.67,0.15,11.34,9.76,1.58,False,False,Valid
+ORD001522,2026-02-13,North,Technology,Monitor,Enterprise,Partner,1,188.64,0.1,169.78,137.72,32.06,False,False,Valid
+ORD001523,2025-08-15,East,Technology,Monitor,Enterprise,Retail,1,188.35,0.1,169.51,150.8,18.71,False,False,Valid
+ORD001524,2026-09-11,North,Technology,Monitor,Consumer,Retail,1,237.2,0.2,189.76,193.7,-3.94,False,False,Valid
+ORD001525,2025-04-26,South,Office Supplies,Binder,Enterprise,Partner,3,3.93,0.05,11.2,7.3,3.9,False,False,Valid
+ORD001526,2026-01-26,West,Technology,Keyboard,Consumer,Retail,6,75.46,0.05,430.12,288.75,141.37,False,False,Valid
+ORD001527,2025-01-26,East,Technology,Monitor,Enterprise,Partner,1,199.97,0.0,199.97,166.2,33.77,False,False,Valid
+ORD001528,2026-07-06,East,Furniture,Bookshelf,Consumer,Retail,1,115.87,0.0,115.87,72.83,43.04,False,False,Valid
+ORD001529,2025-06-11,South,Technology,Laptop,Enterprise,Retail,4,1239.48,0.15,4214.23,3354.95,859.28,False,False,Valid
+ORD001530,2026-03-31,West,Office Supplies,Pens,Consumer,Retail,7,4.24,0.05,28.2,21.72,6.48,False,False,Valid
+ORD001531,2025-06-09,Central,Technology,Headphones,Consumer,Online,4,54.21,0.0,216.84,185.63,31.21,False,False,Valid
+ORD001532,2026-08-14,North,Technology,Headphones,Consumer,Retail,6,79.61,0.2,382.13,405.03,-22.9,False,False,Valid
+ORD001533,2026-05-30,Central,Technology,Keyboard,Small Business,Retail,6,18.78,0.05,107.05,89.02,18.03,False,False,Valid
+ORD001534,2025-07-19,North,Furniture,Office Chair,Small Business,Retail,2,162.11,0.2,259.38,219.95,39.43,False,False,Valid
+ORD001535,2025-11-14,West,Office Supplies,Pens,Enterprise,Retail,1,12.32,0.1,11.09,7.58,3.51,False,False,Valid
+ORD001536,2025-01-05,South,Furniture,Lamp,Consumer,Partner,5,56.88,0.0,284.4,225.89,58.51,False,False,Valid
+ORD001537,2026-08-04,West,Technology,Headphones,Small Business,Retail,8,85.74,0.15,583.03,554.07,28.96,False,False,Valid
+ORD001538,2025-06-07,East,Office Supplies,Storage Box,Small Business,Partner,6,24.09,0.2,115.63,113.92,1.71,False,False,Valid
+ORD001539,2026-03-13,East,Office Supplies,Binder,Small Business,Online,5,26.48,0.1,119.16,104.51,14.65,False,False,Valid
+ORD001540,2026-06-30,East,Technology,Headphones,Enterprise,Retail,6,26.95,0.05,153.61,112.67,40.94,False,False,Valid
+ORD001541,2026-05-24,North,Office Supplies,Binder,Enterprise,Retail,7,20.76,0.15,123.52,97.07,26.45,False,False,Valid
+ORD001542,2025-08-21,East,Technology,Headphones,Consumer,Partner,1,90.15,0.0,90.15,60.42,29.73,False,False,Valid
+ORD001543,2025-08-27,East,Furniture,Bookshelf,Consumer,Retail,5,81.44,0.05,386.84,264.55,122.29,False,False,Valid
+ORD001544,2025-08-28,Central,Technology,Headphones,Small Business,Retail,4,53.28,0.1,191.81,181.92,9.89,False,False,Valid
+ORD001545,2026-06-18,South,Office Supplies,Paper Pack,Small Business,Partner,2,15.08,0.15,25.64,21.21,4.43,False,False,Valid
+ORD001546,2025-02-03,East,Furniture,Bookshelf,Small Business,Online,4,75.69,0.1,272.48,211.1,61.38,False,False,Valid
+ORD001547,2026-03-19,East,Technology,Laptop,Consumer,Online,4,970.13,0.05,3686.49,3130.06,556.43,False,False,Valid
+ORD001548,2025-01-12,East,Furniture,Desk,Consumer,Online,8,322.12,0.1,2319.26,2066.49,252.77,False,False,Valid
+ORD001549,2025-04-01,South,Office Supplies,Storage Box,Small Business,Online,3,23.35,0.2,56.04,59.57,-3.53,False,False,Valid
+ORD001550,2025-10-10,North,Furniture,Bookshelf,Consumer,Partner,6,126.9,0.1,685.26,618.4,66.86,False,False,Valid
+ORD001551,2025-05-09,North,Office Supplies,Storage Box,Small Business,Retail,1,46.97,0.0,46.97,28.31,18.66,False,False,Valid
+ORD001552,2025-01-18,West,Office Supplies,Pens,Small Business,Retail,2,3.13,0.05,5.95,4.11,1.84,False,False,Valid
+ORD001553,2025-07-05,South,Office Supplies,Paper Pack,Consumer,Partner,1,10.1,0.1,9.09,8.64,0.45,False,False,Valid
+ORD001554,2026-03-30,South,Furniture,Bookshelf,Enterprise,Online,5,133.57,0.0,667.85,422.91,244.94,False,False,Valid
+ORD001555,2026-09-10,West,Technology,Monitor,Consumer,Partner,4,408.38,0.1,1470.17,1281.17,189.0,False,False,Valid
+ORD001556,2025-12-10,West,Office Supplies,Binder,Enterprise,Partner,3,22.46,0.15,57.27,55.63,1.64,False,False,Valid
+ORD001557,2026-08-20,West,Technology,Headphones,Small Business,Retail,8,72.37,0.15,492.12,493.24,-1.12,False,False,Valid
+ORD001558,2026-04-25,Central,Technology,Monitor,Consumer,Online,5,188.04,0.2,752.16,736.89,15.27,False,False,Valid
+ORD001559,2025-07-20,South,Office Supplies,Paper Pack,Small Business,Online,3,19.28,0.05,54.95,48.16,6.79,False,False,Valid
+ORD001560,2025-11-25,Central,Office Supplies,Pens,Small Business,Retail,5,2.33,0.2,9.32,8.56,0.76,False,False,Valid
+ORD001561,2026-03-09,West,Technology,Headphones,Consumer,Partner,8,138.06,0.0,1104.48,865.09,239.39,False,False,Valid
+ORD001562,2025-03-14,West,Technology,Laptop,Consumer,Online,7,948.1,0.1,5973.03,4499.6,1473.43,False,False,Valid
+ORD001563,2025-11-18,North,Technology,Monitor,Small Business,Retail,5,347.27,0.1,1562.71,1360.95,201.76,False,False,Valid
+ORD001564,2026-06-28,West,Technology,Keyboard,Enterprise,Retail,7,78.13,0.0,546.91,376.04,170.87,False,False,Valid
+ORD001565,2025-12-10,Central,Technology,Headphones,Small Business,Online,1,73.86,0.1,66.47,52.08,14.39,False,False,Valid
+ORD001566,2025-01-28,East,Technology,Laptop,Consumer,Retail,5,824.22,0.05,3915.05,3254.28,660.77,False,False,Valid
+ORD001567,2025-05-13,South,Office Supplies,Pens,Enterprise,Retail,2,10.0,0.1,18.0,12.72,5.28,False,False,Valid
+ORD001568,2026-01-17,South,Technology,Keyboard,Consumer,Partner,2,31.81,0.15,54.08,53.81,0.27,False,False,Valid
+ORD001569,2025-02-28,Central,Furniture,Lamp,Small Business,Retail,6,56.45,0.2,270.96,228.14,42.82,False,False,Valid
+ORD001570,2026-04-09,South,Furniture,Lamp,Enterprise,Retail,8,49.01,0.05,372.48,259.07,113.41,False,False,Valid
+ORD001571,2025-02-22,North,Technology,Monitor,Enterprise,Online,3,234.25,0.1,632.48,564.48,68.0,False,False,Valid
+ORD001572,2026-05-01,South,Office Supplies,Storage Box,Enterprise,Partner,1,31.43,0.05,29.86,21.26,8.6,False,False,Valid
+ORD001573,2025-07-11,West,Technology,Laptop,Consumer,Online,5,1008.57,0.15,4286.42,4318.81,-32.39,False,False,Valid
+ORD001574,2025-02-04,West,Furniture,Office Chair,Consumer,Retail,8,327.2,0.0,2617.6,1819.45,798.15,False,False,Valid
+ORD001575,2025-09-04,Central,Technology,Headphones,Enterprise,Retail,1,52.49,0.15,44.62,35.47,9.15,False,False,Valid
+ORD001576,2026-06-30,West,Furniture,Office Chair,Enterprise,Online,4,233.01,0.0,932.04,575.31,356.73,False,False,Valid
+ORD001577,2025-02-12,Central,Office Supplies,Pens,Consumer,Online,4,7.62,0.05,28.96,22.09,6.87,False,False,Valid
+ORD001578,2025-09-19,East,Technology,Keyboard,Small Business,Partner,5,67.68,0.2,270.72,212.4,58.32,False,False,Valid
+ORD001579,2025-01-28,North,Furniture,Office Chair,Small Business,Retail,1,285.45,0.15,242.63,222.59,20.04,False,False,Valid
+ORD001580,2026-03-05,Central,Furniture,Office Chair,Small Business,Partner,7,104.39,0.15,621.12,465.65,155.47,False,False,Valid
+ORD001581,2025-12-27,Central,Office Supplies,Pens,Small Business,Partner,7,9.31,0.15,55.39,51.62,3.77,False,False,Valid
+ORD001582,2025-05-16,East,Office Supplies,Paper Pack,Consumer,Online,4,4.21,0.2,13.47,11.13,2.34,False,False,Valid
+ORD001583,2026-02-11,Central,Office Supplies,Storage Box,Small Business,Online,3,50.01,0.15,127.53,106.74,20.79,False,False,Valid
+ORD001584,2025-11-24,West,Technology,Keyboard,Small Business,Online,6,54.51,0.2,261.65,265.06,-3.41,False,False,Valid
+ORD001585,2025-09-28,East,Furniture,Lamp,Enterprise,Partner,2,47.97,0.15,81.55,81.05,0.5,False,False,Valid
+ORD001586,2026-06-26,East,Technology,Monitor,Enterprise,Partner,8,159.47,0.15,1084.4,917.08,167.32,False,False,Valid
+ORD001587,2026-01-03,Central,Furniture,Office Chair,Consumer,Online,6,98.67,0.15,503.22,482.27,20.95,False,False,Valid
+ORD001588,2025-11-08,North,Technology,Laptop,Enterprise,Retail,1,1225.07,0.2,980.06,1044.74,-64.68,False,False,Valid
+ORD001589,2025-07-23,Central,Office Supplies,Binder,Enterprise,Retail,6,8.13,0.0,48.78,38.99,9.79,False,False,Valid
+ORD001590,2026-02-17,West,Furniture,Lamp,Enterprise,Retail,7,23.54,0.0,164.78,110.1,54.68,False,False,Valid
+ORD001591,2026-01-25,South,Office Supplies,Pens,Consumer,Retail,7,3.15,0.0,22.05,16.5,5.55,False,False,Valid
+ORD001592,2025-03-22,East,Furniture,Bookshelf,Enterprise,Retail,4,148.37,0.1,534.13,365.98,168.15,False,False,Valid
+ORD001593,2025-05-03,South,Technology,Monitor,Consumer,Online,2,259.42,0.15,441.01,403.13,37.88,False,False,Valid
+ORD001594,2025-07-05,Central,Technology,Headphones,Consumer,Online,4,163.54,0.0,654.16,447.12,207.04,False,False,Valid
+ORD001595,2026-04-07,Central,Technology,Keyboard,Consumer,Online,5,61.65,0.05,292.84,261.13,31.71,False,False,Valid
+ORD001596,2026-05-09,North,Technology,Keyboard,Enterprise,Online,5,54.62,0.15,232.13,177.89,54.24,False,False,Valid
+ORD001597,2026-01-15,South,Technology,Keyboard,Enterprise,Partner,1,70.85,0.0,70.85,53.14,17.71,False,False,Valid
+ORD001598,2025-05-24,North,Furniture,Lamp,Consumer,Online,1,20.9,0.0,20.9,14.0,6.9,False,False,Valid
+ORD001599,2026-06-26,West,Office Supplies,Paper Pack,Small Business,Retail,5,12.46,0.1,56.07,53.14,2.93,False,False,Valid
+ORD001600,2025-09-07,East,Office Supplies,Pens,Consumer,Retail,1,9.84,0.0,9.84,8.41,1.43,False,False,Valid

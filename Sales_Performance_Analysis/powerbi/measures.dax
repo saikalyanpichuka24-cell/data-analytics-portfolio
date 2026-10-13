@@ -1,0 +1,8 @@
+Total Sales = SUM(sales_data_cleaned[Sales])
+Total Profit = SUM(sales_data_cleaned[Profit])
+Units Sold = SUM(sales_data_cleaned[Quantity])
+Distinct Orders = DISTINCTCOUNT(sales_data_cleaned[Order_ID])
+Profit Margin % = DIVIDE([Total Profit],[Total Sales],0)
+Average Discount % = AVERAGE(sales_data_cleaned[Discount_Pct])
+Sales per Order = DIVIDE([Total Sales],[Distinct Orders],0)
+Orders Needing Attention = CALCULATE(COUNTROWS(sales_data_cleaned),sales_data_cleaned[Data_Quality_Flag]="Needs Attention")

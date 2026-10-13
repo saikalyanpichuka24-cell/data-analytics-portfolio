@@ -1,0 +1,8 @@
+Total Review Records = COUNTROWS(location_reviews_cleaned)
+Distinct Record IDs = DISTINCTCOUNT(location_reviews_cleaned[Record_ID])
+Records Reviewed = SUM(location_reviews_cleaned[Records_Reviewed])
+Total Errors Found = SUM(location_reviews_cleaned[Errors_Found])
+Approval Rate % = DIVIDE(CALCULATE(COUNTROWS(location_reviews_cleaned), location_reviews_cleaned[Review_Status]="Approved"), [Total Review Records], 0)
+Average Resolution Minutes = AVERAGE(location_reviews_cleaned[Resolution_Minutes])
+Records Needing Attention = CALCULATE(COUNTROWS(location_reviews_cleaned), location_reviews_cleaned[Data_Quality_Flag]="Needs Attention")
+Data Quality Pass Rate % = DIVIDE(CALCULATE(COUNTROWS(location_reviews_cleaned), location_reviews_cleaned[Data_Quality_Flag]="Valid"), [Total Review Records], 0)

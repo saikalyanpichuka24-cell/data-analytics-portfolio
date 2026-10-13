@@ -1,0 +1,651 @@
+Record_ID,Review_Date,Region,City,Road_Type,Issue_Type,Review_Status,Reviewer,Records_Reviewed,Errors_Found,Resolution_Minutes,Latitude,Longitude,Invalid_Error_Count,Invalid_Coordinates,Duplicate_Record_ID,Data_Quality_Flag,Review_Month
+LOC00001,2026-08-03,South,Bengaluru,Service Road,Missing boundary,Approved,Reviewer B,141,16.0,26,21.63727,74.84563,False,False,False,Valid,2026-08
+LOC00002,2026-01-08,North,Jaipur,Footpath,Duplicate segment,Approved,Reviewer B,79,1.0,58,34.93415,89.42194,False,False,False,Valid,2026-01
+LOC00003,2026-08-15,West,Mumbai,Residential Road,Incorrect classification,Approved,Reviewer A,114,0.0,22,28.00759,70.56545,False,False,False,Valid,2026-08
+LOC00004,2026-08-21,North,Delhi,Footpath,Missing boundary,Approved,Reviewer D,58,5.0,7,20.68843,91.78419,False,False,False,Valid,2026-08
+LOC00005,2026-04-12,North,Delhi,Footpath,Missing boundary,Approved,Reviewer E,141,17.0,52,13.42914,94.77186,False,False,False,Valid,2026-04
+LOC00006,2026-07-29,Central,Indore,Residential Road,Duplicate segment,Approved,Reviewer C,144,12.0,37,8.72456,70.70461,False,False,False,Valid,2026-07
+LOC00007,2026-01-02,West,Pune,Primary Road,Incorrect classification,Needs Review,Reviewer E,76,18.0,43,23.02515,86.05606,False,False,False,Valid,2026-01
+LOC00008,2026-03-29,South,Bengaluru,Residential Road,Geometry mismatch,Approved,Reviewer E,98,7.0,16,12.5547,94.77076,False,False,False,Valid,2026-03
+LOC00009,2026-08-08,South,Chennai,Secondary Road,Missing boundary,Approved,Reviewer E,81,13.0,23,33.9586,85.12505,False,False,False,Valid,2026-08
+LOC00010,2026-09-09,East,Guwahati,Service Road,Missing boundary,Approved,Reviewer B,61,17.0,11,19.8593,79.81645,False,False,False,Valid,2026-09
+LOC00011,2026-01-30,West,Pune,Primary Road,Geometry mismatch,Needs Review,Reviewer A,127,7.0,24,18.65218,93.24118,False,False,False,Valid,2026-01
+LOC00012,2026-03-19,South,Bengaluru,Service Road,None,Approved,Reviewer E,142,0.0,30,32.28485,78.60602,False,False,False,Valid,2026-03
+LOC00013,2026-07-08,Unknown,Bengaluru,Service Road,Duplicate segment,Needs Review,Reviewer D,98,4.0,71,23.88714,72.04001,False,False,False,Needs Attention,2026-07
+LOC00014,2026-07-15,North,Lucknow,Secondary Road,Missing boundary,Approved,Reviewer E,103,7.0,56,14.94431,79.76258,False,False,False,Valid,2026-07
+LOC00015,2026-03-10,South,Hyderabad,Primary Road,Duplicate segment,Approved,Reviewer A,134,4.0,12,31.41808,87.00437,False,False,False,Valid,2026-03
+LOC00016,2026-06-05,South,Bengaluru,Residential Road,Duplicate segment,Approved,Reviewer B,179,5.0,26,12.96646,78.95651,False,False,False,Valid,2026-06
+LOC00017,2026-01-24,Central,Nagpur,Footpath,Missing boundary,Rejected,Reviewer A,119,14.0,11,18.7443,84.44133,False,False,False,Valid,2026-01
+LOC00018,2026-05-10,South,Bengaluru,Footpath,Geometry mismatch,Needs Review,Reviewer B,119,4.0,42,27.60586,96.72403,False,False,False,Valid,2026-05
+LOC00019,2026-09-08,Central,Nagpur,Primary Road,Incorrect classification,Needs Review,Reviewer E,172,10.0,69,16.37424,88.28396,False,False,False,Valid,2026-09
+LOC00020,2026-04-08,Central,Bhopal,Footpath,Geometry mismatch,Pending,Reviewer C,36,10.0,56,10.90537,70.20713,False,False,False,Valid,2026-04
+LOC00021,2026-08-18,North,Lucknow,Footpath,None,Needs Review,Reviewer D,140,16.0,68,18.51384,79.6439,False,False,False,Valid,2026-08
+LOC00022,2026-01-13,South,Hyderabad,Service Road,None,Approved,Reviewer E,123,13.0,61,29.53566,79.56924,False,False,False,Valid,2026-01
+LOC00023,2026-09-07,East,Kolkata,Primary Road,None,Approved,Reviewer D,115,6.0,60,24.92381,89.99725,False,False,False,Valid,2026-09
+LOC00024,2026-05-15,Central,Bhopal,Service Road,Duplicate segment,Approved,Reviewer E,117,16.0,3,12.37052,73.85905,False,False,False,Valid,2026-05
+LOC00025,2026-03-16,West,Mumbai,Footpath,Missing road name,Approved,Reviewer C,178,12.0,62,34.5412,96.73431,False,False,False,Valid,2026-03
+LOC00026,2026-08-10,South,Hyderabad,Residential Road,Geometry mismatch,Needs Review,Reviewer B,86,2.0,6,,75.37293,False,True,False,Needs Attention,2026-08
+LOC00027,2026-09-17,South,Hyderabad,Secondary Road,Incorrect classification,Needs Review,Reviewer D,60,12.0,62,18.84545,81.36084,False,False,False,Valid,2026-09
+LOC00028,2026-03-31,East,Guwahati,Service Road,Incorrect classification,Approved,Reviewer B,75,1.0,47,29.8817,95.10774,False,False,False,Valid,2026-03
+LOC00029,2026-01-10,East,Kolkata,Footpath,Incorrect classification,Approved,Reviewer E,132,14.0,33,34.75183,95.30509,False,False,False,Valid,2026-01
+LOC00030,2026-02-18,South,Chennai,Secondary Road,Duplicate segment,Approved,Reviewer A,114,5.0,20,23.41115,94.4477,False,False,False,Valid,2026-02
+LOC00031,2026-01-26,West,Pune,Secondary Road,Duplicate segment,Approved,Reviewer E,82,7.0,62,31.85601,68.51056,False,False,False,Valid,2026-01
+LOC00032,2026-02-07,Central,Bhopal,Service Road,Missing boundary,Pending,Reviewer B,58,1.0,66,30.01048,0.0,False,True,False,Needs Attention,2026-02
+LOC00033,2026-09-09,Central,Indore,Residential Road,Missing road name,Approved,Reviewer C,93,9.0,4,32.03395,70.05944,False,False,False,Valid,2026-09
+LOC00034,2026-04-06,North,Lucknow,Primary Road,Missing boundary,Rejected,Reviewer C,89,11.0,10,12.3767,84.97311,False,False,False,Valid,2026-04
+LOC00035,2026-07-24,East,Kolkata,Primary Road,None,Approved,Reviewer C,157,8.0,55,13.37221,73.61251,False,False,False,Valid,2026-07
+LOC00036,2026-08-05,Central,Bhopal,Residential Road,Missing road name,Approved,Reviewer A,110,17.0,25,8.56823,78.68634,False,False,False,Valid,2026-08
+LOC00037,2026-03-24,West,Pune,Primary Road,Geometry mismatch,Needs Review,Reviewer B,177,17.0,17,34.19476,79.31423,False,False,False,Valid,2026-03
+LOC00038,2026-07-07,West,Mumbai,Residential Road,Missing road name,Needs Review,Reviewer E,26,12.0,23,12.92292,96.26027,False,False,False,Valid,2026-07
+LOC00039,2026-07-31,Central,Bhopal,Secondary Road,Incorrect classification,Needs Review,Reviewer D,112,2.0,33,18.9505,73.16971,False,False,False,Valid,2026-07
+LOC00040,2026-07-05,Central,Nagpur,Secondary Road,None,Pending,Reviewer E,26,6.0,16,13.74226,83.4426,False,False,False,Valid,2026-07
+LOC00041,2026-09-21,East,Patna,Primary Road,Missing road name,Approved,Reviewer D,177,14.0,66,28.28726,86.87259,False,False,False,Valid,2026-09
+LOC00042,2026-04-05,East,Patna,Service Road,Missing road name,Approved,Reviewer C,30,17.0,61,13.55691,90.88606,False,False,False,Valid,2026-04
+LOC00043,2026-08-14,East,Patna,Secondary Road,Missing boundary,Approved,Reviewer B,116,4.0,53,8.8842,90.54939,False,False,False,Valid,2026-08
+LOC00044,2026-06-01,Central,Nagpur,Service Road,Missing road name,Approved,Reviewer E,143,,6,18.00143,91.96461,True,False,False,Needs Attention,2026-06
+LOC00045,2026-06-20,West,Pune,Residential Road,Duplicate segment,Needs Review,Reviewer D,173,2.0,35,28.28495,78.87254,False,False,False,Valid,2026-06
+LOC00046,2026-08-23,East,Kolkata,Secondary Road,Incorrect classification,Rejected,Reviewer A,98,7.0,19,11.94632,92.10363,False,False,False,Valid,2026-08
+LOC00047,2026-02-23,East,Guwahati,Footpath,Geometry mismatch,Needs Review,Reviewer E,72,4.0,66,28.82194,82.36146,False,False,False,Valid,2026-02
+LOC00048,2026-06-21,North,Lucknow,Footpath,Geometry mismatch,Approved,Reviewer B,92,1.0,36,26.80136,79.99636,False,False,False,Valid,2026-06
+LOC00049,2026-09-19,North,Delhi,Secondary Road,Incorrect classification,Needs Review,Reviewer D,148,17.0,73,18.09526,86.4502,False,False,False,Valid,2026-09
+LOC00050,2026-03-15,East,Patna,Service Road,Duplicate segment,Needs Review,Reviewer D,151,18.0,31,19.85612,74.74168,False,False,False,Valid,2026-03
+LOC00051,2026-04-24,West,Surat,Footpath,Missing boundary,Approved,Reviewer D,59,5.0,4,29.57563,77.48122,False,False,False,Valid,2026-04
+LOC00052,2026-06-03,East,Kolkata,Primary Road,Duplicate segment,Approved,Reviewer B,22,5.0,22,13.96743,71.24093,False,False,False,Valid,2026-06
+LOC00053,2026-03-01,Central,Nagpur,Service Road,None,Rejected,Reviewer B,73,17.0,5,10.29465,75.03364,False,False,False,Valid,2026-03
+LOC00054,2026-02-19,Central,Bhopal,Secondary Road,Duplicate segment,Needs Review,Reviewer E,22,12.0,41,33.90807,91.38777,False,False,False,Valid,2026-02
+LOC00055,2026-08-02,East,Kolkata,Footpath,Duplicate segment,Approved,Reviewer D,168,15.0,26,9.02457,86.5764,False,False,False,Valid,2026-08
+LOC00056,2026-08-30,East,Guwahati,Residential Road,Incorrect classification,Rejected,Reviewer C,107,11.0,65,25.71152,79.29008,False,False,False,Valid,2026-08
+LOC00057,2026-01-28,East,Kolkata,Residential Road,Incorrect classification,Approved,Reviewer C,55,4.0,42,16.32657,71.25151,False,False,False,Valid,2026-01
+LOC00058,2026-04-29,West,Mumbai,Residential Road,Missing boundary,Pending,Reviewer D,151,3.0,63,13.88495,93.61268,False,False,False,Valid,2026-04
+LOC00059,2026-01-24,South,Chennai,Residential Road,Incorrect classification,Approved,Reviewer B,24,13.0,67,13.40672,68.9201,False,False,False,Valid,2026-01
+LOC00060,2026-03-26,South,Chennai,Primary Road,Missing boundary,Rejected,Reviewer D,83,11.0,70,30.83965,73.50429,False,False,False,Valid,2026-03
+LOC00061,2026-04-03,Central,Nagpur,Residential Road,Duplicate segment,Approved,Reviewer C,57,9.0,13,31.73306,75.13585,False,False,False,Valid,2026-04
+LOC00062,2026-06-17,East,Guwahati,Service Road,Missing road name,Needs Review,Reviewer A,180,18.0,37,32.73895,74.14402,False,False,False,Valid,2026-06
+LOC00063,2026-04-29,Central,Bhopal,Primary Road,Missing road name,Rejected,Reviewer B,147,16.0,30,34.17093,86.99601,False,False,False,Valid,2026-04
+LOC00064,2026-07-14,West,Surat,Residential Road,Missing road name,Approved,Reviewer A,55,0.0,14,12.48058,71.21829,False,False,False,Valid,2026-07
+LOC00065,2026-01-25,West,Mumbai,Residential Road,None,Approved,Reviewer E,95,14.0,40,19.16217,79.36069,False,False,False,Valid,2026-01
+LOC00066,2026-03-01,Central,Indore,Residential Road,None,Needs Review,Reviewer C,138,10.0,36,30.84715,71.9174,False,False,False,Valid,2026-03
+LOC00067,2026-06-30,East,Kolkata,Secondary Road,None,Approved,Reviewer B,20,10.0,8,12.50619,78.02981,False,False,False,Valid,2026-06
+LOC00068,2026-09-16,Unknown,Hyderabad,Primary Road,None,Approved,Reviewer E,161,7.0,19,30.86772,86.02771,False,False,False,Needs Attention,2026-09
+LOC00069,2026-04-12,South,Hyderabad,Secondary Road,Missing boundary,Approved,Reviewer C,103,6.0,53,18.36882,91.05104,False,False,False,Valid,2026-04
+LOC00070,2026-01-22,East,Kolkata,Residential Road,Geometry mismatch,Approved,Reviewer D,68,2.0,62,20.4448,88.09128,False,False,False,Valid,2026-01
+LOC00071,2026-04-06,South,Bengaluru,Footpath,Duplicate segment,Pending,Reviewer D,144,2.0,74,21.13607,94.36726,False,False,False,Valid,2026-04
+LOC00072,2026-03-03,South,Bengaluru,Primary Road,Missing boundary,Rejected,Reviewer C,153,4.0,3,25.00943,69.81716,False,False,False,Valid,2026-03
+LOC00073,2026-02-16,West,Surat,Service Road,Geometry mismatch,Pending,Reviewer D,132,15.0,36,13.03431,76.65021,False,False,False,Valid,2026-02
+LOC00074,2026-06-04,South,Hyderabad,Secondary Road,Missing road name,Pending,Reviewer C,162,8.0,48,18.59514,89.59638,False,False,True,Needs Attention,2026-06
+LOC00074,2026-09-19,East,Kolkata,Primary Road,Missing boundary,Approved,Reviewer B,137,10.0,63,15.86399,92.26885,False,False,True,Needs Attention,2026-09
+LOC00076,2026-08-31,Central,Indore,Secondary Road,Missing boundary,Needs Review,Reviewer C,177,18.0,64,22.42696,89.8231,False,False,False,Valid,2026-08
+LOC00077,2026-04-15,East,Guwahati,Secondary Road,Incorrect classification,Approved,Reviewer B,44,5.0,36,30.47952,81.9504,False,False,False,Valid,2026-04
+LOC00078,2026-05-19,Central,Bhopal,Footpath,Geometry mismatch,Approved,Reviewer E,180,3.0,40,23.20529,69.81436,False,False,False,Valid,2026-05
+LOC00079,2026-03-29,Central,Nagpur,Primary Road,Incorrect classification,Rejected,Reviewer E,80,13.0,56,34.90675,92.57475,False,False,False,Valid,2026-03
+LOC00080,2026-05-14,West,Surat,Secondary Road,Duplicate segment,Approved,Reviewer C,116,13.0,28,32.0787,87.04939,False,False,False,Valid,2026-05
+LOC00081,2026-07-23,East,Patna,Residential Road,Incorrect classification,Needs Review,Reviewer B,35,11.0,35,18.10056,77.89003,False,False,False,Valid,2026-07
+LOC00082,2026-09-20,West,Mumbai,Residential Road,Missing boundary,Approved,Reviewer B,67,3.0,45,25.69028,94.29717,False,False,False,Valid,2026-09
+LOC00083,2026-03-30,South,Chennai,Footpath,Incorrect classification,Needs Review,Reviewer E,41,1.0,9,30.89526,81.94864,False,False,False,Valid,2026-03
+LOC00084,2026-04-04,Central,Bhopal,Service Road,Duplicate segment,Rejected,Reviewer D,30,5.0,21,13.02745,84.9939,False,False,False,Valid,2026-04
+LOC00085,2026-03-26,West,Pune,Service Road,Geometry mismatch,Approved,Reviewer B,151,5.0,15,11.05961,77.76529,False,False,False,Valid,2026-03
+LOC00086,2026-07-15,North,Lucknow,Residential Road,Incorrect classification,Approved,Reviewer D,89,2.0,54,9.45306,90.21557,False,False,False,Valid,2026-07
+LOC00087,2026-05-09,Central,Bhopal,Residential Road,Incorrect classification,Approved,Reviewer C,45,14.0,53,19.11991,81.09585,False,False,False,Valid,2026-05
+LOC00088,2026-05-25,West,Surat,Primary Road,Duplicate segment,Approved,Reviewer A,167,8.0,33,20.75132,75.88052,False,False,False,Valid,2026-05
+LOC00089,2026-08-07,Central,Bhopal,Service Road,Duplicate segment,Approved,Reviewer B,100,11.0,39,28.42373,76.21082,False,False,False,Valid,2026-08
+LOC00090,2026-01-14,West,Surat,Primary Road,Geometry mismatch,Approved,Reviewer A,147,15.0,43,29.33778,96.19714,False,False,False,Valid,2026-01
+LOC00091,2026-07-19,East,Kolkata,Footpath,Geometry mismatch,Approved,Reviewer B,65,17.0,12,13.42809,86.23377,False,False,False,Valid,2026-07
+LOC00092,2026-09-20,Central,Indore,Service Road,None,Pending,Reviewer B,42,12.0,66,13.15709,91.09909,False,False,False,Valid,2026-09
+LOC00093,2026-05-22,South,Hyderabad,Primary Road,Missing road name,Needs Review,Reviewer B,33,10.0,53,24.14183,89.33166,False,False,False,Valid,2026-05
+LOC00094,2026-02-26,Central,Indore,Residential Road,None,Rejected,Reviewer C,29,7.0,65,,80.26678,False,True,False,Needs Attention,2026-02
+LOC00095,2026-07-11,North,Jaipur,Residential Road,None,Approved,Reviewer B,28,15.0,73,33.6913,79.2338,False,False,False,Valid,2026-07
+LOC00096,2026-02-11,West,Surat,Residential Road,Missing boundary,Needs Review,Reviewer C,101,9.0,26,27.42333,71.82605,False,False,False,Valid,2026-02
+LOC00097,2026-03-28,Central,Nagpur,Primary Road,Geometry mismatch,Approved,Reviewer B,119,16.0,31,29.33889,96.37263,False,False,False,Valid,2026-03
+LOC00098,2026-08-10,East,Guwahati,Primary Road,Incorrect classification,Approved,Reviewer D,141,8.0,12,21.11457,86.37197,False,False,False,Valid,2026-08
+LOC00099,2026-05-05,East,Guwahati,Residential Road,Missing road name,Approved,Reviewer D,121,18.0,24,8.03412,68.43663,False,False,False,Valid,2026-05
+LOC00100,2026-02-06,East,Kolkata,Secondary Road,Geometry mismatch,Rejected,Reviewer B,167,7.0,64,32.88914,86.41024,False,False,False,Valid,2026-02
+LOC00101,2026-04-14,South,Chennai,Service Road,Geometry mismatch,Approved,Reviewer B,53,11.0,39,19.30834,95.69621,False,False,False,Valid,2026-04
+LOC00102,2026-07-04,East,Patna,Residential Road,Missing road name,Pending,Reviewer E,66,10.0,73,8.88788,90.75353,False,False,False,Valid,2026-07
+LOC00103,2026-09-28,South,Chennai,Footpath,Incorrect classification,Rejected,Reviewer B,173,10.0,46,12.18628,68.25931,False,False,False,Valid,2026-09
+LOC00104,2026-01-25,Central,Nagpur,Primary Road,Duplicate segment,Approved,Reviewer D,136,16.0,22,30.44963,83.0523,False,False,False,Valid,2026-01
+LOC00105,2026-04-27,West,Mumbai,Footpath,Incorrect classification,Approved,Reviewer C,143,3.0,74,34.42756,80.36304,False,False,False,Valid,2026-04
+LOC00106,2026-08-07,East,Kolkata,Residential Road,None,Approved,Reviewer C,140,5.0,11,16.87406,81.39735,False,False,False,Valid,2026-08
+LOC00107,2026-08-15,East,Kolkata,Service Road,Geometry mismatch,Needs Review,Reviewer D,76,16.0,26,34.32524,91.58019,False,False,False,Valid,2026-08
+LOC00108,2026-09-09,Central,Nagpur,Primary Road,Duplicate segment,Approved,Reviewer C,58,14.0,75,31.1977,83.97582,False,False,False,Valid,2026-09
+LOC00109,2026-07-16,West,Pune,Primary Road,Missing road name,Approved,Reviewer E,177,7.0,69,9.54012,77.39405,False,False,False,Valid,2026-07
+LOC00110,2026-06-15,Unknown,Guwahati,Primary Road,Missing road name,Needs Review,Reviewer A,119,9.0,60,11.09678,90.14014,False,False,False,Needs Attention,2026-06
+LOC00111,2026-02-07,South,Hyderabad,Secondary Road,Missing road name,Needs Review,Reviewer D,38,12.0,23,24.79161,70.24075,False,False,False,Valid,2026-02
+LOC00112,2026-02-10,North,Lucknow,Service Road,Duplicate segment,Needs Review,Reviewer B,143,13.0,28,11.72022,86.86197,False,False,False,Valid,2026-02
+LOC00113,2026-01-30,North,Lucknow,Residential Road,Missing road name,Rejected,Reviewer C,179,16.0,15,16.02928,79.92471,False,False,False,Valid,2026-01
+LOC00114,2026-02-04,West,Surat,Footpath,Geometry mismatch,Rejected,Reviewer E,135,13.0,42,33.4005,69.18658,False,False,False,Valid,2026-02
+LOC00115,2026-01-27,South,Hyderabad,Residential Road,Duplicate segment,Needs Review,Reviewer D,39,9.0,71,17.44517,88.66266,False,False,False,Valid,2026-01
+LOC00116,2026-02-16,Central,Nagpur,Primary Road,Geometry mismatch,Approved,Reviewer C,128,3.0,50,8.24091,96.70072,False,False,False,Valid,2026-02
+LOC00117,2026-08-10,East,Kolkata,Secondary Road,Geometry mismatch,Approved,Reviewer D,120,3.0,21,17.46944,73.78453,False,False,False,Valid,2026-08
+LOC00118,2026-03-08,South,Chennai,Footpath,Duplicate segment,Approved,Reviewer C,134,18.0,75,12.31728,69.05329,False,False,False,Valid,2026-03
+LOC00119,2026-02-08,East,Patna,Primary Road,Geometry mismatch,Rejected,Reviewer C,38,6.0,49,14.22217,82.51481,False,False,False,Valid,2026-02
+LOC00120,2026-04-03,East,Patna,Residential Road,None,Rejected,Reviewer B,131,4.0,58,24.39761,68.67426,False,False,False,Valid,2026-04
+LOC00121,2026-05-18,East,Kolkata,Service Road,Incorrect classification,Approved,Reviewer D,60,7.0,14,33.75638,80.89916,False,False,False,Valid,2026-05
+LOC00122,2026-08-21,East,Kolkata,Footpath,Geometry mismatch,Needs Review,Reviewer C,72,6.0,15,9.7726,68.10503,False,False,False,Valid,2026-08
+LOC00123,2026-06-22,Central,Bhopal,Service Road,None,Needs Review,Reviewer C,155,16.0,68,33.03235,71.61918,False,False,False,Valid,2026-06
+LOC00124,2026-06-03,South,Bengaluru,Service Road,None,Approved,Reviewer E,180,14.0,19,19.79425,96.8002,False,False,False,Valid,2026-06
+LOC00125,2026-09-21,South,Bengaluru,Service Road,Missing road name,Approved,Reviewer B,90,6.0,20,30.02838,72.0529,False,False,False,Valid,2026-09
+LOC00126,2026-07-10,East,Guwahati,Secondary Road,Incorrect classification,Approved,Reviewer E,145,0.0,74,11.30376,75.10542,False,False,False,Valid,2026-07
+LOC00127,2026-02-12,Central,Indore,Primary Road,Geometry mismatch,Approved,Reviewer D,78,16.0,65,12.84147,78.71746,False,False,False,Valid,2026-02
+LOC00128,2026-01-23,Central,Indore,Primary Road,Incorrect classification,Pending,Reviewer B,22,5.0,40,26.92044,76.39624,False,False,False,Valid,2026-01
+LOC00129,2026-03-16,Central,Nagpur,Secondary Road,Incorrect classification,Approved,Reviewer D,153,0.0,50,8.73949,90.01257,False,False,False,Valid,2026-03
+LOC00130,2026-08-28,West,Pune,Primary Road,Incorrect classification,Approved,Reviewer A,103,10.0,7,32.65562,81.14361,False,False,False,Valid,2026-08
+LOC00131,2026-07-25,East,Kolkata,Primary Road,None,Approved,Reviewer A,52,2.0,7,21.08248,88.68837,False,False,False,Valid,2026-07
+LOC00132,2026-06-06,Central,Indore,Service Road,Duplicate segment,Rejected,Reviewer B,58,3.0,75,13.39434,95.10819,False,False,False,Valid,2026-06
+LOC00133,2026-05-08,North,Jaipur,Residential Road,Missing road name,Approved,Reviewer A,28,2.0,56,14.02467,78.89366,False,False,False,Valid,2026-05
+LOC00134,2026-05-06,North,Jaipur,Footpath,Missing boundary,Approved,Reviewer B,59,17.0,11,20.24928,86.10784,False,False,False,Valid,2026-05
+LOC00135,2026-01-06,South,Bengaluru,Secondary Road,None,Approved,Reviewer D,134,2.0,13,24.21107,69.38028,False,False,False,Valid,2026-01
+LOC00136,2026-01-01,West,Pune,Secondary Road,None,Approved,Reviewer B,45,16.0,41,16.17723,89.60708,False,False,False,Valid,2026-01
+LOC00137,2026-04-28,West,Mumbai,Primary Road,None,Needs Review,Reviewer D,92,15.0,63,20.38594,74.26492,False,False,False,Valid,2026-04
+LOC00138,2026-07-04,Central,Nagpur,Residential Road,Geometry mismatch,Needs Review,Reviewer C,164,17.0,66,31.40359,93.86557,False,False,False,Valid,2026-07
+LOC00139,2026-04-14,South,Bengaluru,Residential Road,Incorrect classification,Approved,Reviewer C,98,5.0,54,16.09483,91.02491,False,False,False,Valid,2026-04
+LOC00140,2026-02-15,North,Lucknow,Service Road,Missing road name,Needs Review,Reviewer D,137,11.0,5,12.89223,73.40129,False,False,False,Valid,2026-02
+LOC00141,2026-01-12,West,Surat,Service Road,Missing road name,Approved,Reviewer D,108,13.0,56,12.76634,69.6928,False,False,False,Valid,2026-01
+LOC00142,2026-05-12,North,Lucknow,Residential Road,None,Pending,Reviewer D,76,11.0,46,28.99306,75.02163,False,False,False,Valid,2026-05
+LOC00143,2026-04-04,North,Delhi,Primary Road,Missing road name,Approved,Reviewer C,38,3.0,35,31.98003,88.25794,False,False,False,Valid,2026-04
+LOC00144,2026-02-08,East,Kolkata,Service Road,Missing boundary,Pending,Reviewer B,162,2.0,39,19.00012,95.10355,False,False,False,Valid,2026-02
+LOC00145,2026-03-12,North,Jaipur,Primary Road,Missing boundary,Approved,Reviewer A,55,17.0,15,15.70359,89.57859,False,False,False,Valid,2026-03
+LOC00146,2026-04-26,West,Mumbai,Service Road,Missing road name,Approved,Reviewer D,178,18.0,27,16.8434,91.40949,False,False,False,Valid,2026-04
+LOC00147,2026-05-17,West,Mumbai,Primary Road,None,Approved,Reviewer A,33,13.0,40,20.49556,96.15076,False,False,False,Valid,2026-05
+LOC00148,2026-08-06,South,Bengaluru,Secondary Road,None,Approved,Reviewer E,139,5.0,48,21.61841,81.4968,False,False,False,Valid,2026-08
+LOC00149,2026-03-16,North,Lucknow,Footpath,Duplicate segment,Needs Review,Reviewer D,48,1.0,17,14.00761,70.58802,False,False,False,Valid,2026-03
+LOC00150,2026-06-28,Central,Bhopal,Primary Road,Missing boundary,Needs Review,Reviewer C,117,2.0,13,11.39655,92.86936,False,False,False,Valid,2026-06
+LOC00151,2026-03-29,East,Kolkata,Residential Road,None,Needs Review,Reviewer B,168,11.0,9,30.74851,72.43226,False,False,False,Valid,2026-03
+LOC00152,2026-07-11,North,Lucknow,Footpath,Geometry mismatch,Needs Review,Reviewer A,128,14.0,68,28.11881,75.30962,False,False,False,Valid,2026-07
+LOC00153,2026-05-17,South,Bengaluru,Primary Road,Missing boundary,Needs Review,Reviewer B,48,5.0,26,16.86167,96.72096,False,False,False,Valid,2026-05
+LOC00154,2026-08-16,South,Hyderabad,Residential Road,Missing boundary,Approved,Reviewer D,134,8.0,51,18.0841,84.31418,False,False,False,Valid,2026-08
+LOC00155,2026-03-11,Central,Indore,Footpath,None,Approved,Reviewer D,168,13.0,60,17.2208,74.41312,False,False,False,Valid,2026-03
+LOC00156,2026-04-08,Central,Bhopal,Residential Road,Missing road name,Approved,Reviewer D,143,7.0,28,14.23682,89.56122,False,False,False,Valid,2026-04
+LOC00157,2026-02-06,North,Delhi,Secondary Road,Duplicate segment,Approved,Reviewer B,127,12.0,34,31.64361,79.49988,False,False,False,Valid,2026-02
+LOC00158,2026-02-22,South,Bengaluru,Residential Road,Missing boundary,Pending,Reviewer C,90,18.0,28,15.82088,93.19982,False,False,False,Valid,2026-02
+LOC00159,2026-08-16,South,Hyderabad,Primary Road,Incorrect classification,Pending,Reviewer E,103,5.0,59,28.5428,79.86508,False,False,False,Valid,2026-08
+LOC00160,2026-01-16,North,Lucknow,Footpath,Missing road name,Needs Review,Reviewer C,60,15.0,61,33.96994,96.87045,False,False,False,Valid,2026-01
+LOC00161,2026-03-04,East,Guwahati,Residential Road,Missing road name,Approved,Reviewer E,167,17.0,4,14.44061,89.91247,False,False,False,Valid,2026-03
+LOC00162,2026-05-31,Central,Indore,Primary Road,Duplicate segment,Approved,Reviewer E,62,1.0,13,32.98775,91.41542,False,False,False,Valid,2026-05
+LOC00163,2026-01-14,West,Pune,Secondary Road,Geometry mismatch,Approved,Reviewer A,101,16.0,73,12.3582,73.15306,False,False,False,Valid,2026-01
+LOC00164,2026-08-23,North,Lucknow,Footpath,Duplicate segment,Rejected,Reviewer D,170,16.0,45,9.24575,72.8917,False,False,False,Valid,2026-08
+LOC00165,2026-05-05,East,Patna,Secondary Road,Incorrect classification,Approved,Reviewer C,106,5.0,51,34.87843,88.34995,False,False,False,Valid,2026-05
+LOC00166,2026-06-09,South,Hyderabad,Footpath,Missing boundary,Approved,Reviewer E,142,16.0,24,12.0573,77.21496,False,False,False,Valid,2026-06
+LOC00167,2026-06-09,South,Bengaluru,Primary Road,Duplicate segment,Approved,Reviewer A,105,9.0,55,21.11903,78.92846,False,False,False,Valid,2026-06
+LOC00168,2026-05-20,South,Bengaluru,Residential Road,Duplicate segment,Approved,Reviewer B,162,17.0,21,13.47759,73.36973,False,False,False,Valid,2026-05
+LOC00169,2026-08-28,North,Lucknow,Residential Road,Incorrect classification,Approved,Reviewer A,136,16.0,27,22.23366,74.37171,False,False,False,Valid,2026-08
+LOC00170,2026-04-22,Central,Bhopal,Primary Road,Incorrect classification,Approved,Reviewer C,123,13.0,19,14.63277,88.65094,False,False,False,Valid,2026-04
+LOC00171,2026-09-11,North,Delhi,Footpath,Missing road name,Needs Review,Reviewer E,128,5.0,50,22.01504,78.45085,False,False,False,Valid,2026-09
+LOC00172,2026-05-08,Central,Nagpur,Secondary Road,Missing boundary,Pending,Reviewer C,25,9.0,53,25.85835,96.52106,False,False,False,Valid,2026-05
+LOC00173,2026-06-14,North,Lucknow,Secondary Road,Duplicate segment,Needs Review,Reviewer B,52,14.0,37,17.88228,77.78752,False,False,False,Valid,2026-06
+LOC00174,2026-03-11,South,Chennai,Primary Road,Duplicate segment,Pending,Reviewer A,121,3.0,54,26.36752,73.8036,False,False,False,Valid,2026-03
+LOC00175,2026-08-21,Central,Nagpur,Primary Road,Missing boundary,Approved,Reviewer E,170,16.0,12,25.50755,70.50491,False,False,False,Valid,2026-08
+LOC00176,2026-06-30,East,Guwahati,Footpath,Geometry mismatch,Approved,Reviewer A,31,3.0,37,15.39619,70.06166,False,False,False,Valid,2026-06
+LOC00177,2026-04-15,East,Kolkata,Footpath,Incorrect classification,Rejected,Reviewer E,31,17.0,33,14.16385,92.612,False,False,False,Valid,2026-04
+LOC00178,2026-05-20,East,Kolkata,Secondary Road,Duplicate segment,Approved,Reviewer B,52,8.0,49,,71.49871,False,True,False,Needs Attention,2026-05
+LOC00179,2026-07-06,Central,Indore,Residential Road,Missing boundary,Needs Review,Reviewer B,155,3.0,39,31.30302,94.60079,False,False,False,Valid,2026-07
+LOC00180,2026-01-27,West,Pune,Secondary Road,None,Approved,Reviewer D,131,18.0,14,18.45043,84.33884,False,False,False,Valid,2026-01
+LOC00181,2026-08-16,East,Guwahati,Service Road,Geometry mismatch,Approved,Reviewer A,156,3.0,30,34.46978,95.52869,False,False,False,Valid,2026-08
+LOC00182,2026-01-23,West,Mumbai,Secondary Road,Missing boundary,Needs Review,Reviewer B,89,,13,17.09249,75.16144,True,False,False,Needs Attention,2026-01
+LOC00183,2026-05-21,East,Guwahati,Primary Road,Geometry mismatch,Needs Review,Reviewer D,175,5.0,60,18.78231,84.98583,False,False,False,Valid,2026-05
+LOC00184,2026-03-16,Central,Indore,Service Road,None,Approved,Reviewer D,69,1.0,56,27.44319,81.42194,False,False,False,Valid,2026-03
+LOC00185,2026-07-15,Central,Bhopal,Secondary Road,Missing boundary,Rejected,Reviewer A,41,8.0,55,33.11261,89.54659,False,False,False,Valid,2026-07
+LOC00186,2026-03-06,West,Pune,Secondary Road,None,Approved,Reviewer A,143,8.0,32,14.87319,91.66715,False,False,False,Valid,2026-03
+LOC00187,2026-03-02,North,Delhi,Service Road,Incorrect classification,Approved,Reviewer A,178,13.0,39,32.42882,79.16726,False,False,False,Valid,2026-03
+LOC00188,2026-07-11,East,Kolkata,Footpath,Incorrect classification,Needs Review,Reviewer D,174,4.0,69,18.63131,82.37489,False,False,False,Valid,2026-07
+LOC00189,2026-03-29,North,Lucknow,Footpath,Incorrect classification,Approved,Reviewer C,164,8.0,27,34.08293,89.53721,False,False,False,Valid,2026-03
+LOC00190,2026-03-29,Central,Bhopal,Footpath,Incorrect classification,Pending,Reviewer B,118,2.0,71,20.52838,68.92375,False,False,False,Valid,2026-03
+LOC00191,2026-09-19,North,Lucknow,Secondary Road,Geometry mismatch,Needs Review,Reviewer B,165,15.0,12,30.80343,75.14507,False,False,False,Valid,2026-09
+LOC00192,2026-06-13,North,Lucknow,Service Road,Incorrect classification,Approved,Reviewer A,161,12.0,19,20.48058,78.58625,False,False,False,Valid,2026-06
+LOC00193,2026-07-04,Central,Bhopal,Primary Road,Duplicate segment,Approved,Reviewer C,59,7.0,15,15.81761,86.64294,False,False,False,Valid,2026-07
+LOC00194,2026-03-12,West,Pune,Primary Road,Geometry mismatch,Rejected,Reviewer C,119,14.0,56,13.06717,88.63334,False,False,False,Valid,2026-03
+LOC00195,2026-03-19,South,Hyderabad,Service Road,Missing road name,Approved,Reviewer D,65,5.0,52,15.30304,73.87735,False,False,False,Valid,2026-03
+LOC00196,2026-05-06,North,Jaipur,Service Road,Incorrect classification,Approved,Reviewer E,25,11.0,4,13.85328,87.07884,False,False,False,Valid,2026-05
+LOC00197,2026-06-13,Central,Nagpur,Primary Road,Missing boundary,Rejected,Reviewer A,138,16.0,33,21.02167,87.07224,False,False,False,Valid,2026-06
+LOC00198,2026-08-22,West,Mumbai,Primary Road,Duplicate segment,Approved,Reviewer C,24,9.0,46,34.59459,79.75172,False,False,False,Valid,2026-08
+LOC00199,2026-05-29,Central,Bhopal,Service Road,None,Approved,Reviewer D,111,7.0,14,15.21746,90.58154,False,False,False,Valid,2026-05
+LOC00200,2026-09-07,West,Pune,Footpath,Geometry mismatch,Pending,Reviewer A,153,11.0,16,11.59481,88.88987,False,False,False,Valid,2026-09
+LOC00201,2026-06-13,West,Surat,Residential Road,Duplicate segment,Pending,Reviewer D,56,15.0,5,12.45128,87.44774,False,False,False,Valid,2026-06
+LOC00202,2026-04-28,Central,Nagpur,Service Road,Geometry mismatch,Pending,Reviewer E,130,18.0,67,15.58327,76.1926,False,False,False,Valid,2026-04
+LOC00203,2026-02-15,West,Surat,Primary Road,None,Approved,Reviewer E,158,3.0,50,13.76035,77.81284,False,False,False,Valid,2026-02
+LOC00204,2026-01-30,Unknown,Pune,Footpath,Duplicate segment,Needs Review,Reviewer C,30,13.0,7,9.77955,83.42084,False,False,False,Needs Attention,2026-01
+LOC00205,2026-02-21,South,Bengaluru,Footpath,Missing road name,Needs Review,Reviewer A,154,11.0,60,27.21876,93.78813,False,False,False,Valid,2026-02
+LOC00206,2026-03-20,East,Kolkata,Secondary Road,Incorrect classification,Approved,Reviewer C,89,3.0,28,8.84099,71.60899,False,False,False,Valid,2026-03
+LOC00207,2026-05-07,South,Bengaluru,Secondary Road,Missing road name,Rejected,Reviewer B,54,2.0,75,33.86921,70.39305,False,False,False,Valid,2026-05
+LOC00208,2026-05-07,West,Mumbai,Residential Road,Geometry mismatch,Approved,Reviewer C,130,16.0,38,14.94308,82.505,False,False,False,Valid,2026-05
+LOC00209,2026-06-28,North,Jaipur,Secondary Road,Duplicate segment,Pending,Reviewer E,44,4.0,41,28.35602,81.61255,False,False,False,Valid,2026-06
+LOC00210,2026-07-18,North,Delhi,Footpath,None,Needs Review,Reviewer D,129,5.0,40,11.90347,71.15294,False,False,False,Valid,2026-07
+LOC00211,2026-09-25,North,Jaipur,Primary Road,Geometry mismatch,Approved,Reviewer B,165,16.0,6,25.25373,79.57832,False,False,False,Valid,2026-09
+LOC00212,2026-03-29,Central,Bhopal,Service Road,Missing boundary,Needs Review,Reviewer C,107,13.0,3,16.70479,96.12524,False,False,False,Valid,2026-03
+LOC00213,2026-03-01,East,Guwahati,Footpath,Geometry mismatch,Needs Review,Reviewer B,115,6.0,35,30.58051,70.47338,False,False,False,Valid,2026-03
+LOC00214,2026-04-02,West,Pune,Service Road,Missing road name,Approved,Reviewer B,118,15.0,25,30.33652,79.06593,False,False,False,Valid,2026-04
+LOC00215,2026-05-30,Central,Indore,Primary Road,Geometry mismatch,Approved,Reviewer C,172,4.0,10,28.95378,93.96006,False,False,False,Valid,2026-05
+LOC00216,2026-03-11,West,Surat,Footpath,None,Approved,Reviewer C,74,18.0,70,22.38444,85.5777,False,False,False,Valid,2026-03
+LOC00217,2026-01-30,Central,Nagpur,Secondary Road,Missing boundary,Approved,Reviewer B,145,0.0,9,28.80677,86.42094,False,False,False,Valid,2026-01
+LOC00218,2026-07-07,North,Lucknow,Footpath,None,Approved,Reviewer E,138,15.0,7,19.18887,68.14481,False,False,False,Valid,2026-07
+LOC00219,2026-06-15,North,Jaipur,Secondary Road,Missing road name,Approved,Reviewer A,163,11.0,23,21.4797,83.24406,False,False,False,Valid,2026-06
+LOC00220,2026-06-04,Central,Nagpur,Footpath,Duplicate segment,Rejected,Reviewer C,162,0.0,48,26.42285,96.08124,False,False,False,Valid,2026-06
+LOC00221,2026-08-28,Central,Nagpur,Secondary Road,Incorrect classification,Approved,Reviewer B,166,17.0,45,26.47219,95.74482,False,False,False,Valid,2026-08
+LOC00222,2026-04-13,East,Patna,Service Road,Geometry mismatch,Approved,Reviewer B,24,7.0,26,25.94225,68.65031,False,False,False,Valid,2026-04
+LOC00223,2026-09-05,South,Hyderabad,Service Road,Missing boundary,Approved,Reviewer E,139,1.0,13,33.89107,0.0,False,True,False,Needs Attention,2026-09
+LOC00224,2026-01-13,North,Delhi,Primary Road,Incorrect classification,Needs Review,Reviewer C,116,2.0,61,31.62251,95.02826,False,False,False,Valid,2026-01
+LOC00225,2026-02-08,North,Lucknow,Service Road,Incorrect classification,Approved,Reviewer E,125,15.0,61,18.52694,82.86689,False,False,False,Valid,2026-02
+LOC00226,2026-08-20,Central,Bhopal,Service Road,Incorrect classification,Approved,Reviewer D,142,8.0,12,24.98287,76.27679,False,False,False,Valid,2026-08
+LOC00227,2026-06-06,West,Mumbai,Primary Road,Incorrect classification,Pending,Reviewer C,169,5.0,37,31.38523,85.09874,False,False,False,Valid,2026-06
+LOC00228,2026-05-31,Central,Nagpur,Service Road,Geometry mismatch,Approved,Reviewer B,164,12.0,28,28.20955,72.06031,False,False,False,Valid,2026-05
+LOC00229,2026-03-27,North,Lucknow,Service Road,Incorrect classification,Rejected,Reviewer A,78,15.0,73,24.13073,74.42512,False,False,False,Valid,2026-03
+LOC00230,2026-02-25,South,Hyderabad,Primary Road,None,Approved,Reviewer D,64,1.0,39,29.31569,88.61591,False,False,False,Valid,2026-02
+LOC00231,2026-03-03,East,Kolkata,Footpath,None,Approved,Reviewer A,147,10.0,29,11.32323,81.27623,False,False,False,Valid,2026-03
+LOC00232,2026-05-09,South,Bengaluru,Service Road,None,Approved,Reviewer D,158,18.0,34,12.8482,76.00661,False,False,False,Valid,2026-05
+LOC00233,2026-08-25,West,Surat,Residential Road,Missing road name,Approved,Reviewer C,146,9.0,44,14.78689,82.60185,False,False,False,Valid,2026-08
+LOC00234,2026-04-30,South,Chennai,Footpath,Geometry mismatch,Approved,Reviewer C,63,5.0,59,21.75348,87.26928,False,False,False,Valid,2026-04
+LOC00235,2026-07-04,West,Mumbai,Primary Road,Duplicate segment,Pending,Reviewer E,125,12.0,17,24.73132,77.5533,False,False,False,Valid,2026-07
+LOC00236,2026-02-21,South,Chennai,Primary Road,None,Approved,Reviewer C,102,12.0,51,17.63677,90.41759,False,False,False,Valid,2026-02
+LOC00237,2026-01-22,North,Lucknow,Primary Road,None,Approved,Reviewer B,35,1.0,40,21.74009,78.11174,False,False,False,Valid,2026-01
+LOC00238,2026-09-03,East,Kolkata,Secondary Road,Duplicate segment,Needs Review,Reviewer B,25,6.0,8,18.72876,90.61707,False,False,False,Valid,2026-09
+LOC00239,2026-06-23,West,Mumbai,Secondary Road,Incorrect classification,Approved,Reviewer E,147,1.0,71,8.29872,81.33875,False,False,False,Valid,2026-06
+LOC00240,2026-08-27,South,Chennai,Service Road,Missing boundary,Approved,Reviewer D,76,4.0,34,9.63894,73.5151,False,False,False,Valid,2026-08
+LOC00241,2026-04-08,West,Pune,Secondary Road,Geometry mismatch,Approved,Reviewer D,163,6.0,68,11.33853,88.76693,False,False,False,Valid,2026-04
+LOC00242,2026-08-06,North,Jaipur,Residential Road,Missing boundary,Approved,Reviewer B,60,18.0,60,17.5542,87.35054,False,False,False,Valid,2026-08
+LOC00243,2026-08-10,Central,Indore,Service Road,Geometry mismatch,Approved,Reviewer C,47,7.0,61,18.03384,92.39781,False,False,False,Valid,2026-08
+LOC00244,2026-05-31,Central,Bhopal,Residential Road,None,Rejected,Reviewer A,22,9.0,47,25.44776,87.60318,False,False,False,Valid,2026-05
+LOC00245,2026-07-25,South,Chennai,Residential Road,Missing road name,Approved,Reviewer E,142,10.0,46,14.19411,85.39765,False,False,False,Valid,2026-07
+LOC00246,2026-02-08,Central,Nagpur,Service Road,None,Approved,Reviewer E,88,16.0,71,23.9145,70.04217,False,False,False,Valid,2026-02
+LOC00247,2026-08-07,West,Surat,Secondary Road,None,Approved,Reviewer B,69,15.0,5,33.06824,85.37804,False,False,False,Valid,2026-08
+LOC00248,2026-03-25,West,Surat,Primary Road,Missing road name,Approved,Reviewer C,178,2.0,58,23.39373,81.60441,False,False,False,Valid,2026-03
+LOC00249,2026-05-29,North,Delhi,Service Road,Geometry mismatch,Approved,Reviewer A,143,10.0,28,15.80926,82.62859,False,False,False,Valid,2026-05
+LOC00250,2026-08-08,South,Chennai,Service Road,Geometry mismatch,Approved,Reviewer E,173,13.0,6,23.36463,77.58299,False,False,False,Valid,2026-08
+LOC00251,2026-03-07,West,Mumbai,Primary Road,Duplicate segment,Approved,Reviewer C,81,6.0,22,8.9548,70.2684,False,False,False,Valid,2026-03
+LOC00252,2026-05-10,East,Guwahati,Secondary Road,None,Needs Review,Reviewer D,134,5.0,74,26.75258,83.94504,False,False,False,Valid,2026-05
+LOC00253,2026-02-10,North,Jaipur,Primary Road,Missing road name,Needs Review,Reviewer C,20,13.0,6,29.83891,72.58117,False,False,False,Valid,2026-02
+LOC00254,2026-04-20,East,Patna,Service Road,None,Needs Review,Reviewer A,88,7.0,64,20.38582,96.88935,False,False,False,Valid,2026-04
+LOC00255,2026-05-09,West,Surat,Primary Road,Missing boundary,Approved,Reviewer C,141,2.0,6,26.57039,92.51507,False,False,False,Valid,2026-05
+LOC00256,2026-05-25,North,Lucknow,Service Road,Geometry mismatch,Approved,Reviewer D,20,16.0,9,11.56002,69.48574,False,False,False,Valid,2026-05
+LOC00257,2026-03-20,North,Jaipur,Primary Road,Incorrect classification,Approved,Reviewer C,75,18.0,68,25.38193,76.57632,False,False,False,Valid,2026-03
+LOC00258,2026-03-12,Central,Bhopal,Secondary Road,Geometry mismatch,Approved,Reviewer B,30,5.0,74,23.71081,68.41608,False,False,False,Valid,2026-03
+LOC00259,2026-06-11,North,Jaipur,Residential Road,Missing road name,Approved,Reviewer A,22,2.0,10,10.83447,92.99563,False,False,False,Valid,2026-06
+LOC00260,2026-09-04,West,Pune,Footpath,Duplicate segment,Approved,Reviewer C,134,4.0,74,15.51098,92.37595,False,False,False,Valid,2026-09
+LOC00261,2026-04-30,West,Mumbai,Secondary Road,Missing boundary,Needs Review,Reviewer B,72,6.0,41,20.56011,96.43127,False,False,False,Valid,2026-04
+LOC00262,2026-03-12,Central,Bhopal,Service Road,None,Approved,Reviewer D,89,11.0,50,17.844,92.04887,False,False,False,Valid,2026-03
+LOC00263,2026-07-14,West,Surat,Footpath,Incorrect classification,Approved,Reviewer D,48,18.0,50,12.81586,74.861,False,False,False,Valid,2026-07
+LOC00264,2026-01-07,South,Hyderabad,Secondary Road,Incorrect classification,Approved,Reviewer C,155,16.0,42,15.29055,80.55584,False,False,False,Valid,2026-01
+LOC00265,2026-05-12,Central,Indore,Footpath,None,Rejected,Reviewer B,71,11.0,20,11.07246,77.25568,False,False,False,Valid,2026-05
+LOC00266,2026-04-09,South,Chennai,Footpath,Incorrect classification,Needs Review,Reviewer D,64,13.0,19,12.91304,72.90959,False,False,False,Valid,2026-04
+LOC00267,2026-05-26,North,Jaipur,Service Road,None,Pending,Reviewer D,118,2.0,67,31.96061,96.78673,False,False,False,Valid,2026-05
+LOC00268,2026-08-31,South,Chennai,Residential Road,None,Rejected,Reviewer B,155,2.0,62,26.91015,75.2853,False,False,False,Valid,2026-08
+LOC00269,2026-01-07,East,Patna,Footpath,Missing boundary,Approved,Reviewer E,25,16.0,64,13.68536,70.89569,False,False,False,Valid,2026-01
+LOC00270,2026-01-02,East,Guwahati,Footpath,Missing road name,Approved,Reviewer A,20,12.0,21,9.36241,93.08089,False,False,False,Valid,2026-01
+LOC00271,2026-04-02,West,Surat,Primary Road,None,Approved,Reviewer B,69,3.0,50,18.35455,71.57079,False,False,False,Valid,2026-04
+LOC00272,2026-03-18,East,Guwahati,Residential Road,None,Approved,Reviewer A,47,9.0,11,27.61877,83.63453,False,False,False,Valid,2026-03
+LOC00273,2026-06-21,East,Patna,Primary Road,Duplicate segment,Approved,Reviewer A,156,2.0,70,17.86232,91.11134,False,False,False,Valid,2026-06
+LOC00274,2026-06-23,West,Surat,Residential Road,Duplicate segment,Approved,Reviewer D,51,6.0,46,27.40587,95.92433,False,False,False,Valid,2026-06
+LOC00275,2026-05-07,West,Surat,Service Road,Geometry mismatch,Needs Review,Reviewer E,123,4.0,20,22.678,75.87782,False,False,False,Valid,2026-05
+LOC00276,2026-04-27,North,Lucknow,Residential Road,None,Needs Review,Reviewer A,160,15.0,10,30.87381,72.10217,False,False,False,Valid,2026-04
+LOC00277,2026-06-23,South,Hyderabad,Secondary Road,Missing boundary,Needs Review,Reviewer A,160,8.0,74,27.00018,95.2664,False,False,False,Valid,2026-06
+LOC00278,2026-02-02,Central,Bhopal,Footpath,Geometry mismatch,Approved,Reviewer E,67,3.0,50,31.65574,75.21019,False,False,False,Valid,2026-02
+LOC00279,2026-07-05,Central,Nagpur,Footpath,Geometry mismatch,Approved,Reviewer A,55,11.0,45,19.32799,88.26346,False,False,False,Valid,2026-07
+LOC00280,2026-01-06,North,Delhi,Secondary Road,Missing boundary,Pending,Reviewer D,87,17.0,54,22.88786,75.40178,False,False,False,Valid,2026-01
+LOC00281,2026-01-29,West,Pune,Secondary Road,Geometry mismatch,Pending,Reviewer E,125,5.0,73,15.77124,94.91007,False,False,False,Valid,2026-01
+LOC00282,2026-05-16,North,Jaipur,Residential Road,Duplicate segment,Pending,Reviewer D,131,18.0,3,27.67025,85.33017,False,False,False,Valid,2026-05
+LOC00283,2026-04-07,East,Guwahati,Secondary Road,Missing boundary,Approved,Reviewer E,114,14.0,40,31.95565,83.3202,False,False,False,Valid,2026-04
+LOC00284,2026-01-13,North,Jaipur,Secondary Road,Missing boundary,Pending,Reviewer A,130,11.0,51,8.59586,86.35075,False,False,False,Valid,2026-01
+LOC00285,2026-07-01,Central,Nagpur,Service Road,Missing boundary,Approved,Reviewer A,125,6.0,17,10.99033,83.62699,False,False,False,Valid,2026-07
+LOC00286,2026-01-26,East,Kolkata,Secondary Road,Incorrect classification,Rejected,Reviewer A,31,3.0,52,30.29204,83.68983,False,False,False,Valid,2026-01
+LOC00287,2026-08-18,North,Delhi,Secondary Road,None,Rejected,Reviewer E,61,3.0,17,32.42383,93.80536,False,False,False,Valid,2026-08
+LOC00288,2026-09-01,Unknown,Guwahati,Residential Road,None,Pending,Reviewer C,29,1.0,68,27.54308,68.09257,False,False,False,Needs Attention,2026-09
+LOC00289,2026-04-06,South,Hyderabad,Residential Road,Duplicate segment,Approved,Reviewer E,40,1.0,43,18.97558,74.75993,False,False,False,Valid,2026-04
+LOC00290,2026-08-12,Central,Bhopal,Secondary Road,Duplicate segment,Approved,Reviewer D,76,15.0,48,19.34632,85.66921,False,False,False,Valid,2026-08
+LOC00291,2026-02-06,South,Hyderabad,Primary Road,Incorrect classification,Pending,Reviewer A,32,11.0,42,13.42653,87.41496,False,False,False,Valid,2026-02
+LOC00292,2026-02-03,South,Chennai,Residential Road,None,Approved,Reviewer A,40,1.0,18,24.10998,91.05033,False,False,False,Valid,2026-02
+LOC00293,2026-03-12,West,Pune,Primary Road,Missing boundary,Approved,Reviewer E,51,7.0,33,9.36296,95.82001,False,False,False,Valid,2026-03
+LOC00294,2026-04-16,East,Guwahati,Footpath,None,Needs Review,Reviewer E,77,7.0,14,29.309,85.97425,False,False,False,Valid,2026-04
+LOC00295,2026-09-03,Central,Indore,Residential Road,Missing boundary,Rejected,Reviewer C,133,8.0,44,29.61767,82.89869,False,False,False,Valid,2026-09
+LOC00296,2026-05-23,East,Guwahati,Residential Road,Duplicate segment,Approved,Reviewer E,30,8.0,29,19.06391,84.50925,False,False,False,Valid,2026-05
+LOC00297,2026-02-06,East,Kolkata,Service Road,Duplicate segment,Approved,Reviewer A,122,17.0,34,19.48509,90.10734,False,False,False,Valid,2026-02
+LOC00298,2026-01-14,East,Guwahati,Residential Road,Geometry mismatch,Approved,Reviewer C,69,9.0,49,31.93424,81.56939,False,False,False,Valid,2026-01
+LOC00299,2026-05-18,Central,Bhopal,Secondary Road,Missing road name,Pending,Reviewer B,143,4.0,9,13.54474,89.14772,False,False,False,Valid,2026-05
+LOC00300,2026-06-09,North,Delhi,Footpath,None,Rejected,Reviewer A,132,4.0,57,29.35655,94.48225,False,False,False,Valid,2026-06
+LOC00301,2026-08-09,West,Mumbai,Service Road,Incorrect classification,Approved,Reviewer B,149,15.0,5,15.11732,91.53335,False,False,False,Valid,2026-08
+LOC00302,2026-06-22,East,Patna,Secondary Road,Geometry mismatch,Approved,Reviewer C,140,10.0,42,14.61838,91.8465,False,False,False,Valid,2026-06
+LOC00303,2026-06-14,East,Kolkata,Footpath,Geometry mismatch,Approved,Reviewer C,69,6.0,66,18.29822,77.2592,False,False,False,Valid,2026-06
+LOC00304,2026-09-04,South,Bengaluru,Service Road,Geometry mismatch,Rejected,Reviewer D,49,9.0,52,11.43397,82.41101,False,False,False,Valid,2026-09
+LOC00305,2026-06-15,Central,Nagpur,Primary Road,Duplicate segment,Approved,Reviewer E,58,4.0,34,20.38881,90.9619,False,False,False,Valid,2026-06
+LOC00306,2026-08-17,West,Pune,Secondary Road,Missing boundary,Pending,Reviewer A,102,3.0,40,18.5511,86.86676,False,False,False,Valid,2026-08
+LOC00307,2026-03-28,South,Bengaluru,Footpath,None,Needs Review,Reviewer C,121,1.0,9,22.29457,70.32142,False,False,False,Valid,2026-03
+LOC00308,2026-05-01,North,Delhi,Primary Road,None,Pending,Reviewer A,114,6.0,11,34.09021,71.89779,False,False,False,Valid,2026-05
+LOC00309,2026-07-23,West,Mumbai,Service Road,Incorrect classification,Pending,Reviewer D,170,17.0,20,24.71953,79.25908,False,False,False,Valid,2026-07
+LOC00310,2026-08-16,South,Chennai,Primary Road,Missing road name,Approved,Reviewer B,105,13.0,56,32.11762,90.99598,False,False,False,Valid,2026-08
+LOC00311,2026-05-13,East,Guwahati,Residential Road,Missing road name,Approved,Reviewer E,115,3.0,72,14.46053,79.85376,False,False,False,Valid,2026-05
+LOC00312,2026-03-22,Central,Bhopal,Primary Road,Duplicate segment,Approved,Reviewer B,115,15.0,47,15.27478,86.9407,False,False,False,Valid,2026-03
+LOC00313,2026-09-03,West,Surat,Footpath,Incorrect classification,Approved,Reviewer B,164,1.0,72,15.25039,73.78832,False,False,False,Valid,2026-09
+LOC00314,2026-02-15,Central,Bhopal,Service Road,Missing boundary,Pending,Reviewer D,125,12.0,25,10.73126,79.80011,False,False,False,Valid,2026-02
+LOC00315,2026-06-01,East,Guwahati,Service Road,Duplicate segment,Approved,Reviewer E,169,16.0,53,19.55726,79.66337,False,False,False,Valid,2026-06
+LOC00316,2026-07-29,West,Pune,Footpath,None,Pending,Reviewer E,157,11.0,22,29.21734,91.90816,False,False,False,Valid,2026-07
+LOC00317,2026-05-21,East,Patna,Footpath,Incorrect classification,Needs Review,Reviewer A,133,9.0,36,33.91147,83.8329,False,False,False,Valid,2026-05
+LOC00318,2026-04-09,North,Delhi,Footpath,Incorrect classification,Approved,Reviewer D,102,7.0,33,14.98117,68.36998,False,False,False,Valid,2026-04
+LOC00319,2026-06-18,North,Delhi,Primary Road,Incorrect classification,Needs Review,Reviewer C,47,1.0,60,31.91019,85.44316,False,False,False,Valid,2026-06
+LOC00320,2026-09-14,West,Pune,Primary Road,Geometry mismatch,Approved,Reviewer E,34,16.0,40,25.81774,82.91945,False,False,False,Valid,2026-09
+LOC00321,2026-09-04,West,Mumbai,Residential Road,Missing boundary,Pending,Reviewer E,159,7.0,38,13.64244,69.5011,False,False,False,Valid,2026-09
+LOC00322,2026-03-12,West,Mumbai,Footpath,Missing road name,Approved,Reviewer A,111,8.0,10,13.20101,88.3161,False,False,False,Valid,2026-03
+LOC00323,2026-01-28,Central,Bhopal,Residential Road,Incorrect classification,Approved,Reviewer B,135,11.0,27,27.98817,71.27812,False,False,False,Valid,2026-01
+LOC00324,2026-08-25,North,Lucknow,Secondary Road,Missing road name,Needs Review,Reviewer E,123,15.0,13,10.14405,77.87576,False,False,False,Valid,2026-08
+LOC00325,2026-07-15,North,Jaipur,Primary Road,Missing boundary,Approved,Reviewer B,111,16.0,35,9.6127,89.41752,False,False,False,Valid,2026-07
+LOC00326,2026-06-04,East,Kolkata,Primary Road,Geometry mismatch,Approved,Reviewer D,66,16.0,71,20.75002,75.99327,False,False,False,Valid,2026-06
+LOC00327,2026-09-10,North,Jaipur,Residential Road,None,Needs Review,Reviewer C,78,14.0,68,33.4383,71.48223,False,False,False,Valid,2026-09
+LOC00328,2026-05-22,East,Patna,Service Road,Geometry mismatch,Pending,Reviewer E,86,1.0,50,10.23416,94.37854,False,False,False,Valid,2026-05
+LOC00329,2026-05-24,Central,Indore,Service Road,Duplicate segment,Pending,Reviewer D,127,1.0,23,18.7729,95.94199,False,False,False,Valid,2026-05
+LOC00330,2026-02-27,North,Jaipur,Residential Road,None,Approved,Reviewer E,143,11.0,64,12.00311,80.73291,False,False,False,Valid,2026-02
+LOC00331,2026-09-17,South,Hyderabad,Residential Road,Incorrect classification,Approved,Reviewer E,111,8.0,53,31.64126,71.79655,False,False,False,Valid,2026-09
+LOC00332,2026-07-25,South,Chennai,Residential Road,Missing road name,Approved,Reviewer A,25,1.0,38,26.54263,89.13564,False,False,False,Valid,2026-07
+LOC00333,2026-04-02,South,Hyderabad,Residential Road,Incorrect classification,Needs Review,Reviewer A,80,1.0,51,31.74469,88.03321,False,False,True,Needs Attention,2026-04
+LOC00333,2026-08-24,West,Mumbai,Service Road,Missing road name,Approved,Reviewer B,115,6.0,44,27.99138,93.67131,False,False,True,Needs Attention,2026-08
+LOC00335,2026-05-06,Central,Bhopal,Primary Road,Geometry mismatch,Needs Review,Reviewer E,85,10.0,31,20.45348,73.56812,False,False,False,Valid,2026-05
+LOC00336,2026-03-14,East,Kolkata,Secondary Road,None,Approved,Reviewer E,50,5.0,59,34.54511,76.69315,False,False,False,Valid,2026-03
+LOC00337,2026-01-02,North,Delhi,Secondary Road,Missing boundary,Pending,Reviewer B,64,13.0,48,11.9031,86.23184,False,False,False,Valid,2026-01
+LOC00338,2026-02-13,North,Lucknow,Service Road,None,Needs Review,Reviewer B,81,0.0,53,25.64727,68.78467,False,False,False,Valid,2026-02
+LOC00339,2026-05-21,East,Guwahati,Secondary Road,Incorrect classification,Approved,Reviewer B,58,8.0,53,16.28576,92.70811,False,False,False,Valid,2026-05
+LOC00340,2026-06-23,Central,Nagpur,Residential Road,Missing boundary,Needs Review,Reviewer D,42,2.0,61,16.2869,75.21581,False,False,False,Valid,2026-06
+LOC00341,2026-08-19,West,Mumbai,Footpath,Missing road name,Pending,Reviewer A,167,3.0,8,32.68492,81.34455,False,False,False,Valid,2026-08
+LOC00342,2026-07-01,North,Lucknow,Service Road,Missing boundary,Approved,Reviewer E,124,18.0,3,25.15152,80.25135,False,False,False,Valid,2026-07
+LOC00343,2026-07-30,East,Guwahati,Secondary Road,Geometry mismatch,Approved,Reviewer C,78,18.0,57,10.01718,79.32019,False,False,False,Valid,2026-07
+LOC00344,2026-05-07,West,Surat,Residential Road,Incorrect classification,Rejected,Reviewer D,100,13.0,7,17.05023,92.35296,False,False,False,Valid,2026-05
+LOC00345,2026-04-16,South,Bengaluru,Footpath,Incorrect classification,Approved,Reviewer D,171,10.0,15,13.75959,91.30145,False,False,False,Valid,2026-04
+LOC00346,2026-02-19,South,Bengaluru,Secondary Road,Geometry mismatch,Approved,Reviewer E,160,14.0,13,22.23851,76.1312,False,False,False,Valid,2026-02
+LOC00347,2026-02-26,East,Kolkata,Primary Road,Duplicate segment,Needs Review,Reviewer E,106,8.0,10,25.3901,83.7907,False,False,False,Valid,2026-02
+LOC00348,2026-06-18,West,Mumbai,Footpath,Duplicate segment,Needs Review,Reviewer D,27,10.0,61,8.70222,91.15254,False,False,False,Valid,2026-06
+LOC00349,2026-05-16,North,Jaipur,Service Road,Duplicate segment,Approved,Reviewer B,125,6.0,75,20.96277,87.44138,False,False,False,Valid,2026-05
+LOC00350,2026-07-21,West,Surat,Secondary Road,Missing road name,Needs Review,Reviewer E,111,1.0,32,24.09119,70.38556,False,False,False,Valid,2026-07
+LOC00351,2026-04-16,East,Patna,Service Road,Missing boundary,Approved,Reviewer B,78,7.0,10,28.5563,81.55014,False,False,False,Valid,2026-04
+LOC00352,2026-08-03,West,Mumbai,Residential Road,None,Pending,Reviewer B,91,6.0,31,14.74859,94.11189,False,False,False,Valid,2026-08
+LOC00353,2026-03-22,North,Delhi,Residential Road,None,Approved,Reviewer C,84,18.0,61,16.4573,95.61849,False,False,False,Valid,2026-03
+LOC00354,2026-05-11,West,Mumbai,Service Road,None,Approved,Reviewer C,40,16.0,46,30.58282,75.5944,False,False,False,Valid,2026-05
+LOC00355,2026-02-15,West,Pune,Footpath,Incorrect classification,Needs Review,Reviewer E,116,9.0,42,12.02859,85.101,False,False,False,Valid,2026-02
+LOC00356,2026-07-01,East,Kolkata,Service Road,Missing road name,Approved,Reviewer C,31,12.0,24,18.6224,93.92143,False,False,False,Valid,2026-07
+LOC00357,2026-01-14,West,Mumbai,Primary Road,None,Approved,Reviewer E,169,8.0,47,27.348,86.97953,False,False,False,Valid,2026-01
+LOC00358,2026-07-31,South,Bengaluru,Residential Road,Duplicate segment,Needs Review,Reviewer C,30,1.0,73,20.77683,89.91012,False,False,False,Valid,2026-07
+LOC00359,2026-05-03,North,Jaipur,Primary Road,Missing boundary,Rejected,Reviewer D,71,1.0,47,19.92372,85.72042,False,False,False,Valid,2026-05
+LOC00360,2026-06-17,Central,Indore,Secondary Road,Duplicate segment,Approved,Reviewer B,151,0.0,5,24.85807,69.73823,False,False,False,Valid,2026-06
+LOC00361,2026-02-02,East,Kolkata,Footpath,Missing road name,Approved,Reviewer D,167,7.0,36,10.87549,92.52462,False,False,False,Valid,2026-02
+LOC00362,2026-05-05,West,Pune,Primary Road,Missing boundary,Rejected,Reviewer C,145,1.0,30,27.37662,69.82179,False,False,False,Valid,2026-05
+LOC00363,2026-03-30,South,Hyderabad,Primary Road,Missing road name,Needs Review,Reviewer B,111,14.0,46,29.83346,69.71962,False,False,False,Valid,2026-03
+LOC00364,2026-04-25,Central,Bhopal,Footpath,Missing boundary,Approved,Reviewer B,41,10.0,48,15.55666,72.4567,False,False,False,Valid,2026-04
+LOC00365,2026-02-07,North,Delhi,Primary Road,Geometry mismatch,Rejected,Reviewer B,126,16.0,5,31.09064,82.12699,False,False,False,Valid,2026-02
+LOC00366,2026-03-28,East,Patna,Service Road,Duplicate segment,Needs Review,Reviewer B,54,4.0,50,18.96237,83.2796,False,False,False,Valid,2026-03
+LOC00367,2026-02-18,East,Kolkata,Primary Road,Incorrect classification,Approved,Reviewer D,121,13.0,5,,70.83715,False,True,False,Needs Attention,2026-02
+LOC00368,2026-08-13,North,Jaipur,Secondary Road,Missing road name,Approved,Reviewer B,28,10.0,5,29.24191,71.98255,False,False,False,Valid,2026-08
+LOC00369,2026-04-15,Central,Nagpur,Footpath,Missing boundary,Pending,Reviewer C,113,6.0,22,23.99192,85.56879,False,False,False,Valid,2026-04
+LOC00370,2026-06-02,East,Patna,Secondary Road,Incorrect classification,Approved,Reviewer A,89,17.0,25,8.96043,89.05513,False,False,False,Valid,2026-06
+LOC00371,2026-06-26,South,Chennai,Footpath,None,Rejected,Reviewer D,42,15.0,42,11.06643,83.13522,False,False,False,Valid,2026-06
+LOC00372,2026-01-01,East,Guwahati,Residential Road,Geometry mismatch,Approved,Reviewer A,140,5.0,49,34.43381,93.70014,False,False,False,Valid,2026-01
+LOC00373,2026-07-27,West,Pune,Primary Road,Missing road name,Approved,Reviewer C,20,0.0,16,34.19835,82.19129,False,False,False,Valid,2026-07
+LOC00374,2026-04-20,North,Jaipur,Residential Road,Missing boundary,Pending,Reviewer E,143,15.0,6,10.44564,90.11966,False,False,False,Valid,2026-04
+LOC00375,2026-06-28,West,Surat,Service Road,Missing boundary,Approved,Reviewer D,129,12.0,48,24.73475,88.27721,False,False,False,Valid,2026-06
+LOC00376,2026-02-02,Central,Indore,Footpath,None,Rejected,Reviewer E,132,12.0,5,31.84118,86.8275,False,False,False,Valid,2026-02
+LOC00377,2026-05-07,East,Patna,Footpath,Duplicate segment,Approved,Reviewer B,26,12.0,34,31.99647,76.02371,False,False,False,Valid,2026-05
+LOC00378,2026-08-02,South,Bengaluru,Residential Road,Geometry mismatch,Needs Review,Reviewer D,74,3.0,70,27.16352,85.46712,False,False,False,Valid,2026-08
+LOC00379,2026-03-27,Central,Bhopal,Primary Road,None,Approved,Reviewer A,43,6.0,57,27.78614,93.89525,False,False,False,Valid,2026-03
+LOC00380,2026-01-18,North,Delhi,Secondary Road,Missing boundary,Approved,Reviewer A,95,16.0,14,30.72402,86.68118,False,False,False,Valid,2026-01
+LOC00381,2026-09-27,North,Jaipur,Footpath,Missing road name,Approved,Reviewer E,106,15.0,69,15.30942,83.08489,False,False,False,Valid,2026-09
+LOC00382,2026-02-14,South,Chennai,Footpath,None,Approved,Reviewer A,52,5.0,22,11.9648,78.96306,False,False,False,Valid,2026-02
+LOC00383,2026-05-16,Central,Nagpur,Service Road,Duplicate segment,Approved,Reviewer C,46,1.0,63,21.95577,89.70793,False,False,False,Valid,2026-05
+LOC00384,2026-06-27,South,Hyderabad,Footpath,Geometry mismatch,Pending,Reviewer B,35,7.0,24,19.96849,72.08042,False,False,False,Valid,2026-06
+LOC00385,2026-05-16,Central,Bhopal,Secondary Road,None,Approved,Reviewer C,125,12.0,45,9.70377,92.56997,False,False,False,Valid,2026-05
+LOC00386,2026-08-18,Central,Bhopal,Residential Road,Missing road name,Approved,Reviewer B,76,18.0,68,32.53383,91.14574,False,False,False,Valid,2026-08
+LOC00387,2026-01-08,East,Kolkata,Primary Road,Missing boundary,Pending,Reviewer D,86,14.0,17,28.61041,68.18983,False,False,False,Valid,2026-01
+LOC00388,2026-03-05,East,Kolkata,Secondary Road,Missing boundary,Approved,Reviewer D,37,18.0,48,25.91047,80.28336,False,False,False,Valid,2026-03
+LOC00389,2026-06-22,South,Chennai,Residential Road,Geometry mismatch,Approved,Reviewer E,39,10.0,50,25.09572,76.09936,False,False,False,Valid,2026-06
+LOC00390,2026-07-23,West,Pune,Primary Road,None,Approved,Reviewer C,59,0.0,25,11.74353,76.9447,False,False,False,Valid,2026-07
+LOC00391,2026-09-13,East,Guwahati,Secondary Road,None,Needs Review,Reviewer D,72,10.0,5,24.76686,95.9243,False,False,False,Valid,2026-09
+LOC00392,2026-01-07,South,Chennai,Secondary Road,Missing boundary,Rejected,Reviewer D,42,2.0,7,30.19561,78.69766,False,False,False,Valid,2026-01
+LOC00393,2026-02-21,South,Chennai,Residential Road,None,Needs Review,Reviewer E,33,14.0,42,21.00984,94.79803,False,False,False,Valid,2026-02
+LOC00394,2026-01-25,Central,Nagpur,Primary Road,Duplicate segment,Approved,Reviewer A,85,14.0,11,30.81206,92.76746,False,False,False,Valid,2026-01
+LOC00395,2026-03-16,Central,Indore,Residential Road,None,Approved,Reviewer E,137,15.0,67,18.2924,83.20179,False,False,False,Valid,2026-03
+LOC00396,2026-06-18,North,Delhi,Secondary Road,Geometry mismatch,Approved,Reviewer B,45,18.0,51,30.65602,70.55785,False,False,False,Valid,2026-06
+LOC00397,2026-05-22,North,Delhi,Service Road,Incorrect classification,Needs Review,Reviewer B,114,14.0,21,11.71618,78.77316,False,False,False,Valid,2026-05
+LOC00398,2026-04-24,Central,Indore,Footpath,Duplicate segment,Needs Review,Reviewer A,145,11.0,58,24.23128,93.8117,False,False,False,Valid,2026-04
+LOC00399,2026-02-25,West,Mumbai,Secondary Road,Missing boundary,Needs Review,Reviewer B,32,12.0,25,15.47075,72.46218,False,False,False,Valid,2026-02
+LOC00400,2026-07-09,Central,Nagpur,Footpath,Duplicate segment,Approved,Reviewer B,137,,54,30.22461,91.74798,True,False,False,Needs Attention,2026-07
+LOC00401,2026-09-21,West,Surat,Secondary Road,Geometry mismatch,Pending,Reviewer A,165,3.0,29,34.27067,71.22545,False,False,False,Valid,2026-09
+LOC00402,2026-01-20,Central,Bhopal,Residential Road,Incorrect classification,Approved,Reviewer D,68,2.0,73,18.56498,85.92948,False,False,False,Valid,2026-01
+LOC00403,2026-02-21,East,Kolkata,Secondary Road,Geometry mismatch,Approved,Reviewer D,107,0.0,40,26.10296,89.85126,False,False,False,Valid,2026-02
+LOC00404,2026-01-04,South,Hyderabad,Secondary Road,None,Approved,Reviewer E,151,0.0,10,19.69463,79.99479,False,False,False,Valid,2026-01
+LOC00405,2026-08-23,East,Patna,Service Road,Geometry mismatch,Approved,Reviewer A,174,12.0,8,13.04537,72.90767,False,False,False,Valid,2026-08
+LOC00406,2026-02-22,West,Mumbai,Service Road,Missing road name,Approved,Reviewer C,25,6.0,64,15.3298,76.31029,False,False,False,Valid,2026-02
+LOC00407,2026-04-26,West,Surat,Footpath,Duplicate segment,Pending,Reviewer B,155,0.0,43,22.12823,95.73814,False,False,False,Valid,2026-04
+LOC00408,2026-04-24,East,Guwahati,Secondary Road,Missing boundary,Approved,Reviewer D,156,18.0,25,18.69152,93.25329,False,False,False,Valid,2026-04
+LOC00409,2026-01-17,East,Guwahati,Primary Road,Duplicate segment,Rejected,Reviewer A,46,8.0,4,17.03145,95.73974,False,False,False,Valid,2026-01
+LOC00410,2026-01-28,Central,Nagpur,Service Road,Missing road name,Approved,Reviewer D,98,1.0,68,28.97839,76.14278,False,False,False,Valid,2026-01
+LOC00411,2026-01-16,South,Hyderabad,Residential Road,Duplicate segment,Needs Review,Reviewer E,70,13.0,6,24.55546,89.11783,False,False,False,Valid,2026-01
+LOC00412,2026-02-23,Unknown,Jaipur,Service Road,Missing boundary,Needs Review,Reviewer C,20,18.0,62,17.5085,76.60803,False,False,False,Needs Attention,2026-02
+LOC00413,2026-09-09,East,Kolkata,Secondary Road,Missing boundary,Approved,Reviewer D,25,11.0,57,18.28473,81.55539,False,False,False,Valid,2026-09
+LOC00414,2026-08-19,Central,Nagpur,Primary Road,Geometry mismatch,Approved,Reviewer C,106,2.0,67,17.86651,82.91364,False,False,False,Valid,2026-08
+LOC00415,2026-05-20,East,Patna,Service Road,Geometry mismatch,Approved,Reviewer C,114,2.0,27,19.32715,88.58065,False,False,False,Valid,2026-05
+LOC00416,2026-01-08,West,Pune,Residential Road,Incorrect classification,Needs Review,Reviewer D,27,7.0,8,34.6248,80.82905,False,False,False,Valid,2026-01
+LOC00417,2026-06-16,East,Guwahati,Secondary Road,Missing boundary,Pending,Reviewer A,20,2.0,55,34.16655,95.0835,False,False,False,Valid,2026-06
+LOC00418,2026-05-10,North,Jaipur,Primary Road,Incorrect classification,Pending,Reviewer C,122,10.0,57,10.73183,77.8954,False,False,False,Valid,2026-05
+LOC00419,2026-05-11,East,Kolkata,Residential Road,Incorrect classification,Approved,Reviewer E,77,1.0,5,16.1253,68.75811,False,False,False,Valid,2026-05
+LOC00420,2026-02-06,North,Delhi,Footpath,Incorrect classification,Approved,Reviewer C,46,4.0,35,30.56146,92.3424,False,False,False,Valid,2026-02
+LOC00421,2026-07-23,South,Bengaluru,Service Road,Missing road name,Approved,Reviewer B,58,1.0,19,25.8903,74.52941,False,False,False,Valid,2026-07
+LOC00422,2026-01-17,Central,Bhopal,Residential Road,Geometry mismatch,Approved,Reviewer E,112,15.0,17,26.99195,74.43559,False,False,False,Valid,2026-01
+LOC00423,2026-03-21,West,Mumbai,Secondary Road,None,Needs Review,Reviewer E,36,15.0,57,21.68919,81.56628,False,False,False,Valid,2026-03
+LOC00424,2026-05-02,West,Pune,Footpath,Missing road name,Approved,Reviewer A,37,6.0,62,29.83079,86.09681,False,False,False,Valid,2026-05
+LOC00425,2026-04-09,West,Surat,Service Road,Missing road name,Approved,Reviewer D,135,5.0,62,9.27174,70.58059,False,False,False,Valid,2026-04
+LOC00426,2026-06-20,Central,Bhopal,Service Road,Duplicate segment,Approved,Reviewer B,56,7.0,12,27.89258,88.83792,False,False,False,Valid,2026-06
+LOC00427,2026-01-25,West,Surat,Residential Road,Incorrect classification,Pending,Reviewer E,29,17.0,58,34.5118,82.41817,False,False,False,Valid,2026-01
+LOC00428,2026-03-21,North,Jaipur,Primary Road,Duplicate segment,Approved,Reviewer C,162,16.0,53,10.55312,73.69076,False,False,False,Valid,2026-03
+LOC00429,2026-07-11,East,Guwahati,Primary Road,Missing road name,Rejected,Reviewer A,66,10.0,28,15.35792,76.53031,False,False,False,Valid,2026-07
+LOC00430,2026-07-27,East,Kolkata,Primary Road,Missing road name,Approved,Reviewer A,116,14.0,51,18.55892,84.4911,False,False,False,Valid,2026-07
+LOC00431,2026-07-15,Central,Indore,Residential Road,None,Approved,Reviewer B,31,17.0,62,27.97263,72.61192,False,False,False,Valid,2026-07
+LOC00432,2026-01-02,West,Pune,Residential Road,Geometry mismatch,Approved,Reviewer B,157,2.0,22,11.82631,88.22102,False,False,False,Valid,2026-01
+LOC00433,2026-04-28,Central,Bhopal,Secondary Road,Geometry mismatch,Pending,Reviewer E,133,7.0,74,21.34742,79.27775,False,False,False,Valid,2026-04
+LOC00434,2026-06-25,Central,Nagpur,Residential Road,Incorrect classification,Approved,Reviewer B,152,3.0,51,9.90819,85.83155,False,False,False,Valid,2026-06
+LOC00435,2026-02-22,East,Patna,Service Road,Incorrect classification,Needs Review,Reviewer C,104,9.0,13,32.33054,71.56182,False,False,False,Valid,2026-02
+LOC00436,2026-08-05,Central,Indore,Secondary Road,Duplicate segment,Approved,Reviewer B,110,14.0,75,32.53553,79.18554,False,False,False,Valid,2026-08
+LOC00437,2026-06-08,West,Pune,Residential Road,Geometry mismatch,Approved,Reviewer B,34,14.0,7,16.7646,93.44549,False,False,False,Valid,2026-06
+LOC00438,2026-05-30,South,Hyderabad,Service Road,Missing road name,Pending,Reviewer B,86,5.0,21,24.96199,70.17513,False,False,False,Valid,2026-05
+LOC00439,2026-08-19,West,Mumbai,Primary Road,Geometry mismatch,Approved,Reviewer D,77,7.0,16,10.60308,76.06814,False,False,False,Valid,2026-08
+LOC00440,2026-03-15,West,Mumbai,Secondary Road,Duplicate segment,Needs Review,Reviewer A,179,16.0,5,16.80125,90.49093,False,False,False,Valid,2026-03
+LOC00441,2026-09-22,Central,Nagpur,Primary Road,Duplicate segment,Approved,Reviewer E,97,2.0,68,22.18607,89.08974,False,False,False,Valid,2026-09
+LOC00442,2026-07-03,Central,Nagpur,Service Road,Missing boundary,Approved,Reviewer B,152,18.0,74,29.83352,83.24593,False,False,False,Valid,2026-07
+LOC00443,2026-05-15,East,Guwahati,Primary Road,Missing road name,Approved,Reviewer C,58,8.0,47,18.20593,71.11712,False,False,False,Valid,2026-05
+LOC00444,2026-05-09,East,Patna,Residential Road,None,Approved,Reviewer B,139,0.0,67,19.32809,77.81601,False,False,False,Valid,2026-05
+LOC00445,2026-06-12,East,Patna,Secondary Road,Missing road name,Approved,Reviewer E,145,5.0,54,11.03136,88.77255,False,False,False,Valid,2026-06
+LOC00446,2026-04-24,Central,Indore,Footpath,Missing boundary,Approved,Reviewer C,133,2.0,4,8.63955,69.11668,False,False,False,Valid,2026-04
+LOC00447,2026-07-11,South,Hyderabad,Footpath,Duplicate segment,Approved,Reviewer A,64,5.0,44,25.24474,72.92831,False,False,False,Valid,2026-07
+LOC00448,2026-05-02,Central,Bhopal,Residential Road,Geometry mismatch,Pending,Reviewer D,28,18.0,27,11.1953,90.60269,False,False,False,Valid,2026-05
+LOC00449,2026-06-18,West,Mumbai,Service Road,Duplicate segment,Approved,Reviewer C,107,3.0,71,11.19266,88.23851,False,False,False,Valid,2026-06
+LOC00450,2026-01-20,Central,Bhopal,Primary Road,Duplicate segment,Rejected,Reviewer D,173,18.0,73,13.39641,80.48976,False,False,False,Valid,2026-01
+LOC00451,2026-03-05,West,Mumbai,Residential Road,Incorrect classification,Rejected,Reviewer B,38,13.0,3,9.97616,76.82208,False,False,False,Valid,2026-03
+LOC00452,2026-08-19,North,Delhi,Primary Road,None,Rejected,Reviewer B,148,3.0,31,23.08003,83.8348,False,False,False,Valid,2026-08
+LOC00453,2026-03-16,West,Pune,Secondary Road,None,Rejected,Reviewer D,83,0.0,12,21.41802,85.07796,False,False,False,Valid,2026-03
+LOC00454,2026-05-25,West,Surat,Service Road,None,Pending,Reviewer C,122,4.0,36,21.98783,76.06747,False,False,False,Valid,2026-05
+LOC00455,2026-04-21,Central,Nagpur,Service Road,Geometry mismatch,Rejected,Reviewer A,140,8.0,21,23.30448,88.04688,False,False,False,Valid,2026-04
+LOC00456,2026-05-04,West,Mumbai,Secondary Road,Missing road name,Approved,Reviewer D,172,9.0,37,17.98163,85.75374,False,False,False,Valid,2026-05
+LOC00457,2026-05-02,Central,Bhopal,Service Road,Missing road name,Pending,Reviewer E,104,4.0,43,10.74279,71.45045,False,False,False,Valid,2026-05
+LOC00458,2026-01-07,North,Lucknow,Service Road,Duplicate segment,Needs Review,Reviewer E,147,17.0,67,14.84348,80.49147,False,False,False,Valid,2026-01
+LOC00459,2026-05-15,Central,Bhopal,Footpath,None,Needs Review,Reviewer D,35,18.0,22,30.34073,83.59628,False,False,False,Valid,2026-05
+LOC00460,2026-07-03,North,Jaipur,Secondary Road,Missing boundary,Approved,Reviewer D,59,16.0,51,12.23945,69.57632,False,False,False,Valid,2026-07
+LOC00461,2026-05-27,West,Pune,Secondary Road,Duplicate segment,Pending,Reviewer C,123,16.0,37,20.35349,75.92985,False,False,False,Valid,2026-05
+LOC00462,2026-08-10,Central,Indore,Residential Road,None,Needs Review,Reviewer D,28,9.0,11,21.39104,68.61677,False,False,False,Valid,2026-08
+LOC00463,2026-05-08,South,Hyderabad,Secondary Road,Missing boundary,Approved,Reviewer D,33,13.0,39,10.76748,96.83521,False,False,False,Valid,2026-05
+LOC00464,2026-09-18,West,Pune,Residential Road,None,Approved,Reviewer B,174,14.0,22,16.15312,76.14554,False,False,False,Valid,2026-09
+LOC00465,2026-09-08,North,Lucknow,Service Road,None,Approved,Reviewer B,127,8.0,4,27.43101,81.49593,False,False,False,Valid,2026-09
+LOC00466,2026-09-26,South,Chennai,Service Road,Missing road name,Pending,Reviewer E,141,11.0,9,22.74242,71.64236,False,False,False,Valid,2026-09
+LOC00467,2026-04-26,East,Patna,Footpath,None,Approved,Reviewer E,69,4.0,71,11.59162,92.01149,False,False,False,Valid,2026-04
+LOC00468,2026-06-08,East,Kolkata,Residential Road,Duplicate segment,Approved,Reviewer E,87,4.0,23,30.50546,87.88988,False,False,False,Valid,2026-06
+LOC00469,2026-01-03,South,Chennai,Residential Road,Missing boundary,Approved,Reviewer D,142,2.0,52,29.08572,76.18764,False,False,False,Valid,2026-01
+LOC00470,2026-07-27,West,Pune,Service Road,Incorrect classification,Rejected,Reviewer B,157,5.0,68,11.83258,74.20853,False,False,False,Valid,2026-07
+LOC00471,2026-06-12,South,Chennai,Service Road,None,Approved,Reviewer B,66,1.0,26,13.23654,93.66648,False,False,False,Valid,2026-06
+LOC00472,2026-01-27,Central,Indore,Primary Road,Incorrect classification,Approved,Reviewer D,61,18.0,63,21.6186,75.40635,False,False,False,Valid,2026-01
+LOC00473,2026-03-14,Central,Bhopal,Service Road,Geometry mismatch,Rejected,Reviewer A,154,18.0,36,19.30865,70.41069,False,False,False,Valid,2026-03
+LOC00474,2026-05-22,West,Pune,Primary Road,Geometry mismatch,Rejected,Reviewer D,49,3.0,36,27.0661,79.70831,False,False,False,Valid,2026-05
+LOC00475,2026-06-02,West,Pune,Service Road,None,Needs Review,Reviewer E,97,5.0,71,11.87085,80.90786,False,False,False,Valid,2026-06
+LOC00476,2026-08-13,Central,Bhopal,Secondary Road,None,Approved,Reviewer B,171,13.0,19,8.32201,80.17376,False,False,False,Valid,2026-08
+LOC00477,2026-04-09,West,Surat,Residential Road,Missing road name,Pending,Reviewer A,54,8.0,7,14.47962,81.7719,False,False,False,Valid,2026-04
+LOC00478,2026-06-05,East,Guwahati,Primary Road,None,Approved,Reviewer D,168,7.0,39,20.70432,72.65745,False,False,False,Valid,2026-06
+LOC00479,2026-07-05,South,Hyderabad,Primary Road,Missing boundary,Approved,Reviewer B,129,13.0,74,16.07716,95.27452,False,False,False,Valid,2026-07
+LOC00480,2026-01-14,Central,Bhopal,Secondary Road,Geometry mismatch,Approved,Reviewer A,33,4.0,46,16.63269,79.49275,False,False,False,Valid,2026-01
+LOC00481,2026-09-05,South,Hyderabad,Service Road,Duplicate segment,Approved,Reviewer B,97,2.0,67,11.93745,94.90996,False,False,False,Valid,2026-09
+LOC00482,2026-07-19,West,Mumbai,Residential Road,Missing road name,Approved,Reviewer D,125,18.0,63,12.55489,84.63451,False,False,False,Valid,2026-07
+LOC00483,2026-01-20,South,Chennai,Service Road,Geometry mismatch,Pending,Reviewer E,103,6.0,48,29.51993,92.50199,False,False,False,Valid,2026-01
+LOC00484,2026-07-28,Central,Bhopal,Footpath,Geometry mismatch,Approved,Reviewer B,86,13.0,57,24.97615,76.3037,False,False,False,Valid,2026-07
+LOC00485,2026-08-20,Central,Bhopal,Primary Road,Missing road name,Approved,Reviewer E,36,9.0,71,31.67485,76.96434,False,False,False,Valid,2026-08
+LOC00486,2026-06-22,South,Chennai,Primary Road,Incorrect classification,Pending,Reviewer C,61,9.0,55,17.35128,87.158,False,False,False,Valid,2026-06
+LOC00487,2026-03-17,South,Hyderabad,Primary Road,Geometry mismatch,Approved,Reviewer C,90,5.0,42,17.01584,94.07515,False,False,False,Valid,2026-03
+LOC00488,2026-09-23,Central,Bhopal,Primary Road,Duplicate segment,Approved,Reviewer B,143,13.0,27,13.38269,0.0,False,True,False,Needs Attention,2026-09
+LOC00489,2026-04-15,South,Bengaluru,Secondary Road,None,Pending,Reviewer C,109,2.0,29,30.05338,89.01199,False,False,False,Valid,2026-04
+LOC00490,2026-04-10,Central,Indore,Footpath,Incorrect classification,Needs Review,Reviewer C,141,2.0,65,15.75308,94.92594,False,False,False,Valid,2026-04
+LOC00491,2026-03-23,East,Guwahati,Residential Road,None,Approved,Reviewer B,79,0.0,70,23.3515,69.55838,False,False,False,Valid,2026-03
+LOC00492,2026-03-23,North,Delhi,Footpath,Geometry mismatch,Needs Review,Reviewer B,102,18.0,9,18.51895,95.51688,False,False,False,Valid,2026-03
+LOC00493,2026-03-07,East,Kolkata,Primary Road,Geometry mismatch,Pending,Reviewer A,108,10.0,36,32.9214,94.14734,False,False,False,Valid,2026-03
+LOC00494,2026-05-24,South,Chennai,Service Road,Incorrect classification,Pending,Reviewer C,20,9.0,7,33.59747,92.827,False,False,False,Valid,2026-05
+LOC00495,2026-08-05,North,Jaipur,Footpath,None,Approved,Reviewer B,161,17.0,19,25.8301,96.18723,False,False,False,Valid,2026-08
+LOC00496,2026-02-26,West,Surat,Footpath,Missing boundary,Pending,Reviewer B,94,8.0,26,30.18147,76.63272,False,False,False,Valid,2026-02
+LOC00497,2026-06-04,East,Guwahati,Secondary Road,None,Approved,Reviewer D,119,17.0,42,15.78483,79.90655,False,False,False,Valid,2026-06
+LOC00498,2026-01-07,North,Jaipur,Footpath,None,Approved,Reviewer D,126,2.0,51,33.97692,78.73464,False,False,False,Valid,2026-01
+LOC00499,2026-07-06,South,Hyderabad,Service Road,Missing boundary,Approved,Reviewer D,22,10.0,64,15.25603,95.06597,False,False,False,Valid,2026-07
+LOC00500,2026-02-27,East,Kolkata,Footpath,Missing boundary,Approved,Reviewer C,44,18.0,63,25.30653,96.80056,False,False,False,Valid,2026-02
+LOC00501,2026-05-21,North,Jaipur,Residential Road,Missing road name,Needs Review,Reviewer D,115,6.0,69,31.04443,73.95418,False,False,False,Valid,2026-05
+LOC00502,2026-02-13,East,Patna,Footpath,Duplicate segment,Approved,Reviewer D,123,4.0,37,29.41781,81.28358,False,False,False,Valid,2026-02
+LOC00503,2026-03-30,West,Mumbai,Service Road,Geometry mismatch,Approved,Reviewer E,66,2.0,68,16.27722,83.84319,False,False,False,Valid,2026-03
+LOC00504,2026-01-29,North,Lucknow,Primary Road,Incorrect classification,Approved,Reviewer D,63,14.0,69,27.57932,80.54667,False,False,False,Valid,2026-01
+LOC00505,2026-04-26,North,Jaipur,Footpath,Missing boundary,Approved,Reviewer C,62,5.0,49,19.08702,78.0754,False,False,False,Valid,2026-04
+LOC00506,2026-09-10,Central,Nagpur,Secondary Road,Duplicate segment,Approved,Reviewer B,44,18.0,25,15.59061,75.02015,False,False,False,Valid,2026-09
+LOC00507,2026-04-24,Central,Nagpur,Secondary Road,Missing boundary,Approved,Reviewer B,25,0.0,6,23.6882,96.06417,False,False,False,Valid,2026-04
+LOC00508,2026-03-21,South,Chennai,Primary Road,Missing boundary,Approved,Reviewer B,165,11.0,5,29.66418,79.05676,False,False,False,Valid,2026-03
+LOC00509,2026-06-30,West,Mumbai,Residential Road,Duplicate segment,Approved,Reviewer C,125,9.0,20,14.55604,86.04227,False,False,False,Valid,2026-06
+LOC00510,2026-01-31,North,Jaipur,Service Road,Geometry mismatch,Pending,Reviewer D,115,4.0,70,31.6127,96.97301,False,False,False,Valid,2026-01
+LOC00511,2026-03-20,Central,Bhopal,Footpath,Duplicate segment,Approved,Reviewer D,128,16.0,42,18.72476,95.99708,False,False,False,Valid,2026-03
+LOC00512,2026-02-25,East,Kolkata,Primary Road,Incorrect classification,Rejected,Reviewer A,55,8.0,21,17.38253,96.07997,False,False,False,Valid,2026-02
+LOC00513,2026-09-23,Central,Nagpur,Footpath,Incorrect classification,Approved,Reviewer E,109,7.0,53,11.28077,78.04802,False,False,False,Valid,2026-09
+LOC00514,2026-08-07,North,Jaipur,Residential Road,None,Approved,Reviewer C,126,11.0,38,8.17554,68.63126,False,False,False,Valid,2026-08
+LOC00515,2026-08-14,West,Pune,Footpath,Missing road name,Pending,Reviewer A,91,3.0,40,24.13289,85.84999,False,False,False,Valid,2026-08
+LOC00516,2026-03-29,Central,Indore,Secondary Road,Duplicate segment,Approved,Reviewer A,121,13.0,14,21.11423,78.83135,False,False,False,Valid,2026-03
+LOC00517,2026-01-07,South,Hyderabad,Service Road,Geometry mismatch,Approved,Reviewer B,155,12.0,48,25.74615,86.85436,False,False,False,Valid,2026-01
+LOC00518,2026-03-25,South,Chennai,Secondary Road,Duplicate segment,Approved,Reviewer D,135,10.0,47,28.54541,82.31629,False,False,False,Valid,2026-03
+LOC00519,2026-02-28,West,Pune,Service Road,Incorrect classification,Needs Review,Reviewer B,52,17.0,30,22.24842,69.38772,False,False,False,Valid,2026-02
+LOC00520,2026-07-13,Central,Indore,Service Road,Incorrect classification,Rejected,Reviewer D,63,15.0,73,18.49963,78.7647,False,False,False,Valid,2026-07
+LOC00521,2026-06-05,Central,Nagpur,Footpath,Duplicate segment,Approved,Reviewer A,116,3.0,43,,82.35164,False,True,False,Needs Attention,2026-06
+LOC00522,2026-03-20,East,Guwahati,Service Road,Missing road name,Approved,Reviewer D,100,16.0,51,10.75479,85.58836,False,False,False,Valid,2026-03
+LOC00523,2026-04-20,Central,Indore,Footpath,Missing road name,Approved,Reviewer D,154,12.0,3,19.21122,69.99667,False,False,False,Valid,2026-04
+LOC00524,2026-02-27,South,Bengaluru,Footpath,Missing road name,Approved,Reviewer A,148,18.0,42,11.04475,77.71263,False,False,False,Valid,2026-02
+LOC00525,2026-04-30,West,Mumbai,Primary Road,Incorrect classification,Approved,Reviewer B,49,4.0,11,33.94145,69.03171,False,False,False,Valid,2026-04
+LOC00526,2026-07-11,Central,Bhopal,Service Road,Incorrect classification,Approved,Reviewer B,163,10.0,7,23.11436,81.31168,False,False,False,Valid,2026-07
+LOC00527,2026-03-11,North,Delhi,Residential Road,Geometry mismatch,Pending,Reviewer A,101,1.0,13,16.04125,81.94357,False,False,False,Valid,2026-03
+LOC00528,2026-02-02,East,Guwahati,Residential Road,Incorrect classification,Approved,Reviewer B,94,2.0,60,15.28882,74.62017,False,False,False,Valid,2026-02
+LOC00529,2026-09-09,West,Pune,Service Road,Geometry mismatch,Approved,Reviewer B,72,12.0,36,15.41054,96.26717,False,False,False,Valid,2026-09
+LOC00530,2026-04-23,South,Hyderabad,Primary Road,Missing road name,Approved,Reviewer D,126,0.0,43,16.70204,76.11348,False,False,False,Valid,2026-04
+LOC00531,2026-04-19,North,Jaipur,Secondary Road,Geometry mismatch,Needs Review,Reviewer C,169,9.0,71,9.20784,86.79182,False,False,False,Valid,2026-04
+LOC00532,2026-02-17,Central,Bhopal,Service Road,Incorrect classification,Approved,Reviewer C,96,10.0,51,19.9153,87.32229,False,False,False,Valid,2026-02
+LOC00533,2026-04-18,South,Hyderabad,Primary Road,None,Approved,Reviewer A,84,8.0,64,12.98176,81.025,False,False,False,Valid,2026-04
+LOC00534,2026-01-22,North,Jaipur,Service Road,Missing boundary,Approved,Reviewer D,168,0.0,70,24.78337,78.43549,False,False,False,Valid,2026-01
+LOC00535,2026-01-09,North,Lucknow,Primary Road,Geometry mismatch,Approved,Reviewer E,102,16.0,14,17.18949,89.67187,False,False,False,Valid,2026-01
+LOC00536,2026-08-09,West,Mumbai,Primary Road,Geometry mismatch,Approved,Reviewer B,157,7.0,36,18.99485,86.44902,False,False,False,Valid,2026-08
+LOC00537,2026-01-22,West,Surat,Secondary Road,None,Needs Review,Reviewer C,98,3.0,31,26.73119,87.11389,False,False,False,Valid,2026-01
+LOC00538,2026-04-18,Central,Indore,Footpath,Missing boundary,Rejected,Reviewer E,25,10.0,8,9.11376,83.03783,False,False,False,Valid,2026-04
+LOC00539,2026-07-25,South,Hyderabad,Service Road,Duplicate segment,Rejected,Reviewer D,101,3.0,43,31.89497,75.38558,False,False,False,Valid,2026-07
+LOC00540,2026-06-22,North,Jaipur,Footpath,None,Approved,Reviewer B,101,18.0,13,30.71018,86.20784,False,False,False,Valid,2026-06
+LOC00541,2026-06-22,West,Surat,Primary Road,None,Approved,Reviewer B,118,6.0,56,16.54495,81.78754,False,False,False,Valid,2026-06
+LOC00542,2026-08-26,East,Guwahati,Footpath,Incorrect classification,Pending,Reviewer C,167,17.0,32,25.27558,93.98488,False,False,False,Valid,2026-08
+LOC00543,2026-02-13,South,Hyderabad,Residential Road,Missing road name,Rejected,Reviewer A,163,11.0,69,12.19086,75.05874,False,False,False,Valid,2026-02
+LOC00544,2026-07-25,Central,Indore,Primary Road,None,Approved,Reviewer C,149,18.0,12,20.29724,76.44338,False,False,False,Valid,2026-07
+LOC00545,2026-01-25,North,Jaipur,Footpath,Missing boundary,Needs Review,Reviewer A,95,12.0,4,29.16782,74.70323,False,False,False,Valid,2026-01
+LOC00546,2026-02-27,South,Hyderabad,Primary Road,Missing boundary,Approved,Reviewer B,48,9.0,9,20.12141,95.11798,False,False,False,Valid,2026-02
+LOC00547,2026-05-10,Central,Bhopal,Secondary Road,Missing boundary,Approved,Reviewer E,105,3.0,17,33.11124,80.30511,False,False,False,Valid,2026-05
+LOC00548,2026-02-11,East,Patna,Service Road,Missing boundary,Needs Review,Reviewer C,28,11.0,53,9.28407,88.38044,False,False,False,Valid,2026-02
+LOC00549,2026-04-13,West,Mumbai,Service Road,None,Approved,Reviewer B,178,18.0,67,22.29277,70.51454,False,False,False,Valid,2026-04
+LOC00550,2026-01-18,East,Kolkata,Footpath,Missing road name,Approved,Reviewer B,104,1.0,54,8.69254,85.85244,False,False,False,Valid,2026-01
+LOC00551,2026-06-03,West,Surat,Footpath,Duplicate segment,Pending,Reviewer D,137,11.0,41,32.06018,94.43452,False,False,False,Valid,2026-06
+LOC00552,2026-03-20,East,Guwahati,Service Road,None,Rejected,Reviewer E,103,2.0,11,18.43102,68.42894,False,False,False,Valid,2026-03
+LOC00553,2026-08-30,South,Hyderabad,Service Road,Geometry mismatch,Approved,Reviewer D,51,2.0,62,17.41861,85.38097,False,False,False,Valid,2026-08
+LOC00554,2026-09-14,West,Pune,Secondary Road,Duplicate segment,Approved,Reviewer B,72,0.0,7,25.20643,82.3223,False,False,False,Valid,2026-09
+LOC00555,2026-03-25,West,Mumbai,Primary Road,Geometry mismatch,Needs Review,Reviewer D,142,8.0,25,24.6066,72.48053,False,False,False,Valid,2026-03
+LOC00556,2026-09-25,Central,Nagpur,Primary Road,Missing road name,Approved,Reviewer D,133,10.0,41,32.28434,76.16572,False,False,False,Valid,2026-09
+LOC00557,2026-06-21,West,Pune,Secondary Road,Geometry mismatch,Rejected,Reviewer C,147,1.0,30,28.28019,95.3798,False,False,False,Valid,2026-06
+LOC00558,2026-02-13,South,Hyderabad,Secondary Road,None,Needs Review,Reviewer A,165,4.0,51,27.10485,80.74339,False,False,False,Valid,2026-02
+LOC00559,2026-05-25,East,Guwahati,Residential Road,Missing road name,Needs Review,Reviewer D,124,12.0,23,17.94681,82.37044,False,False,False,Valid,2026-05
+LOC00560,2026-07-02,West,Pune,Secondary Road,Missing boundary,Needs Review,Reviewer D,120,1.0,50,32.20791,92.61155,False,False,False,Valid,2026-07
+LOC00561,2026-09-04,Central,Indore,Secondary Road,Missing road name,Approved,Reviewer B,89,1.0,64,17.81461,94.54395,False,False,False,Valid,2026-09
+LOC00562,2026-03-17,East,Patna,Residential Road,Incorrect classification,Pending,Reviewer D,79,7.0,15,8.97893,69.99714,False,False,False,Valid,2026-03
+LOC00563,2026-03-25,South,Chennai,Secondary Road,Incorrect classification,Approved,Reviewer E,34,10.0,58,10.42476,83.74302,False,False,False,Valid,2026-03
+LOC00564,2026-04-02,South,Hyderabad,Service Road,Missing boundary,Approved,Reviewer A,179,2.0,74,11.64429,79.96393,False,False,False,Valid,2026-04
+LOC00565,2026-07-09,East,Patna,Primary Road,Incorrect classification,Approved,Reviewer A,83,4.0,18,9.59137,76.48332,False,False,False,Valid,2026-07
+LOC00566,2026-07-05,South,Bengaluru,Service Road,Incorrect classification,Approved,Reviewer B,174,18.0,58,15.2039,96.52707,False,False,False,Valid,2026-07
+LOC00567,2026-09-04,West,Pune,Primary Road,None,Approved,Reviewer D,162,9.0,8,22.999,75.37521,False,False,False,Valid,2026-09
+LOC00568,2026-05-09,North,Jaipur,Residential Road,Missing road name,Needs Review,Reviewer B,110,4.0,56,14.44392,86.20703,False,False,False,Valid,2026-05
+LOC00569,2026-06-07,North,Delhi,Secondary Road,Incorrect classification,Approved,Reviewer C,125,4.0,15,18.58668,80.74208,False,False,False,Valid,2026-06
+LOC00570,2026-02-27,North,Jaipur,Residential Road,None,Approved,Reviewer A,180,10.0,39,33.53325,83.35635,False,False,False,Valid,2026-02
+LOC00571,2026-08-17,West,Surat,Primary Road,None,Needs Review,Reviewer E,48,8.0,4,34.18573,68.32864,False,False,False,Valid,2026-08
+LOC00572,2026-09-26,North,Delhi,Footpath,Incorrect classification,Approved,Reviewer A,56,18.0,14,20.62047,79.12126,False,False,False,Valid,2026-09
+LOC00573,2026-05-16,South,Bengaluru,Secondary Road,Incorrect classification,Approved,Reviewer C,28,15.0,11,23.85063,75.58088,False,False,False,Valid,2026-05
+LOC00574,2026-07-13,East,Patna,Residential Road,Geometry mismatch,Approved,Reviewer A,115,14.0,63,29.90675,83.23994,False,False,False,Valid,2026-07
+LOC00575,2026-09-19,West,Surat,Residential Road,Duplicate segment,Needs Review,Reviewer A,133,0.0,29,12.41668,82.04965,False,False,False,Valid,2026-09
+LOC00576,2026-06-02,South,Bengaluru,Service Road,Missing boundary,Approved,Reviewer B,36,10.0,44,29.66973,89.9208,False,False,False,Valid,2026-06
+LOC00577,2026-03-27,South,Hyderabad,Primary Road,Missing road name,Pending,Reviewer C,108,11.0,48,13.12575,95.02775,False,False,False,Valid,2026-03
+LOC00578,2026-08-04,East,Kolkata,Secondary Road,Duplicate segment,Approved,Reviewer A,25,11.0,70,30.6056,80.3092,False,False,False,Valid,2026-08
+LOC00579,2026-07-07,Central,Indore,Service Road,Duplicate segment,Approved,Reviewer B,90,10.0,44,14.24896,86.6682,False,False,False,Valid,2026-07
+LOC00580,2026-05-08,West,Mumbai,Service Road,Missing boundary,Approved,Reviewer E,133,3.0,8,17.51036,72.47758,False,False,False,Valid,2026-05
+LOC00581,2026-03-27,East,Kolkata,Residential Road,Duplicate segment,Rejected,Reviewer B,87,10.0,6,12.89329,86.25504,False,False,False,Valid,2026-03
+LOC00582,2026-08-19,West,Pune,Secondary Road,Missing boundary,Pending,Reviewer A,161,12.0,42,22.32321,72.37398,False,False,False,Valid,2026-08
+LOC00583,2026-02-02,East,Patna,Residential Road,Geometry mismatch,Needs Review,Reviewer B,81,7.0,48,25.53244,93.90496,False,False,False,Valid,2026-02
+LOC00584,2026-04-13,East,Kolkata,Footpath,Duplicate segment,Approved,Reviewer C,92,9.0,20,15.32975,93.72547,False,False,False,Valid,2026-04
+LOC00585,2026-06-14,South,Chennai,Secondary Road,Missing boundary,Pending,Reviewer C,84,4.0,59,33.90114,81.34403,False,False,False,Valid,2026-06
+LOC00586,2026-09-26,West,Mumbai,Secondary Road,Duplicate segment,Approved,Reviewer A,167,18.0,33,17.96316,79.10523,False,False,False,Valid,2026-09
+LOC00587,2026-06-23,North,Jaipur,Residential Road,Incorrect classification,Needs Review,Reviewer D,175,12.0,62,13.429,75.82821,False,False,False,Valid,2026-06
+LOC00588,2026-04-09,North,Lucknow,Footpath,Incorrect classification,Needs Review,Reviewer D,113,15.0,74,23.07483,71.05559,False,False,False,Valid,2026-04
+LOC00589,2026-03-15,East,Guwahati,Residential Road,Geometry mismatch,Needs Review,Reviewer A,149,3.0,73,26.17778,79.72963,False,False,False,Valid,2026-03
+LOC00590,2026-03-19,Central,Indore,Secondary Road,Duplicate segment,Needs Review,Reviewer B,141,1.0,47,25.95989,91.58316,False,False,False,Valid,2026-03
+LOC00591,2026-06-04,North,Jaipur,Footpath,Missing road name,Approved,Reviewer E,29,6.0,35,14.12918,85.26102,False,False,False,Valid,2026-06
+LOC00592,2026-07-05,West,Mumbai,Footpath,None,Approved,Reviewer C,79,14.0,57,28.54458,69.76172,False,False,False,Valid,2026-07
+LOC00593,2026-08-29,Central,Bhopal,Service Road,Missing road name,Approved,Reviewer D,40,14.0,56,32.87008,75.0814,False,False,False,Valid,2026-08
+LOC00594,2026-03-04,North,Jaipur,Footpath,Missing road name,Needs Review,Reviewer C,50,8.0,33,34.91687,81.02251,False,False,False,Valid,2026-03
+LOC00595,2026-03-17,North,Jaipur,Residential Road,Missing road name,Needs Review,Reviewer A,80,0.0,49,9.45913,95.59687,False,False,False,Valid,2026-03
+LOC00596,2026-06-22,Central,Indore,Footpath,Missing boundary,Needs Review,Reviewer B,127,9.0,33,34.0894,83.25648,False,False,False,Valid,2026-06
+LOC00597,2026-06-20,East,Guwahati,Service Road,Missing boundary,Approved,Reviewer A,80,1.0,33,15.45771,81.76127,False,False,False,Valid,2026-06
+LOC00598,2026-05-16,North,Delhi,Secondary Road,Duplicate segment,Approved,Reviewer A,177,4.0,44,16.08536,72.00886,False,False,False,Valid,2026-05
+LOC00599,2026-02-23,Unknown,Hyderabad,Footpath,Missing boundary,Rejected,Reviewer C,173,17.0,69,13.23085,78.39966,False,False,False,Needs Attention,2026-02
+LOC00600,2026-04-20,South,Chennai,Footpath,Duplicate segment,Approved,Reviewer E,30,7.0,14,20.44565,94.05764,False,False,False,Valid,2026-04
+LOC00601,2026-06-30,South,Chennai,Footpath,Missing boundary,Approved,Reviewer B,54,3.0,40,16.65591,81.64777,False,False,False,Valid,2026-06
+LOC00602,2026-07-22,Central,Indore,Primary Road,None,Approved,Reviewer C,176,4.0,13,15.56793,70.90217,False,False,False,Valid,2026-07
+LOC00603,2026-06-18,East,Kolkata,Footpath,None,Approved,Reviewer D,50,6.0,37,28.98613,92.37109,False,False,False,Valid,2026-06
+LOC00604,2026-02-03,South,Hyderabad,Residential Road,Duplicate segment,Approved,Reviewer D,160,14.0,33,8.06457,87.35823,False,False,False,Valid,2026-02
+LOC00605,2026-05-15,Central,Nagpur,Service Road,Incorrect classification,Approved,Reviewer A,177,1.0,63,21.17137,74.82812,False,False,False,Valid,2026-05
+LOC00606,2026-03-15,South,Hyderabad,Service Road,Incorrect classification,Approved,Reviewer E,128,12.0,52,14.49991,93.78819,False,False,False,Valid,2026-03
+LOC00607,2026-08-15,South,Hyderabad,Residential Road,Geometry mismatch,Approved,Reviewer B,122,2.0,5,13.57628,86.60304,False,False,False,Valid,2026-08
+LOC00608,2026-04-26,South,Bengaluru,Service Road,Missing road name,Approved,Reviewer A,162,6.0,50,12.83795,68.00438,False,False,False,Valid,2026-04
+LOC00609,2026-02-20,South,Hyderabad,Residential Road,Missing road name,Rejected,Reviewer A,23,13.0,68,22.68732,84.19179,False,False,False,Valid,2026-02
+LOC00610,2026-04-30,Central,Nagpur,Service Road,Missing boundary,Approved,Reviewer C,117,17.0,33,14.76517,90.2145,False,False,False,Valid,2026-04
+LOC00611,2026-09-08,North,Delhi,Primary Road,Incorrect classification,Approved,Reviewer D,111,3.0,36,28.74565,71.50372,False,False,False,Valid,2026-09
+LOC00612,2026-08-10,South,Chennai,Footpath,None,Pending,Reviewer B,119,16.0,62,28.76384,84.25942,False,False,False,Valid,2026-08
+LOC00613,2026-02-13,North,Lucknow,Residential Road,Missing road name,Needs Review,Reviewer A,143,18.0,40,20.19285,86.62706,False,False,False,Valid,2026-02
+LOC00614,2026-01-24,Central,Indore,Footpath,Incorrect classification,Approved,Reviewer C,176,6.0,3,15.42455,83.07253,False,False,False,Valid,2026-01
+LOC00615,2026-02-27,East,Patna,Primary Road,Incorrect classification,Needs Review,Reviewer E,99,1.0,24,11.40903,79.53469,False,False,False,Valid,2026-02
+LOC00616,2026-07-03,East,Patna,Primary Road,Missing boundary,Approved,Reviewer A,32,7.0,72,11.35273,80.24404,False,False,False,Valid,2026-07
+LOC00617,2026-03-19,East,Kolkata,Service Road,Missing road name,Pending,Reviewer B,148,9.0,11,11.39091,70.11821,False,False,False,Valid,2026-03
+LOC00618,2026-03-27,East,Patna,Service Road,Duplicate segment,Approved,Reviewer C,122,4.0,39,11.00413,69.41697,False,False,False,Valid,2026-03
+LOC00619,2026-08-24,Central,Bhopal,Service Road,Missing road name,Approved,Reviewer E,135,12.0,47,33.12265,90.90612,False,False,False,Valid,2026-08
+LOC00620,2026-05-12,West,Mumbai,Secondary Road,None,Rejected,Reviewer D,29,0.0,21,31.34629,88.98103,False,False,False,Valid,2026-05
+LOC00621,2026-07-26,North,Jaipur,Secondary Road,None,Pending,Reviewer C,118,18.0,27,11.13277,86.92461,False,False,False,Valid,2026-07
+LOC00622,2026-07-27,West,Pune,Primary Road,Duplicate segment,Pending,Reviewer E,112,14.0,50,16.64469,93.01108,False,False,False,Valid,2026-07
+LOC00623,2026-09-23,North,Delhi,Primary Road,None,Needs Review,Reviewer D,172,4.0,60,20.27167,77.21077,False,False,False,Valid,2026-09
+LOC00624,2026-02-15,East,Guwahati,Residential Road,Missing boundary,Approved,Reviewer C,154,11.0,57,11.06961,87.82637,False,False,False,Valid,2026-02
+LOC00625,2026-06-23,East,Patna,Service Road,Duplicate segment,Needs Review,Reviewer A,80,9.0,18,22.4724,72.53305,False,False,False,Valid,2026-06
+LOC00626,2026-05-06,East,Kolkata,Secondary Road,Geometry mismatch,Approved,Reviewer B,147,6.0,72,32.46862,89.17657,False,False,False,Valid,2026-05
+LOC00627,2026-08-02,Central,Indore,Residential Road,Missing boundary,Approved,Reviewer D,44,18.0,22,30.89791,95.50418,False,False,False,Valid,2026-08
+LOC00628,2026-07-27,North,Delhi,Primary Road,None,Approved,Reviewer B,133,10.0,48,23.01434,76.55725,False,False,False,Valid,2026-07
+LOC00629,2026-08-10,East,Guwahati,Footpath,Incorrect classification,Needs Review,Reviewer C,20,11.0,10,8.94737,75.60185,False,False,False,Valid,2026-08
+LOC00630,2026-06-11,East,Guwahati,Residential Road,Missing road name,Rejected,Reviewer B,40,12.0,70,26.8957,91.38626,False,False,False,Valid,2026-06
+LOC00631,2026-01-21,South,Chennai,Service Road,Incorrect classification,Approved,Reviewer C,122,18.0,24,12.62596,68.96171,False,False,False,Valid,2026-01
+LOC00632,2026-04-14,North,Delhi,Primary Road,Missing road name,Approved,Reviewer D,175,9.0,55,20.41679,91.41645,False,False,False,Valid,2026-04
+LOC00633,2026-02-13,South,Chennai,Service Road,Duplicate segment,Needs Review,Reviewer D,22,5.0,18,17.81088,72.23847,False,False,False,Valid,2026-02
+LOC00634,2026-06-01,Central,Bhopal,Secondary Road,Missing road name,Needs Review,Reviewer A,124,10.0,6,22.39725,85.40492,False,False,False,Valid,2026-06
+LOC00635,2026-07-15,South,Bengaluru,Primary Road,Missing boundary,Approved,Reviewer E,24,10.0,40,13.23906,79.26176,False,False,False,Valid,2026-07
+LOC00636,2026-02-22,East,Patna,Service Road,Geometry mismatch,Rejected,Reviewer B,34,5.0,45,16.16586,69.16044,False,False,False,Valid,2026-02
+LOC00637,2026-04-01,North,Delhi,Primary Road,Geometry mismatch,Approved,Reviewer C,80,7.0,37,15.91397,74.53655,False,False,False,Valid,2026-04
+LOC00638,2026-02-01,West,Surat,Footpath,Geometry mismatch,Approved,Reviewer C,75,10.0,17,14.33439,95.45992,False,False,False,Valid,2026-02
+LOC00639,2026-06-08,West,Pune,Primary Road,Incorrect classification,Needs Review,Reviewer B,158,11.0,8,32.35868,89.14316,False,False,False,Valid,2026-06
+LOC00640,2026-01-08,West,Pune,Residential Road,Incorrect classification,Pending,Reviewer A,146,14.0,11,19.4872,77.6829,False,False,False,Valid,2026-01
+LOC00641,2026-04-18,North,Delhi,Residential Road,Geometry mismatch,Approved,Reviewer E,90,13.0,48,27.37762,84.15481,False,False,False,Valid,2026-04
+LOC00642,2026-06-18,East,Kolkata,Secondary Road,None,Approved,Reviewer B,52,16.0,15,16.11765,71.43253,False,False,False,Valid,2026-06
+LOC00643,2026-04-30,West,Mumbai,Service Road,Missing road name,Approved,Reviewer B,81,1.0,21,8.88425,75.51693,False,False,False,Valid,2026-04
+LOC00644,2026-03-22,Central,Bhopal,Service Road,Geometry mismatch,Approved,Reviewer C,58,15.0,17,8.82133,93.45798,False,False,False,Valid,2026-03
+LOC00645,2026-06-09,North,Jaipur,Residential Road,Incorrect classification,Approved,Reviewer B,53,16.0,5,25.67169,84.09679,False,False,False,Valid,2026-06
+LOC00646,2026-08-08,East,Guwahati,Primary Road,Missing road name,Approved,Reviewer E,76,15.0,12,28.74182,81.61669,False,False,False,Valid,2026-08
+LOC00647,2026-02-13,Central,Indore,Primary Road,Duplicate segment,Needs Review,Reviewer D,67,6.0,44,23.36414,77.05592,False,False,False,Valid,2026-02
+LOC00648,2026-02-07,North,Delhi,Primary Road,Incorrect classification,Approved,Reviewer D,111,5.0,27,19.32363,72.75223,False,False,False,Valid,2026-02
+LOC00649,2026-05-28,East,Kolkata,Primary Road,None,Approved,Reviewer E,26,11.0,52,11.0604,68.06901,False,False,False,Valid,2026-05
+LOC00650,2026-07-08,Central,Indore,Primary Road,Incorrect classification,Rejected,Reviewer D,101,13.0,57,12.26269,74.58432,False,False,False,Valid,2026-07
